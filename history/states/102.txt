@@ -1,0 +1,33 @@
+
+state={
+	id=102
+	name="STATE_102"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = BAY
+		victory_points = {
+			686 7 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 4
+
+		}
+		add_core_of = BAY
+		add_core_of = GER
+	}
+
+	provinces={
+		682 686 701 3670 3680 3683 6685 6703 9624 9643 11610 11627 
+	}
+	manpower=3722152
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

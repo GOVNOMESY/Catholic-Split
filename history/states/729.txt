@@ -1,0 +1,37 @@
+
+state={
+	id=729
+	name="STATE_729"
+	resources={
+		rubber=29.000
+	}
+
+	history={
+		owner = SRL
+		victory_points = {
+			7344 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			7344 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = SRL
+		add_claim_by = RAJ
+		add_claim_by = U28
+	}
+
+	provinces={
+		1213 4219 7260 7344 10201 10229 10287 12258 
+	}
+	manpower=2210748
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

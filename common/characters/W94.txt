@@ -1,0 +1,16 @@
+characters={
+	W94_tawhiao_ataarangikaahu={
+		name=W94_tawhiao_ataarangikaahu
+		portraits={
+			civilian={
+				large="GFX_Indonesia_Mohammad_Hatta"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

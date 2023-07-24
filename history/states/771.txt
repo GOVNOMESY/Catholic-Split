@@ -1,0 +1,31 @@
+
+state={
+	id=771
+	name="STATE_771"
+
+	history={
+		owner = U09
+		victory_points = {
+			1493 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = TUR
+		add_core_of = U00
+		add_claim_by = V65
+	}
+
+	provinces={
+		1493 1593 1649 4482 4549 4563 4958 5003 7477 7560 7563 7618 7635 7924 10357 10359 10406 10414 10485 10510 10742 12324 12359 
+	}
+	manpower=590392
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

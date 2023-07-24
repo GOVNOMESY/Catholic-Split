@@ -1,0 +1,38 @@
+units = {
+	fleet = {
+		name = "5th Fleet"
+		naval_base = 9417
+		task_force = {
+			name = "5th Fleet"
+			location = 9417
+			ship = { name = "Êàñòàìîíó" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = U09 } } }
+			ship = { name = "Êàñòàìîíó 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = U09 } } }
+			ship = { name = "Êàñòàìîíó 3" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = U09 } } }
+			ship = { name = "Êàñòàìîíó 4" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = U09 } } }
+			ship = { name = "Êàñòàìîíó 5" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = U09 } } }
+			ship = { name = "Êàñòàìîíó 6" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = U09 } } }
+			ship = { name = "Êàñòàìîíó 7" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = U09 } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "U09"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "U09"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

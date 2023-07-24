@@ -1,0 +1,28 @@
+
+state={
+	id=559
+	name="STATE_559"
+
+	history={
+		owner = W73
+		victory_points = {
+			13061 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		6211 12549 12634 13061 
+	}
+	manpower=175776
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

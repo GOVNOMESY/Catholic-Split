@@ -1,0 +1,118 @@
+﻿converted_war_strategies_HOL = {
+	enable = {
+		tag = HOL
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "GER"
+		value = 827
+	}
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 512
+	}
+	ai_strategy = {
+		type = conquer
+		id = "WLL"
+		value = 165
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W54"
+		value = 30
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CAN"
+		value = 23
+	}
+}
+
+converted_diplo_strategies_HOL = {
+	enable = {
+		tag = HOL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "CAN"
+		value = 251
+	}
+	ai_strategy = {
+		type = contain
+		id = "GER"
+		value = 209
+	}
+	ai_strategy = {
+		type = contain
+		id = "FRA"
+		value = 109
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "GER"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "WLL"
+		value = 154
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 123
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X53"
+		value = 40
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAN"
+		value = 30
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ARG"
+		value = 4
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BOL"
+		value = 2
+	}
+	ai_strategy = {
+		type = protect
+		id = "W54"
+		value = 33
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "GER"
+		value = 72
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BRA"
+		value = 67
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "AFG"
+		value = 58
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SER"
+		value = 42
+	}
+}

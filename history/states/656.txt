@@ -1,0 +1,36 @@
+
+state={
+	id=656
+	name="STATE_656"
+	resources={
+		aluminium=3.000
+		rubber=2.000
+		steel=2.000
+	}
+
+	history={
+		owner = U46
+		victory_points = {
+			1975 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = U46
+		add_core_of = W23
+		add_claim_by = W02
+	}
+
+	provinces={
+		1975 2056 12707 
+	}
+	manpower=348300
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

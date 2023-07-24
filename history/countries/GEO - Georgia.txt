@@ -1,0 +1,129 @@
+﻿capital = 763
+set_research_slots = 3
+
+oob = "GEO_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_transcaucasia
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1816.1.18"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 73
+	democratic = 25
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = ADU modifier = positive_30 }
+add_opinion_modifier = { target = AST modifier = negative_10 }
+add_opinion_modifier = { target = BOL modifier = positive_20 }
+add_opinion_modifier = { target = BOS modifier = positive_15 }
+add_opinion_modifier = { target = BUL modifier = positive_15 }
+add_opinion_modifier = { target = CAT modifier = positive_30 }
+add_opinion_modifier = { target = COL modifier = positive_20 }
+add_opinion_modifier = { target = DEN modifier = positive_15 }
+add_opinion_modifier = { target = ECU modifier = positive_20 }
+add_opinion_modifier = { target = ITA modifier = positive_5 }
+add_opinion_modifier = { target = SCA modifier = positive_5 }
+add_opinion_modifier = { target = SER modifier = negative_5 }
+add_opinion_modifier = { target = SIL modifier = positive_15 }
+add_opinion_modifier = { target = SLO modifier = positive_30 }
+add_opinion_modifier = { target = SOV modifier = positive_30 }
+add_opinion_modifier = { target = U03 modifier = positive_30 }
+add_opinion_modifier = { target = U04 modifier = positive_30 }
+add_opinion_modifier = { target = U06 modifier = positive_30 }
+add_opinion_modifier = { target = U18 modifier = positive_40 }
+add_opinion_modifier = { target = U20 modifier = positive_20 }
+add_opinion_modifier = { target = U21 modifier = positive_5 }
+add_opinion_modifier = { target = U22 modifier = negative_10 }
+add_opinion_modifier = { target = V78 modifier = positive_5 }
+add_opinion_modifier = { target = W54 modifier = positive_20 }
+add_opinion_modifier = { target = X62 modifier = positive_30 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_georgian
+}
+
+recruit_character = GEO_aeae_aa0aeaaca
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Baia Razikashvili"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { GEO }
+	}
+
+	create_operative_leader = {
+		name = "Baia Cholokashvili"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { GEO }
+	}
+
+	create_operative_leader = {
+		name = "Ana Avalishvili"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { GEO }
+	}
+
+	create_operative_leader = {
+		name = "Ilia Ìóñêåëèøâèëè"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { GEO }
+	}
+
+	create_operative_leader = {
+		name = "Êîíñòàíòèí Bagratuni"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { GEO }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

@@ -1,0 +1,39 @@
+
+state={
+	id=430
+	name="STATE_430"
+	resources={
+		aluminium=135.000
+		steel=43.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			11834 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			911 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = CAT
+		add_core_of = SPC
+		add_claim_by = ITA
+		add_claim_by = SPR
+	}
+
+	provinces={
+		911 956 958 3928 3959 3961 9728 9909 11711 11713 11834 11849 11875 11877 
+	}
+	manpower=2450764
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

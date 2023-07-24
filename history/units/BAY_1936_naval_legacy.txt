@@ -1,0 +1,45 @@
+units = {
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 3326
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 3326
+			ship = { name = "Âèòòåëüñáàõ" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Ïðèíöðåãåíò Ëóèòïîëüä" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Âåëüô" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Áàéåðí" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Ôîí äåð Òàíí" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Íèáåëóíãåí" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Âàëüêþðå" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Ôþðò" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Èíãîëüøòàäò" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Ìþíõåí" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Áàìáåðã" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Áàéðîéò" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Íþðíáåðã" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BAY } } }
+			ship = { name = "Ïàññàó" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BAY } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "BAY"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "BAY"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

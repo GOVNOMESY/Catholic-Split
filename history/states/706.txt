@@ -1,0 +1,33 @@
+
+state={
+	id=706
+	name="STATE_706"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = SER
+		victory_points = {
+			6857 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = GRE
+		add_core_of = SER
+	}
+
+	provinces={
+		878 893 3937 6857 6923 9818 9862 11813 
+	}
+	manpower=828424
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=675
+	name="STATE_675"
+
+	history={
+		owner = U46
+		victory_points = {
+			7978 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = U46
+		add_claim_by = W02
+	}
+
+	provinces={
+		7963 7978 
+	}
+	manpower=687948
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

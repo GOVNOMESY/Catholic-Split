@@ -1,0 +1,19 @@
+
+state={
+	id=344
+	name="STATE_344"
+	impassable = yes
+
+	history={
+		owner = FRA
+	}
+
+	provinces={
+		2049 10731 12711 12842 
+	}
+	manpower=28984
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

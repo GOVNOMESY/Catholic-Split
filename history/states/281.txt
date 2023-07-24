@@ -1,0 +1,35 @@
+
+state={
+	id=281
+	name="STATE_281"
+
+	history={
+		owner = EST
+		victory_points = {
+			3288 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			3288 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = V20
+		add_core_of = W72
+		add_claim_by = EST
+		add_claim_by = V76
+	}
+
+	provinces={
+		281 348 395 3288 3384 6332 11265 
+	}
+	manpower=1550520
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

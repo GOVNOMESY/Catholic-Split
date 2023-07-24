@@ -1,0 +1,35 @@
+
+state={
+	id=704
+	name="STATE_704"
+	resources={
+		aluminium=9.000
+		chromium=2.000
+	}
+
+	history={
+		owner = SER
+		victory_points = {
+			3939 15 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = KOS
+		add_core_of = SER
+		add_core_of = YUG
+	}
+
+	provinces={
+		3939 6940 9874 
+	}
+	manpower=993612
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

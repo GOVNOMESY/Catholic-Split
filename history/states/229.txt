@@ -1,0 +1,37 @@
+
+state={
+	id=229
+	name="STATE_229"
+
+	history={
+		owner = X73
+		victory_points = {
+			12829 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = V28
+		add_core_of = W58
+		add_core_of = W61
+		add_claim_by = X26
+		add_claim_by = X39
+		add_claim_by = X73
+		W58 = {
+			set_province_controller = 10866
+		}
+	}
+
+	provinces={
+		1199 1908 2054 2092 4149 4971 4984 7905 7998 10847 10866 12041 12718 12829 12844 12876 12886 
+	}
+	manpower=7671324
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,16 @@
+characters={
+	X77_aioii_van_der_werff={
+		name=X77_aioii_van_der_werff
+		portraits={
+			civilian={
+				large="gfx/leaders/USA/Portrait_USA_Franklin_Roosevelt.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

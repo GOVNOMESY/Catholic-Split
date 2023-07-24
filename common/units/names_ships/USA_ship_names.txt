@@ -1,0 +1,176 @@
+﻿USA_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Þæíàÿ Êàðîëèíà" "Ìè÷èãàí" "Äýëàâåð" "Ñåâåðíàÿ Äàêîòà" "Ôëîðèäà" "Þòà" "Âàéîìèíã" "Àðêàíçàñ" "Íüþ-Éîðê" "Òåõàñ" "Íåâàäà" "Îêëàõîìà" "Ïåíñèëüâàíèÿ" "Àðèçîíà" "Íüþ-Ìåêñèêî" "Ìèññèñèïè" "Àéäàõî" "Òåííåññè" "Êàëèôîðíèÿ" "Êîëîðàäî" "Ìýðèëåíä" "Çàïàäíàÿ Âèðäæèíèÿ" "Âàøèíãòîí" 
+	}
+}
+
+USA_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Íüþ Àéðîíñàéäç" "Äàíäåðáåðã" 
+	}
+}
+
+USA_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Àìåðèêà" "Êîëàìáóñ" "Ôðàíêëèí" "Èíäèïåíäåíñ" "Âàøèíãòîí" "×èïåâà" "Íüþ-Îðëåàí" "Ïåíñèëüâàíèÿ" "Äýëàâåð" "Âåðìîíò" "Íüþ Ãåìïøèð" "Âèðäæèíèÿ" "Íüþ-Éîðê" "Îãàéî" "Ñåâåðíàÿ Êàðîëèíà" 
+	}
+}
+
+USA_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Àòëàíòà" "Áîñòîí" "×èêàãî" "Ãàðâàðä" "Âåçóâèé" "Áåäæåð" "Ïàíòåð" "Éåëü" "Ïðåèð" "Áóôôàëî" "ßíêè" "Éîñåìèòè" "Äèêñè" "Ñåíò-Ëóèñ" "Ñåíò-Ïîë" "Íüþ-Îðëåàí" "Îëáàíè" 
+	}
+}
+
+USA_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Àòëàíòà" "Áîñòîí" "×èêàãî" "Ãàðâàðä" "Âåçóâèé" "Áåäæåð" "Ïàíòåð" "Éåëü" "Ïðåèð" "Áóôôàëî" "ßíêè" "Éîñåìèòè" "Äèêñè" "Ñåíò-Ëóèñ" "Ñåíò-Ïîë" "Íüþ-Îðëåàí" "Îëáàíè" 
+	}
+}
+
+USA_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Ìîíèòîð" "Ïàññàèê" "Ìîíòîê" "Íýõýíò" "Ïýòýïñêî" "Óèõîêåí" "Ñýíãýìîí" "Êýòñêèëë" "Íàíòóêåò" "Ëèõàé" "Êîìàí÷" "Íåîøî" "Îñåéäæ" "Îçàðê" "Ìàðèåòòà" "Ñàíäàñêè" "Ðîàíîóê" "Êàíîíèêóñ" "Ñàóãóñ" "Òåêóìçå" "Ìàíõýòòåí" "Ìýõîïýê" "Óàéýíäîò" "Àÿêñ" "Êýòîáà" "Îíåîòà" "Ìèëóîêè" "Âèííåáàãî" "×èêàñî" "Êèêàïó" "Äèêòýéòîð" "Îíîíäàãà" "Ïüþðèòýí" "Ìèàíòîíîìîõ" "Ìîíýäíîê" "Àãàìåíòèêóñ" "Òîíàâàíäà" "Êàëàìàçó" "Ïàññàêîíàâåé" "Êóèíñèãàìîíä" "Øàêàìàêñîí" 
+	}
+}
+
+USA_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Ìîíèòîð" "Ïàññàèê" "Ìîíòîê" "Íýõýíò" "Ïýòýïñêî" "Óèõîêåí" "Ñýíãýìîí" "Êýòñêèëë" "Íàíòóêåò" "Ëèõàé" "Êîìàí÷" "Íåîøî" "Îñåéäæ" "Îçàðê" "Ìàðèåòòà" "Ñàíäàñêè" "Ðîàíîóê" "Êàíîíèêóñ" "Ñàóãóñ" "Òåêóìçå" "Ìàíõýòòåí" "Ìýõîïýê" "Óàéýíäîò" "Àÿêñ" "Êýòîáà" "Îíåîòà" "Ìèëóîêè" "Âèííåáàãî" "×èêàñî" "Êèêàïó" "Äèêòýéòîð" "Îíîíäàãà" "Ïüþðèòýí" "Ìèàíòîíîìîõ" "Ìîíýäíîê" "Àãàìåíòèêóñ" "Òîíàâàíäà" "Êàëàìàçó" "Ïàññàêîíàâåé" "Êóèíñèãàìîíä" "Øàêàìàêñîí" 
+	}
+}
+
+USA_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Íüþàðê" "×àðëüñòîí" "Áàëòèìîð" "Ôèëàäåëüôèÿ" "Ñàí-Ôðàíöèñêî" "Îëèìïèÿ" "Öèíöèííàòè" "Ðîëè" "Ìîíòãîìåðè" "Äåòðîéò" "Ìàðáëõåä" "Êîëóìáèÿ" "Ìèííåàïîëèñ" "Äåíâåð" "Äå Ìóàí" "×àòòàíóãà" "Ãàëâåñòîí" "Òàêîìà" "Êëèâëåíä" "Ìèëóîêè" "×àðëüñòîí" 
+	}
+}
+
+USA_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Íüþàðê" "×àðëüñòîí" "Áàëòèìîð" "Ôèëàäåëüôèÿ" "Ñàí-Ôðàíöèñêî" "Îëèìïèÿ" "Öèíöèííàòè" "Ðîëè" "Ìîíòãîìåðè" "Äåòðîéò" "Ìàðáëõåä" "Êîëóìáèÿ" "Ìèííåàïîëèñ" "Äåíâåð" "Äå Ìóàí" "×àòòàíóãà" "Ãàëâåñòîí" "Òàêîìà" "Êëèâëåíä" "Ìèëóîêè" "×àðëüñòîí" 
+	}
+}
+
+USA_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Àòëàíòà" "Áîñòîí" "×èêàãî" "Ãàðâàðä" "Âåçóâèé" "Áåäæåð" "Ïàíòåð" "Éåëü" "Ïðåèð" "Áóôôàëî" "ßíêè" "Éîñåìèòè" "Äèêñè" "Ñåíò-Ëóèñ" "Ñåíò-Ïîë" "Íüþ-Îðëåàí" "Îëáàíè" 
+	}
+}
+
+USA_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { USA }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Àäàìñ" "Áîñòîí" "Áðýíäèóàéí" "×èçïèê" "Êîëóìáèÿ" "Êîíãðåññ" "Êîíòåëåéøí" "Êîíñòèòüþøí" "Êàìáåðëýíä" "Ýññåêñ" "Äæåíåðàë Ãðèí" "Ãóèððüåð" "Ãóäçîí" "Èíäèïåíäåíñ" "Èíñåäæåíò" "ßâà" "Äæîí Àäàìñ" "Ìàêåäîíèàí" "Ìîõîê" "Íüþ-Éîðê" "Ôèëàäåëüôèÿ" "Ïëåòòñáóðã" "Ïîòîìàê" "Ïðåçèäåíò" "Ðýðèòýí" "Ñàáèí" "Ñàíòè" "Ñàâàííà" "Ñýíò-Ëîóðåíñ" "Ñüþïåðèîð" "Þíàéòåä Ñòýéòñ" 
+	}
+}
+

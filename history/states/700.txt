@@ -1,0 +1,34 @@
+
+state={
+	id=700
+	name="STATE_700"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = SER
+		victory_points = {
+			9894 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = SER
+		add_core_of = YUG
+		add_claim_by = BOS
+	}
+
+	provinces={
+		953 982 9894 9922 11741 11845 11872 11899 
+	}
+	manpower=849776
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

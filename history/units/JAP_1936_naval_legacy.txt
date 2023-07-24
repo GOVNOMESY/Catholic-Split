@@ -1,0 +1,71 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 12031
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 12031
+			ship = { name = "Õèðîñèìà" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õèðîñèìà 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Òèáà" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Àêèòà" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õàêîäàòý" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Òèáà 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õèðîñèìà 3" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õàêîäàòý 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õèðîñèìà 4" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õèðîñèìà 5" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Òèáà 3" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Êîáå" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õèðîñèìà 6" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õàêîäàòý 3" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Êîáå 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Òèáà 4" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Êîáå 3" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Ôóêóîêà" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õèðîñèìà 7" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õàêîäàòý 4" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õèðîñèìà 8" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Òèáà 5" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õèðîñèìà 9" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Íàíèâà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Òàêàòèõî" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Ìàöóñèìà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Èöóêóñèìà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õàñèäàòå" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Òèýäà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "ßýÿìà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "¨ñèíî" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õèýé" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õàðóíà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Êèðèñèìà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Òèòîñý" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Êàñàãè" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Íèèòàêà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Þðà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Êèíó" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+			ship = { name = "Õàêîäàòý 5" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = JAP } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "JAP"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "JAP"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

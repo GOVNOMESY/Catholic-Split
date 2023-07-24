@@ -1,0 +1,34 @@
+
+state={
+	id=160
+	name="STATE_160"
+	resources={
+		oil=10.000
+		steel=24.000
+	}
+
+	history={
+		owner = CAN
+		victory_points = {
+			10709 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = CAN
+		add_core_of = X61
+	}
+
+	provinces={
+		1752 1836 1870 3719 4759 4772 6722 7877 10685 10709 12566 12685 
+	}
+	manpower=1023144
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

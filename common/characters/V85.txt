@@ -1,0 +1,36 @@
+characters={
+	V85_tomaguee_musconetcong={
+		name=V85_tomaguee_musconetcong
+		portraits={
+			army={
+				large="GFX_native_north_american_general"
+			}
+			army={
+				small="GFX_native_north_american_general"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	V85_quenaghtoothmait_quinebaug={
+		name=V85_quenaghtoothmait_quinebaug
+		portraits={
+			civilian={
+				large="GFX_Lakota_Russell_Means"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

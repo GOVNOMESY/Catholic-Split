@@ -1,0 +1,35 @@
+
+state={
+	id=187
+	name="STATE_187"
+	resources={
+		aluminium=10.000
+	}
+
+	history={
+		owner = CSA
+		victory_points = {
+			12489 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = USA
+		add_core_of = X42
+		add_core_of = X43
+		add_claim_by = CSA
+	}
+
+	provinces={
+		1503 1646 4444 4625 7485 7543 10355 10477 12458 12489 12778 
+	}
+	manpower=971492
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

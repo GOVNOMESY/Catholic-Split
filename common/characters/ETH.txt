@@ -1,0 +1,16 @@
+characters={
+	ETH_king_melaku_iii={
+		name=ETH_king_melaku_iii
+		portraits={
+			civilian={
+				large="GFX_SUD_Abd_Mahdi"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

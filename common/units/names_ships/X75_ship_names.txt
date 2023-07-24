@@ -1,0 +1,176 @@
+﻿X75_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" "Henrik af Trolle" "Carl August EhrensvÃ¤rd" "Fredrik" "Johan" "Manligheten" "Dristigheten" "Sverige" "Ãss" "Vanr" "Ãlfr" "JÃ¶tunn" "Ulrik Christian GyldenlÃ¸ve" "KÃ¸benhavn" "Ã…rhus" "Ã…lborg" "Odense" "Fredriksberg" "Esbjerg" "NÃ¸rrejyske Ã˜" "Fyn" "JÃ³tlandshaf" 
+	}
+}
+
+X75_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"GÃ¶teborg" "MalmÃ¶" "Uppsala" "VÃ¤sterÃ¥s" "Ã–rebro" "LinkÃ¶ping" "Helsingborg" "NynÃ¤shamn" "Karlshamn" "Halmstad" "Blenda" "Astrid" "Ellida" "Sleipner" "Viking" "Frithjof" "Rjukan" "Sarpen" "Lougen" "Glommen" "Helgoland" "Danmark" "Gorm" "Lindormen" "Odin" "Rolf Krake" "Tordenskjold" "Peder Skram" "Dannebrog" "Gorm" "Olfert Fischer" "Absalon" 
+	}
+}
+
+X75_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" "Stockholm" "FÃ¶rsiktigheten" "Tapperheten" "Kung Adolph Fredric" "Henrik" "Tomas" "Freia" "Desideira" "St Olaf" "Kong Sverre" "Ellida" "Nordssthernen" "Nornen" "Nidaros" "Ã˜rnen" "Prins Christian Frederik" "Skjold" "Absalon" "Ingolf" "Dannebrog" "Dagmar" "Gesjer" "Dronning Marie" "Waldemar" "Fredrik" 
+	}
+}
+
+X75_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"BjÃ¶rn JÃ¤rnsida" "Erik SegersÃ¤ll" "Gardarr Svavarsson" "Birka" "AsgÃ¥rd" "Kraken" "BÃ¤ckahÃ¤st" "StorsjÃ¶n" "VÃ¤nern" "VÃ¤ttern" "Heimdal" "Fridtjof Nansen" "Nordkapp" "Esbern Snare" "Fylla" "FÃ¦rÃ¸erne" "GrÃ¸nland" "VÃ­kingr" "Harald Klak" "Svend TveskÃ¦g" "Kattegat" "Ã˜resund" "Silkeborg" 
+	}
+}
+
+X75_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"BjÃ¶rn JÃ¤rnsida" "Erik SegersÃ¤ll" "Gardarr Svavarsson" "Birka" "AsgÃ¥rd" "Kraken" "BÃ¤ckahÃ¤st" "StorsjÃ¶n" "VÃ¤nern" "VÃ¤ttern" "Heimdal" "Fridtjof Nansen" "Nordkapp" "Esbern Snare" "Fylla" "FÃ¦rÃ¸erne" "GrÃ¸nland" "VÃ­kingr" "Harald Klak" "Svend TveskÃ¦g" "Kattegat" "Ã˜resund" "Silkeborg" 
+	}
+}
+
+X75_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"John Ericsson" "Loke" "SkÃ¶ld" "Tirfing" "TordÃ¶n" "Berserk" "BjÃ¶rn" "Folke" "SÃ¶lve" "Ulf" "Fenris" "Garmer" "Gerda" "Hildur" "Skorpionen" "MjÃ¸lner" "Thrudvang" "Freia" "Diana" "Lindormen" "StÃ¸ren" "StubberkÃ¸bing" "Gejser" "Kiel" "Falster" "Narhvalen" "Tumleren" 
+	}
+}
+
+X75_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"John Ericsson" "Loke" "SkÃ¶ld" "Tirfing" "TordÃ¶n" "Berserk" "BjÃ¶rn" "Folke" "SÃ¶lve" "Ulf" "Fenris" "Garmer" "Gerda" "Hildur" "Skorpionen" "MjÃ¸lner" "Thrudvang" "Freia" "Diana" "Lindormen" "StÃ¸ren" "StubberkÃ¸bing" "Gejser" "Kiel" "Falster" "Narhvalen" "Tumleren" 
+	}
+}
+
+X75_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Claes Uggla" "Psilander" "Claes Horn" "Jacob Bakke" "Ornen" "Fylgia" "Tre Kronor" "GÃ¶ta Lejon" "Ã–stersund" "Borgholm" "Thor" "Odin" "Njord" "Freyr" "Tyr" "Bragl" "Heimdall" "Hoder" "Vidar" "Ale" "Ullr" "Forseti" "Fyen" "Geiser" "Heimdal" "Hekla" "St. Thomas" "Valkyrien" "Herluf Trolle" "SÃ¸eormen" "SusÃ¥en" "GudenÃ¥en" 
+	}
+}
+
+X75_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Claes Uggla" "Psilander" "Claes Horn" "Jacob Bakke" "Ornen" "Fylgia" "Tre Kronor" "GÃ¶ta Lejon" "Ã–stersund" "Borgholm" "Thor" "Odin" "Njord" "Freyr" "Tyr" "Bragl" "Heimdall" "Hoder" "Vidar" "Ale" "Ullr" "Forseti" "Fyen" "Geiser" "Heimdal" "Hekla" "St. Thomas" "Valkyrien" "Herluf Trolle" "SÃ¸eormen" "SusÃ¥en" "GudenÃ¥en" 
+	}
+}
+
+X75_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"BjÃ¶rn JÃ¤rnsida" "Erik SegersÃ¤ll" "Gardarr Svavarsson" "Birka" "AsgÃ¥rd" "Kraken" "BÃ¤ckahÃ¤st" "StorsjÃ¶n" "VÃ¤nern" "VÃ¤ttern" "Heimdal" "Fridtjof Nansen" "Nordkapp" "Esbern Snare" "Fylla" "FÃ¦rÃ¸erne" "GrÃ¸nland" "VÃ­kingr" "Harald Klak" "Svend TveskÃ¦g" "Kattegat" "Ã˜resund" "Silkeborg" 
+	}
+}
+
+X75_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { X75 }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Packa" "Svarta Ã–rn" "Jarramas" "Vainqueur" "Delphin" "Illerim" "Lilla Phoenix" "VÃ¤xjÃ¶" "GÃ¤vle" "Baron Gustaf Bonde" "Freia" "Desideira" "St Olaf" "Kong Sverre" "Ellida" "Nordssthernen" "Nornen" "Nidaros" "Ã˜rnen" "Najaden" "Hummer" "Stralsund" "SÃ¸ridder" "Leopard" "Raae" "Esbern Snare" "Ã˜rnen" "SjÃ¦lland" "Gefion" "Thetis" "Niels Juel" "Rota" 
+	}
+}
+

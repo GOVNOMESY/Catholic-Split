@@ -1,0 +1,33 @@
+
+state={
+	id=19
+	name="STATE_19"
+	resources={
+		tungsten=2.000
+	}
+
+	history={
+		owner = AFG
+		victory_points = {
+			2017 25 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = AFG
+		add_claim_by = X73
+	}
+
+	provinces={
+		1948 1995 2017 2062 2078 2101 4949 5020 5064 7916 10896 12788 
+	}
+	manpower=1578940
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

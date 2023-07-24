@@ -1,0 +1,33 @@
+
+state={
+	id=673
+	name="STATE_673"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = U46
+		victory_points = {
+			4997 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = U46
+		add_claim_by = W02
+	}
+
+	provinces={
+		4997 5028 
+	}
+	manpower=926996
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

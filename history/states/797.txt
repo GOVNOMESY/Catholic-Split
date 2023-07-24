@@ -1,0 +1,33 @@
+
+state={
+	id=797
+	name="STATE_797"
+
+	history={
+		owner = U21
+		victory_points = {
+			7617 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			7617 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = U21
+	}
+
+	provinces={
+		1633 4611 4624 7617 7630 10482 
+	}
+	manpower=543544
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

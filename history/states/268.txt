@@ -1,0 +1,30 @@
+
+state={
+	id=268
+	name="STATE_268"
+
+	history={
+		owner = U39
+		victory_points = {
+			10827 15 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = U39
+		add_claim_by = EGY
+	}
+
+	provinces={
+		8052 10739 10827 
+	}
+	manpower=205268
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

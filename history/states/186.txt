@@ -1,0 +1,38 @@
+
+state={
+	id=186
+	name="STATE_186"
+	resources={
+		oil=16.000
+	}
+
+	history={
+		owner = BAS
+		victory_points = {
+			7123 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			11106 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = BAS
+		add_core_of = SCA
+		add_claim_by = CUB
+		add_claim_by = U24
+	}
+
+	provinces={
+		379 3284 7123 11106 13012 
+	}
+	manpower=613816
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

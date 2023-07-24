@@ -1,0 +1,38 @@
+
+state={
+	id=579
+	name="STATE_579"
+	resources={
+		steel=1.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = W99
+		victory_points = {
+			11929 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			11929 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = BAN
+		add_core_of = V28
+		add_core_of = X73
+	}
+
+	provinces={
+		4616 7565 7662 9993 10389 10416 10443 11929 12338 12423 13208 
+	}
+	manpower=7690376
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

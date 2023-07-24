@@ -1,0 +1,33 @@
+
+state={
+	id=163
+	name="STATE_163"
+	resources={
+		aluminium=5.000
+	}
+
+	history={
+		owner = CAN
+		victory_points = {
+			4567 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = CAN
+		add_claim_by = V07
+	}
+
+	provinces={
+		4567 4597 7586 
+	}
+	manpower=181508
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

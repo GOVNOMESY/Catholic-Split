@@ -1,0 +1,16 @@
+characters={
+	U39_ahmad_aeu_aaccaae={
+		name=U39_ahmad_aeu_aaccaae
+		portraits={
+			civilian={
+				large="GFX_PAL_Abraham"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

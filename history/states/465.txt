@@ -1,0 +1,36 @@
+
+state={
+	id=465
+	name="STATE_465"
+	resources={
+		steel=16.000
+	}
+
+	history={
+		owner = JAP
+		victory_points = {
+			6994 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			9865 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = JAP
+	}
+
+	provinces={
+		1024 1063 1165 3848 4067 4118 4122 4153 6870 6873 6994 7169 9807 9859 9865 11847 12056 
+	}
+	manpower=4615304
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

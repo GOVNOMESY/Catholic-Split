@@ -1,0 +1,31 @@
+
+state={
+	id=199
+	name="STATE_199"
+
+	history={
+		owner = CSA
+		victory_points = {
+			6850 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = USA
+		add_core_of = V00
+		add_claim_by = CSA
+	}
+
+	provinces={
+		801 3941 3975 4627 6850 6958 6971 7466 7588 7646 9923 10441 11888 
+	}
+	manpower=764696
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

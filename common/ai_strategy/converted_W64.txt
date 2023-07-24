@@ -1,0 +1,73 @@
+﻿converted_war_strategies_W64 = {
+	enable = {
+		tag = W64
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "W73"
+		value = 1113
+	}
+}
+
+converted_diplo_strategies_W64 = {
+	enable = {
+		tag = W64
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "W73"
+		value = 213
+	}
+	ai_strategy = {
+		type = contain
+		id = "KOR"
+		value = 69
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W73"
+		value = 400
+	}
+	ai_strategy = {
+		type = alliance
+		id = "JAP"
+		value = 122
+	}
+	ai_strategy = {
+		type = alliance
+		id = "VIN"
+		value = 10
+	}
+	ai_strategy = {
+		type = alliance
+		id = "PHI"
+		value = 2
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "KOR"
+		value = 87
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X34"
+		value = 70
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X28"
+		value = 61
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "MAN"
+		value = 44
+	}
+}

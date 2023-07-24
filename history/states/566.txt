@@ -1,0 +1,36 @@
+
+state={
+	id=566
+	name="STATE_566"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = HOL
+		victory_points = {
+			391 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 1
+			9498 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = HOL
+	}
+
+	provinces={
+		68 391 3211 3314 6241 9498 
+	}
+	manpower=3751752
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

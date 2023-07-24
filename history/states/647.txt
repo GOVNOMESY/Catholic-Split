@@ -1,0 +1,37 @@
+
+state={
+	id=647
+	name="STATE_647"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = U46
+		victory_points = {
+			4108 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			7069 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = U46
+		add_core_of = W76
+		add_core_of = X81
+	}
+
+	provinces={
+		1102 1207 4108 4139 7069 10023 10107 11943 
+	}
+	manpower=829712
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,76 @@
+characters={
+	U11_nadir_abdullayev={
+		name=U11_nadir_abdullayev
+		portraits={
+			army={
+				large="GFX_Portrait_Arabia_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Arabia_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U11_nosret_rahmon={
+		name=U11_nosret_rahmon
+		portraits={
+			army={
+				large="GFX_PAL_Hasan_Salama"
+			}
+			army={
+				small="GFX_PAL_Hasan_Salama"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U11_hamzeh_rahmon={
+		name=U11_hamzeh_rahmon
+		portraits={
+			army={
+				large="GFX_EGY_Mohamed_Haidar"
+			}
+			army={
+				small="GFX_EGY_Mohamed_Haidar"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U11_hamzeh_abdulov={
+		name=U11_hamzeh_abdulov
+		portraits={
+			civilian={
+				large="gfx/leaders/KUR/portrait_kur_seyid_riza.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

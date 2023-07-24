@@ -1,0 +1,68 @@
+﻿converted_war_strategies_U05 = {
+	enable = {
+		tag = U05
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "EGY"
+		value = 2117
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SAU"
+		value = 730
+	}
+}
+
+converted_diplo_strategies_U05 = {
+	enable = {
+		tag = U05
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = antagonize
+		id = "SAU"
+		value = 267
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "EGY"
+		value = 267
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "AFG"
+		value = 24
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SPC"
+		value = 3
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U25"
+		value = 83
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U04"
+		value = 75
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X53"
+		value = 43
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U16"
+		value = 26
+	}
+}

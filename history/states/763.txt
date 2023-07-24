@@ -1,0 +1,39 @@
+
+state={
+	id=763
+	name="STATE_763"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = U09
+		victory_points = {
+			11617 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			772 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = GEO
+		add_core_of = U09
+		add_claim_by = ARM
+		add_claim_by = DAG
+		add_claim_by = X55
+	}
+
+	provinces={
+		672 772 1455 1530 1599 3656 3667 4534 4605 6436 6669 6671 9632 9702 11599 11609 11617 11647 12309 
+	}
+	manpower=603084
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

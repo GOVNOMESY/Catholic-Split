@@ -1,0 +1,37 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 1179
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 1179
+			ship = { name = "Áåíäåð-Àááàñ" definition = destroyer start_experience_factor = 0.10066 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Àôãàíèñòàí" definition = destroyer start_experience_factor = 0.07775 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Áåíäåð-Àááàñ 2" definition = destroyer start_experience_factor = 0.11275 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Áåíäåð-Àááàñ 3" definition = destroyer start_experience_factor = 0.11084 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Êàáóë" definition = destroyer start_experience_factor = 0.0723 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Ìàçàð-è-Øàðèô" definition = destroyer start_experience_factor = 0.07267 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Ñóõàð" definition = destroyer start_experience_factor = 0.08525 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Øåð Àëè Õàí" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "ßêóá Õàí" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Àáäóðàõìàí" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Ôàéçàáàä" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Ãåðàò" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Ïàøòóí" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+			ship = { name = "Ãàçíè" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = AFG version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "AFG"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

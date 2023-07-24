@@ -1,0 +1,32 @@
+
+state={
+	id=474
+	name="STATE_474"
+
+	history={
+		owner = W54
+		victory_points = {
+			4848 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			4848 = {
+				naval_base = 1
+			}
+			air_base = 5
+
+		}
+		add_core_of = W54
+	}
+
+	provinces={
+		4848 
+	}
+	manpower=56
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

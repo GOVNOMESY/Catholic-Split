@@ -1,0 +1,16 @@
+characters={
+	W85_o._von_w.={
+		name=W85_o._von_w.
+		portraits={
+			civilian={
+				large="GFX_Bavaria_Rupprecht_von_Bayern"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

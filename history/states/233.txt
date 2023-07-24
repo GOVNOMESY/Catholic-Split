@@ -1,0 +1,31 @@
+
+state={
+	id=233
+	name="STATE_233"
+
+	history={
+		owner = EGY
+		victory_points = {
+			3950 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ARM
+		add_claim_by = GRE
+		add_claim_by = V61
+	}
+
+	provinces={
+		3903 3935 3950 3979 6919 6950 9777 9868 9954 11797 
+	}
+	manpower=814760
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

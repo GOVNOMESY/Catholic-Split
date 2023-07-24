@@ -1,0 +1,36 @@
+
+state={
+	id=29
+	name="STATE_29"
+
+	history={
+		owner = SAU
+		victory_points = {
+			8051 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			8051 = {
+				naval_base = 1
+			}
+			air_base = 10
+
+		}
+		add_core_of = QAT
+		add_core_of = X30
+		add_claim_by = IRQ
+		add_claim_by = SAU
+		add_claim_by = SYR
+	}
+
+	provinces={
+		8051 
+	}
+	manpower=174284
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

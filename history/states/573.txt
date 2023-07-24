@@ -1,0 +1,30 @@
+
+state={
+	id=573
+	name="STATE_573"
+
+	history={
+		owner = SUD
+		victory_points = {
+			2046 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SUD
+		add_claim_by = V89
+	}
+
+	provinces={
+		2046 4138 4963 7989 8105 10745 10902 12796 12826 12836 12881 
+	}
+	manpower=262388
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

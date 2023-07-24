@@ -1,0 +1,38 @@
+
+state={
+	id=481
+	name="STATE_481"
+	resources={
+		aluminium=1.000
+		oil=49.000
+	}
+
+	history={
+		owner = MEX
+		victory_points = {
+			3840 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			3840 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = MEX
+		add_core_of = X10
+		add_claim_by = USA
+	}
+
+	provinces={
+		823 986 1562 3784 3840 6861 6881 7517 7986 9637 9814 9855 10483 11757 11795 11859 11876 12374 
+	}
+	manpower=273628
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

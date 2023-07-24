@@ -1,0 +1,35 @@
+
+state={
+	id=468
+	name="STATE_468"
+	resources={
+		tungsten=1.000
+	}
+
+	history={
+		owner = W30
+		victory_points = {
+			7803 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = MON
+		add_core_of = U29
+		add_core_of = W16
+		add_core_of = W30
+	}
+
+	provinces={
+		4783 5031 7511 7727 7803 8055 8102 8127 10629 10724 10770 10899 12750 12776 12880 
+	}
+	manpower=301372
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

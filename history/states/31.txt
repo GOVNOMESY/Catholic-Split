@@ -1,0 +1,36 @@
+
+state={
+	id=31
+	name="STATE_31"
+
+	history={
+		owner = SAU
+		victory_points = {
+			10760 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			10760 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = OMA
+		add_core_of = SAU
+		add_claim_by = IRQ
+		add_claim_by = SYR
+		add_claim_by = W63
+	}
+
+	provinces={
+		1947 2018 5049 8002 8020 10760 
+	}
+	manpower=303644
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

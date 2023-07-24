@@ -1,0 +1,36 @@
+characters={
+	W54_porfirio_bustamante={
+		name=W54_porfirio_bustamante
+		portraits={
+			army={
+				large="GFX_Portrait_South_America_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_South_America_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W54_aaea0eaii_na0iaiuaai_aaeu_eanoeeeui={
+		name=W54_aaea0eaii_na0iaiuaai_aaeu_eanoeeeui
+		portraits={
+			civilian={
+				large="GFX_Chile_Arturo_Alessandri_Palma"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

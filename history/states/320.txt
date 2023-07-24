@@ -1,0 +1,39 @@
+
+state={
+	id=320
+	name="STATE_320"
+	resources={
+		steel=30.000
+	}
+
+	history={
+		owner = FRA
+		victory_points = {
+			6657 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			6657 = {
+				naval_base = 10
+			}
+			air_base = 2
+
+		}
+		add_core_of = FRA
+		add_core_of = OCC
+		add_core_of = V19
+		add_claim_by = SPC
+	}
+
+	provinces={
+		595 625 629 655 3598 6657 6792 9597 11582 11869 
+	}
+	manpower=2143812
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

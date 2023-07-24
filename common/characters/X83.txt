@@ -1,0 +1,16 @@
+characters={
+	X83_ti_abel_eieaiaooi={
+		name=X83_ti_abel_eieaiaooi
+		portraits={
+			civilian={
+				large="gfx/leaders/LIB/Portrait_LIB_edwin_barclay.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

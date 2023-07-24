@@ -1,0 +1,37 @@
+
+state={
+	id=374
+	name="STATE_374"
+	resources={
+		steel=42.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			9522 15 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 2
+			air_base = 10
+
+		}
+		add_core_of = GER
+		add_core_of = U01
+		add_core_of = V27
+		add_core_of = V92
+		add_core_of = W05
+		add_claim_by = X36
+	}
+
+	provinces={
+		529 587 3444 6469 6570 9482 9522 
+	}
+	manpower=5505664
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,58 @@
+﻿BLR = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Áåëàðóñü" "Ìèíñê" "Áðåñò" "Ãðîäíî" "Ãîìåëü" "Ìîãèëåâ" "Âèòåáñê" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Áåëàðóñü" "Ìèíñê" "Áðåñò" "Ãðîäíî" "Ãîìåëü" "Ìîãèëåâ" "Âèòåáñê" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Áåëàðóñü" "Ìèíñê" "Áðåñò" "Ãðîäíî" "Ãîìåëü" "Ìîãèëåâ" "Âèòåáñê" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Áåëàðóñü" "Ìèíñê" "Áðåñò" "Ãðîäíî" "Ãîìåëü" "Ìîãèëåâ" "Âèòåáñê" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Áåëàðóñü" "Ìèíñê" "Áðåñò" "Ãðîäíî" "Ãîìåëü" "Ìîãèëåâ" "Âèòåáñê" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Áåëàðóñü" "Ìèíñê" "Áðåñò" "Ãðîäíî" "Ãîìåëü" "Ìîãèëåâ" "Âèòåáñê" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Áåëàðóñü" "Ìèíñê" "Áðåñò" "Ãðîäíî" "Ãîìåëü" "Ìîãèëåâ" "Âèòåáñê" 
+		}
+	}
+
+}

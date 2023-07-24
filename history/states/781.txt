@@ -1,0 +1,31 @@
+
+state={
+	id=781
+	name="STATE_781"
+
+	history={
+		owner = U11
+		victory_points = {
+			12526 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U11
+		add_claim_by = SIK
+		add_claim_by = W89
+	}
+
+	provinces={
+		1708 1783 1844 4714 4823 4849 7693 7737 7850 7866 12526 12590 12601 12737 
+	}
+	manpower=511516
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

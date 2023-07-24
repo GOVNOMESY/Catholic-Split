@@ -1,0 +1,213 @@
+﻿converted_war_strategies_EGY = {
+	enable = {
+		tag = EGY
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "SAU"
+		value = 1471
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 744
+	}
+	ai_strategy = {
+		type = conquer
+		id = "AFG"
+		value = 483
+	}
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 248
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 196
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W24"
+		value = 168
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SUD"
+		value = 165
+	}
+	ai_strategy = {
+		type = conquer
+		id = "U09"
+		value = 127
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V26"
+		value = 111
+	}
+}
+
+converted_diplo_strategies_EGY = {
+	enable = {
+		tag = EGY
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SAU"
+		value = 332
+	}
+	ai_strategy = {
+		type = contain
+		id = "SCO"
+		value = 324
+	}
+	ai_strategy = {
+		type = contain
+		id = "U09"
+		value = 257
+	}
+	ai_strategy = {
+		type = contain
+		id = "AFG"
+		value = 253
+	}
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 156
+	}
+	ai_strategy = {
+		type = contain
+		id = "FRA"
+		value = 153
+	}
+	ai_strategy = {
+		type = contain
+		id = "SOV"
+		value = 151
+	}
+	ai_strategy = {
+		type = contain
+		id = "W99"
+		value = 150
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SAU"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W24"
+		value = 267
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "AFG"
+		value = 248
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 152
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 148
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 128
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SUD"
+		value = 122
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V26"
+		value = 95
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "U09"
+		value = 85
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W69"
+		value = 46
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W73"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOM"
+		value = 124
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W99"
+		value = 23
+	}
+	ai_strategy = {
+		type = alliance
+		id = "BAY"
+		value = 18
+	}
+	ai_strategy = {
+		type = protect
+		id = "SAU"
+		value = 240
+	}
+	ai_strategy = {
+		type = protect
+		id = "SUD"
+		value = 65
+	}
+	ai_strategy = {
+		type = protect
+		id = "V26"
+		value = 65
+	}
+	ai_strategy = {
+		type = protect
+		id = "W24"
+		value = 23
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SCO"
+		value = 116
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U09"
+		value = 107
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W99"
+		value = 80
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "AFG"
+		value = 79
+	}
+}

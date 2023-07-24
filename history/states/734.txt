@@ -1,0 +1,32 @@
+
+state={
+	id=734
+	name="STATE_734"
+
+	history={
+		owner = TUN
+		victory_points = {
+			11969 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			11969 = {
+				naval_base = 2
+			}
+			air_base = 6
+
+		}
+		add_core_of = TUN
+	}
+
+	provinces={
+		4163 7180 9994 10091 11969 
+	}
+	manpower=879916
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

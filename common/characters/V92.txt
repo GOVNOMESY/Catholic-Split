@@ -1,0 +1,16 @@
+characters={
+	V92_friedrich_oii_aann={
+		name=V92_friedrich_oii_aann
+		portraits={
+			civilian={
+				large="GFX_Germany_Wilhelm_III"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

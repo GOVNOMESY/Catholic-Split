@@ -1,0 +1,58 @@
+﻿SWE = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"Göteborg" "Malmö" "Uppsala" "Västerås" "Örebro" "Linköping" "Helsingborg" "Nynäshamn" "Karlshamn" "Halmstad" "Blenda" "Astrid" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" "Henrik af Trolle" "Carl August Ehrensvärd" "Fredrik" "Johan" "Manligheten" "Dristigheten" "Sverige" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"Éîí Ýðèêññîí" "Ëîêå" "Øåëüä" "Òèðôèíã" "Òîðäåí" "Áåðñåðê" "Áüîðí" "Ôîëüêå" "Ñåëüâå" "Óëüô" "Ôåíðèñ" "Ãàðìåð" "Ãåðäà" "Õèëüäóð" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Êëàýñ Óããëà" "Ïñèëàíäåð" "Êëàýñ Ãîðí" "ßêîá Áàêêå" "Îðíåí" "Ôþëüãÿ" "Òðå Êðîíîð" "Ãåòå Ëåéîí" "Ýñòåðñóíä" "Áîðãõîëüì" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Êàðë XIII" "Êàðë XIV Þõàí" "Ïðèíñ Îñêàð" "Ãóñòàâ II Àäîëüô" "Ñòîêãîëüì" "Ôåðñèêòèãåòåí" "Òàïïåðõåòåí" "Êóíã Àäîëüô Ôðåäðèê" "Ãåíðèõ" "Òîìàñ" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"Áüåðí Éåðíñèäà" "Ýðèê Ñåðåãñåëë" "Ãàðäàð Ñâàâàðññîí" "Áèðêà" "Àñãàðä" "Êðàêåí" "Áåêêàõåñò" "Ñòîðøåí" "Âåíåðí" "Âåòòåðí" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Ïàêêà" "Ñâàðòà Ýðí" "ßððàìàñ" "Âàéíêâåð" "Äåëüôèí" "Èëëåðèì" "Ëèëëà Ôåíèêñ" "Âåêñü¸" "Åâëå" "Áàðîí Ãóñòàâ Áîíäå" 
+		}
+	}
+
+}

@@ -1,0 +1,18 @@
+﻿converted_war_strategies_BRM = {
+	enable = {
+		tag = BRM
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_BRM = {
+	enable = {
+		tag = BRM
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

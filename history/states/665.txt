@@ -1,0 +1,39 @@
+
+state={
+	id=665
+	name="STATE_665"
+	resources={
+		aluminium=4.000
+		rubber=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = U46
+		victory_points = {
+			1951 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			1951 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = DAH
+		add_core_of = U46
+		add_claim_by = U08
+	}
+
+	provinces={
+		1951 12785 12843 13212 
+	}
+	manpower=444428
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

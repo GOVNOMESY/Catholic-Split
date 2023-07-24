@@ -1,0 +1,40 @@
+
+state={
+	id=60
+	name="STATE_60"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = SPC
+		victory_points = {
+			3931 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			740 = {
+				naval_base = 2
+			}
+			air_base = 10
+
+		}
+		add_core_of = EUS
+		add_core_of = NAV
+		add_core_of = SPC
+		add_core_of = SPR
+		add_core_of = X94
+		add_claim_by = CAT
+	}
+
+	provinces={
+		740 790 813 899 915 932 3735 3737 3816 3902 3909 3931 3933 3954 6756 6878 6901 6903 9813 9840 9842 9857 11737 11793 11819 11821 11838 13223 13225 13233 
+	}
+	manpower=1388444
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

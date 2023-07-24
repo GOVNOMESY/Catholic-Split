@@ -1,0 +1,39 @@
+
+state={
+	id=494
+	name="STATE_494"
+
+	history={
+		owner = MEX
+		victory_points = {
+			12865 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			12823 = {
+				naval_base = 6
+			}
+			air_base = 1
+
+		}
+		add_core_of = MEX
+		BOL = {
+			set_province_controller = 2031
+			set_province_controller = 8017
+			set_province_controller = 12823
+			set_province_controller = 12865
+			set_province_controller = 13093
+		}
+	}
+
+	provinces={
+		2031 8017 12823 12865 13093 
+	}
+	manpower=651740
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=720
+	name="STATE_720"
+	resources={
+		steel=1.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = SRL
+		victory_points = {
+			10077 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = BAN
+		add_core_of = V28
+		add_core_of = X73
+		add_claim_by = SRL
+	}
+
+	provinces={
+		1609 4204 4644 10077 
+	}
+	manpower=6709260
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

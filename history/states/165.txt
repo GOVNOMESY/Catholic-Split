@@ -1,0 +1,33 @@
+
+state={
+	id=165
+	name="STATE_165"
+	resources={
+		steel=208.000
+	}
+
+	history={
+		owner = CAN
+		victory_points = {
+			1866 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = CAN
+		add_claim_by = V78
+	}
+
+	provinces={
+		1719 1734 1866 1867 4664 4807 6752 6767 6827 7536 7896 9880 10618 10719 11667 12550 12577 12588 12597 12693 
+	}
+	manpower=1529048
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

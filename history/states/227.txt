@@ -1,0 +1,37 @@
+
+state={
+	id=227
+	name="STATE_227"
+
+	history={
+		owner = X73
+		victory_points = {
+			2086 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 7
+
+		}
+		add_core_of = V28
+		add_core_of = W58
+		add_core_of = X73
+		add_claim_by = NEP
+		add_claim_by = X26
+		add_claim_by = X39
+		W58 = {
+			set_province_controller = 5055
+		}
+	}
+
+	provinces={
+		1377 1898 1983 2032 2086 3989 4045 4299 4915 5002 5055 5086 5157 7064 7334 8082 8114 9951 9973 10021 10794 11955 12137 12777 12868 
+	}
+	manpower=20521816
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

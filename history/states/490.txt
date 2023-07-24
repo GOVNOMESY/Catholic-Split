@@ -1,0 +1,41 @@
+
+state={
+	id=490
+	name="STATE_490"
+
+	history={
+		owner = MEX
+		victory_points = {
+			1965 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			12810 = {
+				naval_base = 6
+			}
+			air_base = 10
+
+		}
+		add_core_of = MEX
+		add_core_of = U36
+		add_core_of = V70
+		add_core_of = X27
+		add_claim_by = U33
+		add_claim_by = W65
+		BOL = {
+			set_province_controller = 12810
+		}
+	}
+
+	provinces={
+		1965 7913 8089 10732 10773 10889 12810 
+	}
+	manpower=2327580
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

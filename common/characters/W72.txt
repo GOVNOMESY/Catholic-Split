@@ -1,0 +1,16 @@
+characters={
+	W72_a._von_der_t.={
+		name=W72_a._von_der_t.
+		portraits={
+			civilian={
+				large="GFX_Germany_Alfred_Hugenberg"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

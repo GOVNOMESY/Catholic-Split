@@ -1,0 +1,37 @@
+
+state={
+	id=501
+	name="STATE_501"
+	resources={
+		rubber=6.000
+	}
+
+	history={
+		owner = W68
+		victory_points = {
+			10263 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			10263 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = V47
+		add_core_of = W57
+		add_core_of = W68
+	}
+
+	provinces={
+		1289 4349 7311 10153 10169 10197 10263 
+	}
+	manpower=218796
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

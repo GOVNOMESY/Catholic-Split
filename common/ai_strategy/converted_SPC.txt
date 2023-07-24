@@ -1,0 +1,183 @@
+﻿converted_war_strategies_SPC = {
+	enable = {
+		tag = SPC
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 3541
+	}
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 2353
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X94"
+		value = 1953
+	}
+	ai_strategy = {
+		type = conquer
+		id = "U06"
+		value = 316
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CAT"
+		value = 173
+	}
+}
+
+converted_diplo_strategies_SPC = {
+	enable = {
+		tag = SPC
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "X94"
+		value = 338
+	}
+	ai_strategy = {
+		type = contain
+		id = "SCO"
+		value = 188
+	}
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 160
+	}
+	ai_strategy = {
+		type = contain
+		id = "FRA"
+		value = 158
+	}
+	ai_strategy = {
+		type = contain
+		id = "BAY"
+		value = 123
+	}
+	ai_strategy = {
+		type = contain
+		id = "X62"
+		value = 108
+	}
+	ai_strategy = {
+		type = contain
+		id = "EGY"
+		value = 100
+	}
+	ai_strategy = {
+		type = contain
+		id = "U09"
+		value = 100
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X94"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "U06"
+		value = 391
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAT"
+		value = 374
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 154
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 152
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ALG"
+		value = 37
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BAY"
+		value = 34
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SCO"
+		value = 13
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SCO"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 118
+	}
+	ai_strategy = {
+		type = alliance
+		id = "GER"
+		value = 73
+	}
+	ai_strategy = {
+		type = alliance
+		id = "EGY"
+		value = 54
+	}
+	ai_strategy = {
+		type = protect
+		id = "U06"
+		value = 265
+	}
+	ai_strategy = {
+		type = protect
+		id = "X94"
+		value = 240
+	}
+	ai_strategy = {
+		type = protect
+		id = "CAT"
+		value = 120
+	}
+	ai_strategy = {
+		type = protect
+		id = "ALG"
+		value = 65
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X73"
+		value = 58
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SCO"
+		value = 49
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "KOR"
+		value = 42
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "EGY"
+		value = 29
+	}
+}

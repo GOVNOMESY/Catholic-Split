@@ -1,0 +1,16 @@
+characters={
+	X95_aeeuaa0oi_tarci={
+		name=X95_aeeuaa0oi_tarci
+		portraits={
+			civilian={
+				large="GFX_quechua_saturnino"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

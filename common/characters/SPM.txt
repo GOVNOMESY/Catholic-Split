@@ -1,0 +1,16 @@
+characters={
+	SPM_o0ai0anei_albricci={
+		name=SPM_o0ai0anei_albricci
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/Portrait_Italy_Vittorio_Emanuele_III.dds"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

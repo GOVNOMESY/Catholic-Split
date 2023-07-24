@@ -1,0 +1,33 @@
+
+state={
+	id=537
+	name="STATE_537"
+
+	history={
+		owner = W73
+		victory_points = {
+			12815 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U29
+		add_core_of = W73
+		add_claim_by = CHI
+		add_claim_by = TIB
+		add_claim_by = X25
+	}
+
+	provinces={
+		1698 1882 2053 2099 4536 4914 4964 5076 7940 7997 8018 8037 10490 10750 10796 10834 10865 12596 12815 12846 12890 12899 
+	}
+	manpower=2046324
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

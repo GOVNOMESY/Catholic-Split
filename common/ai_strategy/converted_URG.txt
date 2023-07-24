@@ -1,0 +1,63 @@
+﻿converted_war_strategies_URG = {
+	enable = {
+		tag = URG
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "ARG"
+		value = 187
+	}
+}
+
+converted_diplo_strategies_URG = {
+	enable = {
+		tag = URG
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "ARG"
+		value = 281
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ARG"
+		value = 330
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 27
+	}
+	ai_strategy = {
+		type = alliance
+		id = "BOL"
+		value = 128
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BRU"
+		value = 52
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X15"
+		value = 45
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CAL"
+		value = 43
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X34"
+		value = 37
+	}
+}

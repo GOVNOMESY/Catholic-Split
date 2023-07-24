@@ -1,0 +1,31 @@
+
+state={
+	id=515
+	name="STATE_515"
+
+	history={
+		owner = W73
+		victory_points = {
+			4613 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = LAO
+		add_core_of = W14
+		add_core_of = W73
+	}
+
+	provinces={
+		4339 4568 4613 7075 7103 7218 7356 9961 10496 12392 12433 
+	}
+	manpower=766924
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

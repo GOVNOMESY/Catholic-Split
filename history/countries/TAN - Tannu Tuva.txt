@@ -1,0 +1,122 @@
+﻿capital = 774
+set_research_slots = 3
+
+oob = "TAN_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_siberia
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1816.1.18"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 90
+	democratic = 7
+	neutrality = 3
+}
+
+add_opinion_modifier = { target = ARG modifier = negative_30 }
+add_opinion_modifier = { target = AST modifier = negative_10 }
+add_opinion_modifier = { target = BOL modifier = negative_10 }
+add_opinion_modifier = { target = BRA modifier = negative_30 }
+add_opinion_modifier = { target = COL modifier = negative_10 }
+add_opinion_modifier = { target = ECU modifier = negative_10 }
+add_opinion_modifier = { target = HOL modifier = negative_30 }
+add_opinion_modifier = { target = ITA modifier = negative_10 }
+add_opinion_modifier = { target = SCA modifier = negative_10 }
+add_opinion_modifier = { target = SER modifier = negative_20 }
+add_opinion_modifier = { target = U16 modifier = positive_25 }
+add_opinion_modifier = { target = U20 modifier = negative_10 }
+add_opinion_modifier = { target = U21 modifier = negative_10 }
+add_opinion_modifier = { target = U22 modifier = negative_10 }
+add_opinion_modifier = { target = V78 modifier = negative_10 }
+add_opinion_modifier = { target = W30 modifier = positive_55 }
+add_opinion_modifier = { target = W54 modifier = negative_10 }
+add_opinion_modifier = { target = X53 modifier = positive_30 }
+
+
+add_ideas = {
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_siberian
+}
+
+recruit_character = TAN_gabdull_oaeieaa
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Aiday Krakovetskaya"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { TAN }
+	}
+
+	create_operative_leader = {
+		name = "Anargul Shashkova"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { TAN }
+	}
+
+	create_operative_leader = {
+		name = "Aiday Shchapova"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { TAN }
+	}
+
+	create_operative_leader = {
+		name = "Ãàáäóë Potanin"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { TAN }
+	}
+
+	create_operative_leader = {
+		name = "Ñèõàáåòäèí Ïîòàíèí"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { TAN }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

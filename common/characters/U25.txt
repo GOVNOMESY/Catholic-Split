@@ -1,0 +1,16 @@
+characters={
+	U25_racheltjie_parker={
+		name=U25_racheltjie_parker
+		portraits={
+			civilian={
+				large="gfx/leaders/FRA/portrait_fra_pierre_laval.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

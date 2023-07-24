@@ -1,0 +1,33 @@
+
+state={
+	id=331
+	name="STATE_331"
+	resources={
+		rubber=3.000
+		tungsten=3.000
+	}
+
+	history={
+		owner = U41
+		victory_points = {
+			4515 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U41
+	}
+
+	provinces={
+		191 1817 4515 
+	}
+	manpower=607012
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

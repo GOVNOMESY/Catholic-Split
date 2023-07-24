@@ -1,0 +1,38 @@
+
+state={
+	id=417
+	name="STATE_417"
+	resources={
+		chromium=16.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			895 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 2
+			dockyard = 2
+			895 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = GRE
+		add_core_of = ITA
+		add_claim_by = TTS
+	}
+
+	provinces={
+		895 3936 6990 9791 9930 11774 11905 
+	}
+	manpower=1783808
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

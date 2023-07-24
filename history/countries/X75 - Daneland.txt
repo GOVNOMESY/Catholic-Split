@@ -1,0 +1,120 @@
+﻿capital = 640
+set_research_slots = 3
+
+oob = "X75_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_britain
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1816.1.18"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 73
+	democratic = 25
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = ARG modifier = negative_30 }
+add_opinion_modifier = { target = AST modifier = negative_10 }
+add_opinion_modifier = { target = BOL modifier = negative_10 }
+add_opinion_modifier = { target = BRA modifier = negative_30 }
+add_opinion_modifier = { target = COL modifier = negative_10 }
+add_opinion_modifier = { target = DEN modifier = positive_25 }
+add_opinion_modifier = { target = ECU modifier = negative_10 }
+add_opinion_modifier = { target = HOL modifier = negative_30 }
+add_opinion_modifier = { target = ITA modifier = negative_10 }
+add_opinion_modifier = { target = SCA modifier = positive_15 }
+add_opinion_modifier = { target = SER modifier = negative_20 }
+add_opinion_modifier = { target = U20 modifier = negative_10 }
+add_opinion_modifier = { target = U21 modifier = positive_15 }
+add_opinion_modifier = { target = U22 modifier = negative_10 }
+add_opinion_modifier = { target = V78 modifier = negative_10 }
+add_opinion_modifier = { target = W54 modifier = negative_10 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_elsinorian
+}
+
+recruit_character = X75_hrolfr_af_northampton
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Monica af Dorset"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X75 }
+	}
+
+	create_operative_leader = {
+		name = "Alma Viss"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X75 }
+	}
+
+	create_operative_leader = {
+		name = "Else Kráka"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X75 }
+	}
+
+	create_operative_leader = {
+		name = "Helgi af Chester"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X75 }
+	}
+
+	create_operative_leader = {
+		name = "Guþrøþr af Gloucester"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X75 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

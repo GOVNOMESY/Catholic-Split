@@ -1,0 +1,32 @@
+
+state={
+	id=347
+	name="STATE_347"
+
+	history={
+		owner = U41
+		victory_points = {
+			4879 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			12921 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = U41
+	}
+
+	provinces={
+		4879 8136 10957 10978 12519 12921 13217 
+	}
+	manpower=119944
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

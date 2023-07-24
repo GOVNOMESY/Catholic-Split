@@ -1,0 +1,32 @@
+
+state={
+	id=161
+	name="STATE_161"
+
+	history={
+		owner = CAN
+		victory_points = {
+			10595 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = CAN
+		add_core_of = W33
+		add_claim_by = V06
+		add_claim_by = V46
+	}
+
+	provinces={
+		1747 1875 3750 4839 4880 7745 7771 7862 10569 10595 12620 12667 
+	}
+	manpower=929140
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

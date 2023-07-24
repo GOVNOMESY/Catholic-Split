@@ -1,0 +1,31 @@
+
+state={
+	id=372
+	name="STATE_372"
+
+	history={
+		owner = GER
+		victory_points = {
+			474 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = GER
+		add_core_of = UKR
+		add_core_of = V82
+	}
+
+	provinces={
+		422 474 513 535 3412 3496 6520 9520 11441 11503 
+	}
+	manpower=933920
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

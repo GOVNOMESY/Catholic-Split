@@ -1,0 +1,43 @@
+
+state={
+	id=437
+	name="STATE_437"
+	resources={
+		aluminium=28.000
+		chromium=4.000
+		steel=40.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			776 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 7
+			arms_factory = 3
+			dockyard = 2
+			6788 = {
+				naval_base = 10
+			}
+			air_base = 9
+
+		}
+		add_core_of = ITA
+		add_core_of = SPM
+		add_claim_by = CAT
+		add_claim_by = SPC
+		add_claim_by = SPR
+	}
+
+	provinces={
+		611 770 771 776 3772 3782 6635 6780 6788 9738 9741 11570 11721 11723 11726 11730 11891 
+	}
+	manpower=6192064
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

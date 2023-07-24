@@ -1,0 +1,39 @@
+
+state={
+	id=535
+	name="STATE_535"
+	resources={
+		aluminium=4.000
+		steel=4.000
+	}
+
+	history={
+		owner = W73
+		victory_points = {
+			7014 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			7014 = {
+				naval_base = 4
+			}
+			air_base = 7
+
+		}
+		add_core_of = V38
+		add_core_of = W73
+		add_claim_by = CHI
+	}
+
+	provinces={
+		996 1089 4091 7014 10034 10076 11928 11982 12052 12076 
+	}
+	manpower=27957850
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=375
+	name="STATE_375"
+
+	history={
+		owner = GER
+		victory_points = {
+			6488 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			arms_factory = 2
+			air_base = 10
+
+		}
+		add_core_of = GER
+		add_core_of = V92
+		add_core_of = W05
+		add_core_of = X87
+		add_claim_by = U01
+	}
+
+	provinces={
+		589 3397 3524 3574 6444 6488 9486 
+	}
+	manpower=2558744
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

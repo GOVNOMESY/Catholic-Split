@@ -1,0 +1,47 @@
+
+state={
+	id=477
+	name="STATE_477"
+
+	history={
+		owner = W58
+		victory_points = {
+			3456 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			3456 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = V28
+		add_core_of = V45
+		add_core_of = W58
+		add_claim_by = X73
+		X73 = {
+			set_province_controller = 1147
+			set_province_controller = 1971
+			set_province_controller = 3456
+			set_province_controller = 4003
+			set_province_controller = 4110
+			set_province_controller = 4382
+			set_province_controller = 7049
+			set_province_controller = 7084
+			set_province_controller = 10108
+			set_province_controller = 10735
+		}
+	}
+
+	provinces={
+		1147 1971 1980 3456 4003 4110 4382 7049 7084 10108 10735 
+	}
+	manpower=2028776
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,121 @@
+﻿capital = 384
+set_research_slots = 3
+
+oob = "X29_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_hungary
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1816.1.18"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 73
+	democratic = 25
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = ARG modifier = negative_30 }
+add_opinion_modifier = { target = AST modifier = negative_10 }
+add_opinion_modifier = { target = BOL modifier = negative_10 }
+add_opinion_modifier = { target = BRA modifier = negative_30 }
+add_opinion_modifier = { target = COL modifier = negative_10 }
+add_opinion_modifier = { target = ECU modifier = negative_10 }
+add_opinion_modifier = { target = HOL modifier = negative_30 }
+add_opinion_modifier = { target = ITA modifier = negative_10 }
+add_opinion_modifier = { target = SCA modifier = negative_10 }
+add_opinion_modifier = { target = SER modifier = negative_20 }
+add_opinion_modifier = { target = SOV modifier = positive_50 }
+add_opinion_modifier = { target = U20 modifier = negative_10 }
+add_opinion_modifier = { target = U21 modifier = negative_10 }
+add_opinion_modifier = { target = U22 modifier = negative_10 }
+add_opinion_modifier = { target = V78 modifier = positive_40 }
+add_opinion_modifier = { target = W54 modifier = negative_10 }
+add_opinion_modifier = { target = W69 modifier = positive_50 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_dummy
+}
+
+recruit_character = X29_b._zu_i.
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "K. zu K."
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X29 }
+	}
+
+	create_operative_leader = {
+		name = "H. vom G."
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X29 }
+	}
+
+	create_operative_leader = {
+		name = "F. Z."
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X29 }
+	}
+
+	create_operative_leader = {
+		name = "Ä. von der Q."
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X29 }
+	}
+
+	create_operative_leader = {
+		name = "Y. von Ä."
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X29 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

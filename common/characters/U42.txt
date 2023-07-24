@@ -1,0 +1,16 @@
+characters={
+	U42_yannic_leblanc={
+		name=U42_yannic_leblanc
+		portraits={
+			civilian={
+				large="gfx/leaders/ICE/portrait_ice_sveinn_bjornsson.dds"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

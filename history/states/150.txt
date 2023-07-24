@@ -1,0 +1,33 @@
+
+state={
+	id=150
+	name="STATE_150"
+
+	history={
+		owner = CAN
+		victory_points = {
+			13202 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			10707 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = CAN
+		add_claim_by = W54
+	}
+
+	provinces={
+		10707 13202 13203 
+	}
+	manpower=707244
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

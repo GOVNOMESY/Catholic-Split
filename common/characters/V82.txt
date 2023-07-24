@@ -1,0 +1,16 @@
+characters={
+	V82_serhyy_eaaiaiei={
+		name=V82_serhyy_eaaiaiei
+		portraits={
+			civilian={
+				large="gfx/leaders/SOV/Portrait_Soviet_Victor_Baydalakov.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

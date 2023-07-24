@@ -1,0 +1,16 @@
+characters={
+	SAM_seru_aaioaa={
+		name=SAM_seru_aaioaa
+		portraits={
+			civilian={
+				large="gfx/leaders/LIB/Portrait_LIB_edwin_barclay.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

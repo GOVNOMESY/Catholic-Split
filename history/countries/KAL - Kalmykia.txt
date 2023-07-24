@@ -1,0 +1,124 @@
+﻿capital = 758
+set_research_slots = 3
+
+oob = "KAL_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_russia
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1816.1.18"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 73
+	democratic = 25
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = ARG modifier = negative_30 }
+add_opinion_modifier = { target = AST modifier = negative_10 }
+add_opinion_modifier = { target = BOL modifier = negative_10 }
+add_opinion_modifier = { target = BRA modifier = negative_30 }
+add_opinion_modifier = { target = COL modifier = negative_10 }
+add_opinion_modifier = { target = ECU modifier = negative_10 }
+add_opinion_modifier = { target = HOL modifier = negative_30 }
+add_opinion_modifier = { target = ITA modifier = negative_10 }
+add_opinion_modifier = { target = JAP modifier = positive_15 }
+add_opinion_modifier = { target = SCA modifier = negative_10 }
+add_opinion_modifier = { target = SER modifier = negative_20 }
+add_opinion_modifier = { target = U14 modifier = positive_25 }
+add_opinion_modifier = { target = U16 modifier = positive_50 }
+add_opinion_modifier = { target = U20 modifier = negative_10 }
+add_opinion_modifier = { target = U21 modifier = negative_10 }
+add_opinion_modifier = { target = U22 modifier = negative_10 }
+add_opinion_modifier = { target = V78 modifier = negative_10 }
+add_opinion_modifier = { target = W30 modifier = positive_50 }
+add_opinion_modifier = { target = W54 modifier = negative_10 }
+add_opinion_modifier = { target = W99 modifier = positive_15 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_mongol
+}
+
+recruit_character = KAL_batbayar_sukhbaatar
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Samar Áîäîî"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { KAL }
+	}
+
+	create_operative_leader = {
+		name = "Ho'elun Bodoo"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { KAL }
+	}
+
+	create_operative_leader = {
+		name = "Conchaka Äàìäèíáàçàð"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { KAL }
+	}
+
+	create_operative_leader = {
+		name = "Õîðëîîãèéí Jamyan"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { KAL }
+	}
+
+	create_operative_leader = {
+		name = "Damdin Tserendorj"
+		GFX = "gfx/leaders/Asia/portrait_asia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { KAL }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

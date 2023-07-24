@@ -1,0 +1,30 @@
+
+state={
+	id=715
+	name="STATE_715"
+
+	history={
+		owner = SLO
+		victory_points = {
+			6720 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = SLO
+		add_core_of = V88
+	}
+
+	provinces={
+		6720 9676 11663 
+	}
+	manpower=495516
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

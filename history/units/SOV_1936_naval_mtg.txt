@@ -1,0 +1,99 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 3151
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 3151
+			ship = { name = "Ïåòð Âåëèêèé" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Ãàíãóò" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Ñèñîé Âåëèêèé" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Ïåòðîïàâëîâñê" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Ñåâàñòîïîëü" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Ïîáåäà" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Ðåòâèçàí" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Êíÿçü Ïîòåìêèí-Òàâðè÷åñêèé" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Öåñàðåâè÷" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Èìïåðàòîð Àëåêñàíäð III" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Åêàòåðèíà II" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "×åñìà" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ñèíîï" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåîðãèé Ïîáåäîíîñåö" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Äâåíàäöàòü Àïîñòîëîâ" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Íàâàðèí" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Òðè Ñâÿòèòåëÿ" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ñûñîé Âåëèêèé" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ïîëòàâà" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ðîñòèñëàâ" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ïåðåñâåò" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Îñëÿáÿ" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Àäìèðàë Íàõèìîâ" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Àäìèðàë Êîðíèëîâ" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïàìÿòü Àçîâà" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Âèòÿçü" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ðûíäà" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ãðîìîáîé" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ðþðèê" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ñâåòëàíà" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Âàðÿã" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Äèàíà" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïàëëàäà" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Àâðîðà" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Àñêîëüä" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Áàÿí" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Áîãàòûðü" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Îëåã" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Íîâèê" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïàìÿòü Ìåðêóðèÿ" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Èçóìðóä" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Àëìàç" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Æåì÷óã" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Àäìèðàë Ìàêàðîâ" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 4073
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 2382
+			ship = { name = "Èçìàèë" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "4. ýñêàäðà"
+		naval_base = 9340
+		task_force = {
+			name = "4. ýñêàäðà"
+			location = 9340
+			ship = { name = "Ïàíòåëåéìîí" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Áîðîäèíî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Îðåë" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = SOV version_name = "1936 Battleship" } } }
+			ship = { name = "Áîÿðèí" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Êàãóë" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = SOV version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "SOV"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "SOV"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

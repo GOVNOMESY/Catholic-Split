@@ -1,0 +1,32 @@
+
+state={
+	id=275
+	name="STATE_275"
+
+	history={
+		owner = EGY
+		victory_points = {
+			13018 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			13018 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		2165 13017 13018 
+	}
+	manpower=324104
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

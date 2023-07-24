@@ -1,0 +1,41 @@
+
+state={
+	id=377
+	name="STATE_377"
+	resources={
+		aluminium=1.000
+		oil=9.000
+		steel=17.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			9427 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 7
+
+		}
+		add_core_of = GER
+		add_core_of = POL
+		add_core_of = SIL
+		add_core_of = V88
+		add_core_of = W41
+		add_claim_by = SLO
+		add_claim_by = X91
+		add_claim_by = X98
+	}
+
+	provinces={
+		417 442 466 3410 3434 6499 6522 9412 9427 9494 11398 11413 11507 
+	}
+	manpower=5815368
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

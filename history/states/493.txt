@@ -1,0 +1,45 @@
+
+state={
+	id=493
+	name="STATE_493"
+	resources={
+		chromium=2.000
+		rubber=3.000
+	}
+
+	history={
+		owner = MEX
+		victory_points = {
+			4991 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			2077 = {
+				naval_base = 6
+			}
+			air_base = 6
+
+		}
+		add_core_of = MEX
+		add_core_of = W18
+		add_core_of = W32
+		BOL = {
+			set_province_controller = 2077
+			set_province_controller = 4991
+			set_province_controller = 10886
+			set_province_controller = 13085
+		}
+	}
+
+	provinces={
+		2077 4991 10842 10886 13085 
+	}
+	manpower=516476
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,52 @@
+units = {
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 11106
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 791
+			ship = { name = "Dreadnought" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BAS version_name = "1936 Battleship" } } }
+			ship = { name = "Bellerophon" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BAS version_name = "1936 Battleship" } } }
+			ship = { name = "Superb" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BAS version_name = "1936 Battleship" } } }
+			ship = { name = "Temeraire" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BAS version_name = "1936 Battleship" } } }
+			ship = { name = "Shannon" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BAS version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Nelson" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BAS version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Northampton" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BAS version_name = "1936 Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 4450
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 4450
+			ship = { name = "St Vincent" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BAS version_name = "1936 Battleship" } } }
+			ship = { name = "Collingwood" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = BAS version_name = "1936 Battleship" } } }
+			ship = { name = "Àíòèãóà 5" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BAS version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Imperieuse" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = BAS version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "BAS"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "BAS"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

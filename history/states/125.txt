@@ -1,0 +1,33 @@
+
+state={
+	id=125
+	name="STATE_125"
+	resources={
+		tungsten=10.000
+	}
+
+	history={
+		owner = BOL
+		victory_points = {
+			5229 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = BOL
+		add_core_of = X63
+	}
+
+	provinces={
+		5229 12979 
+	}
+	manpower=760948
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

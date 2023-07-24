@@ -1,0 +1,32 @@
+
+state={
+	id=589
+	name="STATE_589"
+
+	history={
+		owner = V26
+		victory_points = {
+			1896 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = PER
+		add_core_of = V59
+		add_claim_by = V26
+		add_claim_by = V54
+	}
+
+	provinces={
+		1636 1822 1896 2071 4553 4755 4825 4901 7604 10454 10523 12793 12861 
+	}
+	manpower=2142316
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

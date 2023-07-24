@@ -1,0 +1,38 @@
+
+state={
+	id=422
+	name="STATE_422"
+	resources={
+		chromium=32.000
+		steel=8.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			849 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			849 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = GRE
+		add_core_of = ITA
+		add_claim_by = TTS
+	}
+
+	provinces={
+		849 3879 11829 
+	}
+	manpower=1136140
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

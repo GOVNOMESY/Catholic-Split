@@ -1,0 +1,38 @@
+
+state={
+	id=576
+	name="STATE_576"
+	resources={
+		aluminium=3.000
+		chromium=5.000
+		steel=6.000
+	}
+
+	history={
+		owner = W99
+		victory_points = {
+			4883 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = SRL
+		add_core_of = V28
+		add_core_of = W99
+		add_claim_by = X73
+		add_claim_by = X93
+	}
+
+	provinces={
+		1510 1579 1622 4557 4883 7428 7430 7465 7497 7574 7619 8120 10030 10171 10401 10469 12375 12420 12480 12490 12781 
+	}
+	manpower=9161380
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,78 @@
+﻿converted_war_strategies_CAL = {
+	enable = {
+		tag = CAL
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "MEX"
+		value = 157
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CAN"
+		value = 89
+	}
+}
+
+converted_diplo_strategies_CAL = {
+	enable = {
+		tag = CAL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "MEX"
+		value = 268
+	}
+	ai_strategy = {
+		type = contain
+		id = "CAN"
+		value = 159
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 222
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAN"
+		value = 103
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V79"
+		value = 72
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ADU"
+		value = 3
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SCA"
+		value = 81
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W16"
+		value = 94
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "URG"
+		value = 49
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V79"
+		value = 40
+	}
+}

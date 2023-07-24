@@ -1,0 +1,24 @@
+
+state={
+	id=654
+	name="STATE_654"
+	resources={
+		steel=1.000
+	}
+	impassable = yes
+
+	history={
+		owner = U46
+		add_core_of = U46
+		add_core_of = V67
+	}
+
+	provinces={
+		1115 2068 10868 
+	}
+	manpower=41336
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

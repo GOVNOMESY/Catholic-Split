@@ -1,0 +1,32 @@
+
+state={
+	id=805
+	name="STATE_805"
+
+	history={
+		owner = U50
+		victory_points = {
+			8188 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			5128 = {
+				naval_base = 0
+			}
+			air_base = 0
+
+		}
+		add_core_of = U50
+	}
+
+	provinces={
+		5128 5222 8188 10993 
+	}
+	manpower=1080100
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

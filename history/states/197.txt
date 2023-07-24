@@ -1,0 +1,58 @@
+
+state={
+	id=197
+	name="STATE_197"
+	resources={
+		aluminium=2.000
+		steel=16.000
+	}
+
+	history={
+		owner = CSA
+		victory_points = {
+			3878 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			859 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = USA
+		add_claim_by = CSA
+		add_claim_by = W17
+		add_claim_by = X98
+		SCA = {
+			set_province_controller = 598
+			set_province_controller = 1436
+			set_province_controller = 3602
+			set_province_controller = 3806
+			set_province_controller = 6778
+			set_province_controller = 6795
+			set_province_controller = 6911
+			set_province_controller = 6916
+			set_province_controller = 9693
+			set_province_controller = 9708
+			set_province_controller = 9721
+			set_province_controller = 9754
+			set_province_controller = 10381
+			set_province_controller = 11662
+			set_province_controller = 11665
+			set_province_controller = 11722
+		}
+	}
+
+	provinces={
+		598 706 734 859 1436 3602 3702 3733 3747 3806 3878 3894 6707 6717 6778 6795 6911 6916 9664 9673 9693 9708 9721 9754 9774 10381 11650 11654 11660 11662 11665 11680 11722 
+	}
+	manpower=6569984
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

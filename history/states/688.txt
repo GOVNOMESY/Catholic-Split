@@ -1,0 +1,31 @@
+
+state={
+	id=688
+	name="STATE_688"
+
+	history={
+		owner = U46
+		victory_points = {
+			9962 15 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = RWA
+		add_core_of = U46
+		add_claim_by = W34
+	}
+
+	provinces={
+		9962 
+	}
+	manpower=665944
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

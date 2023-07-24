@@ -1,0 +1,48 @@
+
+state={
+	id=478
+	name="STATE_478"
+
+	history={
+		owner = W58
+		victory_points = {
+			10118 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			10118 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = V28
+		add_core_of = W20
+		add_core_of = W58
+		add_core_of = W61
+		add_claim_by = X97
+		X73 = {
+			set_province_controller = 1103
+			set_province_controller = 1144
+			set_province_controller = 4090
+			set_province_controller = 4132
+			set_province_controller = 7165
+			set_province_controller = 7207
+			set_province_controller = 9975
+			set_province_controller = 12037
+			set_province_controller = 12092
+		}
+	}
+
+	provinces={
+		1061 1103 1144 1190 4064 4090 4132 7020 7165 7207 9975 10118 11952 12037 12092 
+	}
+	manpower=9261500
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

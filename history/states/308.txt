@@ -1,0 +1,33 @@
+
+state={
+	id=308
+	name="STATE_308"
+
+	history={
+		owner = FRA
+		victory_points = {
+			12154 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			12154 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = V99
+		add_claim_by = PNG
+	}
+
+	provinces={
+		1389 2129 4317 4393 4418 5135 7365 7409 7614 10251 10423 10954 10974 11004 11018 12154 12193 12237 12240 12400 12428 12931 
+	}
+	manpower=916692
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

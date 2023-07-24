@@ -1,0 +1,32 @@
+
+state={
+	id=351
+	name="STATE_351"
+
+	history={
+		owner = FRA
+		victory_points = {
+			13026 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			13026 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		13026 
+	}
+	manpower=53900
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

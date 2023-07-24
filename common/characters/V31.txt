@@ -1,0 +1,16 @@
+characters={
+	V31_f._von_der_h.={
+		name=V31_f._von_der_h.
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

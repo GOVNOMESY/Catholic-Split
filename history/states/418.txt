@@ -1,0 +1,41 @@
+
+state={
+	id=418
+	name="STATE_418"
+	resources={
+		aluminium=19.000
+		chromium=14.000
+		steel=13.000
+		tungsten=7.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			3973 7 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 8
+			arms_factory = 2
+			dockyard = 2
+			9805 = {
+				naval_base = 10
+			}
+			air_base = 4
+
+		}
+		add_core_of = GRE
+		add_core_of = ITA
+		add_claim_by = TTS
+	}
+
+	provinces={
+		863 3914 3973 6930 9805 9916 11786 
+	}
+	manpower=3341704
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

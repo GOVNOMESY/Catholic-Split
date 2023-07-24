@@ -1,0 +1,16 @@
+characters={
+	W50_king_ieaae={
+		name=W50_king_ieaae
+		portraits={
+			civilian={
+				large="GFX_Siam_Rama_IX"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

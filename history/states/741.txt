@@ -1,0 +1,37 @@
+
+state={
+	id=741
+	name="STATE_741"
+	resources={
+		oil=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = URG
+		victory_points = {
+			12468 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			10502 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = ARG
+		add_core_of = URG
+	}
+
+	provinces={
+		1613 4457 10362 10502 12336 12468 12496 
+	}
+	manpower=229304
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

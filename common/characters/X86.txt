@@ -1,0 +1,16 @@
+characters={
+	X86_daeaaeeoa_ooiio={
+		name=X86_daeaaeeoa_ooiio
+		portraits={
+			civilian={
+				large="GFX_SOM_Aden_Daar"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

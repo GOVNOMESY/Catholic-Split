@@ -1,0 +1,33 @@
+
+state={
+	id=719
+	name="STATE_719"
+
+	history={
+		owner = SRL
+		victory_points = {
+			4516 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = V28
+		add_core_of = X73
+		add_claim_by = NEP
+		add_claim_by = SRL
+		add_claim_by = X26
+	}
+
+	provinces={
+		1444 1541 1569 1637 1656 4459 4516 4544 4571 7475 7537 7593 10358 10361 10471 10878 12035 12307 12452 
+	}
+	manpower=16170120
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

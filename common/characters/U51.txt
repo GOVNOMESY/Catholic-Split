@@ -1,0 +1,16 @@
+characters={
+	U51_iaeone_zubayr={
+		name=U51_iaeone_zubayr
+		portraits={
+			civilian={
+				large="GFX_SOM_Haji_Bashir_Ismail_Yusuf"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

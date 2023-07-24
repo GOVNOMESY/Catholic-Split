@@ -1,0 +1,140 @@
+﻿capital = 482
+set_research_slots = 2
+
+oob = "W82_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_california
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1816.1.18"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 90
+	democratic = 7
+	neutrality = 3
+}
+
+add_opinion_modifier = { target = ADU modifier = negative_20 }
+add_opinion_modifier = { target = ARG modifier = negative_10 }
+add_opinion_modifier = { target = AST modifier = negative_30 }
+add_opinion_modifier = { target = BOL modifier = negative_10 }
+add_opinion_modifier = { target = BRA modifier = negative_10 }
+add_opinion_modifier = { target = COL modifier = negative_30 }
+add_opinion_modifier = { target = ECU modifier = negative_10 }
+add_opinion_modifier = { target = EGY modifier = negative_20 }
+add_opinion_modifier = { target = HOL modifier = negative_10 }
+add_opinion_modifier = { target = ITA modifier = negative_10 }
+add_opinion_modifier = { target = JAP modifier = negative_20 }
+add_opinion_modifier = { target = PHI modifier = negative_20 }
+add_opinion_modifier = { target = SCA modifier = negative_10 }
+add_opinion_modifier = { target = SRL modifier = negative_20 }
+add_opinion_modifier = { target = SUD modifier = negative_20 }
+add_opinion_modifier = { target = U03 modifier = negative_20 }
+add_opinion_modifier = { target = U04 modifier = negative_20 }
+add_opinion_modifier = { target = U06 modifier = negative_20 }
+add_opinion_modifier = { target = U14 modifier = negative_20 }
+add_opinion_modifier = { target = U16 modifier = negative_20 }
+add_opinion_modifier = { target = U20 modifier = negative_30 }
+add_opinion_modifier = { target = U21 modifier = negative_10 }
+add_opinion_modifier = { target = U22 modifier = negative_30 }
+add_opinion_modifier = { target = V56 modifier = negative_20 }
+add_opinion_modifier = { target = V78 modifier = negative_10 }
+add_opinion_modifier = { target = V95 modifier = negative_20 }
+add_opinion_modifier = { target = W29 modifier = negative_20 }
+add_opinion_modifier = { target = W30 modifier = negative_20 }
+add_opinion_modifier = { target = W54 modifier = negative_30 }
+add_opinion_modifier = { target = W68 modifier = negative_20 }
+add_opinion_modifier = { target = W69 modifier = negative_20 }
+add_opinion_modifier = { target = W70 modifier = negative_20 }
+add_opinion_modifier = { target = W99 modifier = negative_20 }
+add_opinion_modifier = { target = X15 modifier = negative_20 }
+add_opinion_modifier = { target = X53 modifier = positive_5 }
+
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_na_dene
+}
+
+recruit_character = W82_bazheech_ashinuii
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Lozen Keha'atiinii"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_8.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W82 }
+	}
+
+	create_operative_leader = {
+		name = "Tohayea Kaisun"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_10.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W82 }
+	}
+
+	create_operative_leader = {
+		name = "Ilthgozay Bit'anhi"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_21.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W82 }
+	}
+
+	create_operative_leader = {
+		name = "Otoahnisto T'üschebaanii"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_14.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W82 }
+	}
+
+	create_operative_leader = {
+		name = "Ahway Eskay Kiva"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_18.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W82 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

@@ -1,0 +1,35 @@
+
+state={
+	id=93
+	name="STATE_93"
+	resources={
+		chromium=2.000
+		steel=21.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = BAY
+		victory_points = {
+			6524 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 2
+
+		}
+		add_core_of = BAY
+		add_core_of = GER
+	}
+
+	provinces={
+		425 538 3561 6501 6524 6582 11545 
+	}
+	manpower=2072640
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

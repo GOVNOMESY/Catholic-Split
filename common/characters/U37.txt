@@ -1,0 +1,16 @@
+characters={
+	U37_cecilio_aa0ae0i={
+		name=U37_cecilio_aa0ae0i
+		portraits={
+			civilian={
+				large="GFX_Bolivia_Franz_Tamayo"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

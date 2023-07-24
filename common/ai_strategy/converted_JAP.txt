@@ -1,0 +1,83 @@
+﻿converted_war_strategies_JAP = {
+	enable = {
+		tag = JAP
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "W73"
+		value = 1080
+	}
+	ai_strategy = {
+		type = conquer
+		id = "KOR"
+		value = 34
+	}
+}
+
+converted_diplo_strategies_JAP = {
+	enable = {
+		tag = JAP
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "KOR"
+		value = 228
+	}
+	ai_strategy = {
+		type = contain
+		id = "W73"
+		value = 223
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W73"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 178
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "KOR"
+		value = 107
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAN"
+		value = 37
+	}
+	ai_strategy = {
+		type = protect
+		id = "KOR"
+		value = 140
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CSA"
+		value = 113
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SCA"
+		value = 89
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "GER"
+		value = 51
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "CAN"
+		value = 43
+	}
+}

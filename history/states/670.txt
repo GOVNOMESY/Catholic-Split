@@ -1,0 +1,35 @@
+
+state={
+	id=670
+	name="STATE_670"
+
+	history={
+		owner = U46
+		victory_points = {
+			10831 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 0
+			8034 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = U46
+		add_core_of = W91
+		add_claim_by = U08
+		add_claim_by = V04
+	}
+
+	provinces={
+		8034 10831 
+	}
+	manpower=2146468
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

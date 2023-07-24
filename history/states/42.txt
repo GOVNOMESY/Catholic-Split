@@ -1,0 +1,33 @@
+
+state={
+	id=42
+	name="STATE_42"
+
+	history={
+		owner = ARG
+		victory_points = {
+			1626 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			10347 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = ARG
+		add_core_of = X95
+	}
+
+	provinces={
+		1626 1641 1654 10347 12440 12481 
+	}
+	manpower=1011732
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,46 @@
+
+state={
+	id=131
+	name="STATE_131"
+	resources={
+		aluminium=5.000
+		chromium=3.000
+		steel=2.000
+		tungsten=2.000
+	}
+
+	history={
+		owner = BOL
+		victory_points = {
+			12996 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			12996 = {
+				naval_base = 8
+			}
+			air_base = 0
+
+		}
+		add_core_of = COL
+		add_core_of = U23
+		add_claim_by = X90
+		BAS = {
+			set_province_controller = 12996
+		}
+		SCA = {
+			set_province_controller = 8190
+		}
+	}
+
+	provinces={
+		2153 8190 8196 10999 12996 
+	}
+	manpower=632748
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

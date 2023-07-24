@@ -1,0 +1,38 @@
+
+state={
+	id=625
+	name="STATE_625"
+
+	history={
+		owner = SCA
+		victory_points = {
+			3957 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			3957 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = USA
+		add_core_of = W17
+		add_claim_by = CSA
+		CSA = {
+			set_province_controller = 3957
+			set_province_controller = 11892
+		}
+	}
+
+	provinces={
+		3957 11892 
+	}
+	manpower=500148
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

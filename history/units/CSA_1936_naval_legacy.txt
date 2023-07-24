@@ -1,0 +1,39 @@
+units = {
+	fleet = {
+		name = "3. ýñêàäðà"
+		naval_base = 1132
+		task_force = {
+			name = "3. ýñêàäðà"
+			location = 1132
+			ship = { name = "Òåõàñ" definition = battleship equipment = { battleship_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "Àëàáàìà" definition = battleship equipment = { battleship_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "Ìèññèñèïè" definition = battleship equipment = { battleship_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "Êåíòóêêè" definition = battleship equipment = { battleship_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "Ìèññóðè" definition = battleship equipment = { battleship_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "Ñåììåñ" definition = battleship equipment = { battleship_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "Ñò. Ëüþèñ" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = CSA } } }
+			ship = { name = "Ìåéêîí" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = CSA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "CSA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "CSA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

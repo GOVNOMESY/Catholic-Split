@@ -1,0 +1,58 @@
+﻿X75 = {
+	battle_cruiser = {
+		prefix = ""
+		generic = { "Battlecruiser" }
+		unique = {
+			"GÃ¶teborg" "MalmÃ¶" "Uppsala" "VÃ¤sterÃ¥s" "Ã–rebro" "LinkÃ¶ping" "Helsingborg" "NynÃ¤shamn" "Karlshamn" "Halmstad" "Blenda" "Astrid" "Ellida" "Sleipner" "Viking" "Frithjof" "Rjukan" "Sarpen" "Lougen" "Glommen" "Helgoland" "Danmark" "Gorm" "Lindormen" "Odin" "Rolf Krake" "Tordenskjold" "Peder Skram" "Dannebrog" "Gorm" "Olfert Fischer" "Absalon" 
+		}
+	}
+
+	battleship = {
+		prefix = ""
+		generic = { "Battleship" }
+		unique = {
+			"Clas Eriksson Fleming" "Axel Nilsson Ryning" "Carl Carlsson Gyllenhielm" "Gustaf Otto Stenbock" "Lorentz Creutz" "Hans Wachtmeister af Johannishus" "Henrik af Trolle" "Carl August EhrensvÃ¤rd" "Fredrik" "Johan" "Manligheten" "Dristigheten" "Sverige" "Ãss" "Vanr" "Ãlfr" "JÃ¶tunn" "Ulrik Christian GyldenlÃ¸ve" "KÃ¸benhavn" "Ã…rhus" "Ã…lborg" "Odense" "Fredriksberg" "Esbjerg" "NÃ¸rrejyske Ã˜" "Fyn" "JÃ³tlandshaf" 
+		}
+	}
+
+	carrier = {
+		prefix = ""
+		generic = { "Carrier" }
+		unique = {
+			"John Ericsson" "Loke" "SkÃ¶ld" "Tirfing" "TordÃ¶n" "Berserk" "BjÃ¶rn" "Folke" "SÃ¶lve" "Ulf" "Fenris" "Garmer" "Gerda" "Hildur" "Skorpionen" "MjÃ¸lner" "Thrudvang" "Freia" "Diana" "Lindormen" "StÃ¸ren" "StubberkÃ¸bing" "Gejser" "Kiel" "Falster" "Narhvalen" "Tumleren" 
+		}
+	}
+
+	destroyer = {
+		prefix = ""
+		generic = { "Destroyer" }
+		unique = {
+			"Claes Uggla" "Psilander" "Claes Horn" "Jacob Bakke" "Ornen" "Fylgia" "Tre Kronor" "GÃ¶ta Lejon" "Ã–stersund" "Borgholm" "Thor" "Odin" "Njord" "Freyr" "Tyr" "Bragl" "Heimdall" "Hoder" "Vidar" "Ale" "Ullr" "Forseti" "Fyen" "Geiser" "Heimdal" "Hekla" "St. Thomas" "Valkyrien" "Herluf Trolle" "SÃ¸eormen" "SusÃ¥en" "GudenÃ¥en" 
+		}
+	}
+
+	heavy_cruiser = {
+		prefix = ""
+		generic = { "Heavy Cruiser" }
+		unique = {
+			"Carl XIII" "Karl XIV Johan" "Prins Oscar" "Gustav den Store" "Stockholm" "FÃ¶rsiktigheten" "Tapperheten" "Kung Adolph Fredric" "Henrik" "Tomas" "Freia" "Desideira" "St Olaf" "Kong Sverre" "Ellida" "Nordssthernen" "Nornen" "Nidaros" "Ã˜rnen" "Prins Christian Frederik" "Skjold" "Absalon" "Ingolf" "Dannebrog" "Dagmar" "Gesjer" "Dronning Marie" "Waldemar" "Fredrik" 
+		}
+	}
+
+	light_cruiser = {
+		prefix = ""
+		generic = { "Light Cruiser" }
+		unique = {
+			"BjÃ¶rn JÃ¤rnsida" "Erik SegersÃ¤ll" "Gardarr Svavarsson" "Birka" "AsgÃ¥rd" "Kraken" "BÃ¤ckahÃ¤st" "StorsjÃ¶n" "VÃ¤nern" "VÃ¤ttern" "Heimdal" "Fridtjof Nansen" "Nordkapp" "Esbern Snare" "Fylla" "FÃ¦rÃ¸erne" "GrÃ¸nland" "VÃ­kingr" "Harald Klak" "Svend TveskÃ¦g" "Kattegat" "Ã˜resund" "Silkeborg" 
+		}
+	}
+
+	submarine = {
+		prefix = ""
+		generic = { "Submarine" }
+		unique = {
+			"Packa" "Svarta Ã–rn" "Jarramas" "Vainqueur" "Delphin" "Illerim" "Lilla Phoenix" "VÃ¤xjÃ¶" "GÃ¤vle" "Baron Gustaf Bonde" "Freia" "Desideira" "St Olaf" "Kong Sverre" "Ellida" "Nordssthernen" "Nornen" "Nidaros" "Ã˜rnen" "Najaden" "Hummer" "Stralsund" "SÃ¸ridder" "Leopard" "Raae" "Esbern Snare" "Ã˜rnen" "SjÃ¦lland" "Gefion" "Thetis" "Niels Juel" "Rota" 
+		}
+	}
+
+}

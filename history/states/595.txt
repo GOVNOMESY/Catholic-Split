@@ -1,0 +1,40 @@
+
+state={
+	id=595
+	name="STATE_595"
+
+	history={
+		owner = SOV
+		victory_points = {
+			3061 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 8
+			arms_factory = 3
+			dockyard = 2
+			3061 = {
+				naval_base = 10
+			}
+			air_base = 10
+
+		}
+		add_core_of = FIN
+		add_core_of = SCA
+		add_core_of = SOV
+		add_core_of = V90
+		add_claim_by = NOR
+		add_claim_by = V49
+		add_claim_by = W19
+		add_claim_by = W92
+	}
+
+	provinces={
+		63 66 67 204 3025 3050 3060 3061 3119 3122 3133 3137 3161 3172 3187 6009 6013 6047 6052 6082 6108 6138 6141 6144 6150 6153 6163 6186 6198 9038 9100 9105 9129 9150 9156 9160 9166 9167 9176 9183 9206 9219 11033 11046 11056 11065 11066 11105 11126 11144 11156 11162 11172 11211 
+	}
+	manpower=2953994
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

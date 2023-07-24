@@ -1,0 +1,37 @@
+
+state={
+	id=402
+	name="STATE_402"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = X98
+		victory_points = {
+			11683 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			3755 = {
+				naval_base = 1
+			}
+			air_base = 1
+
+		}
+		add_core_of = GER
+		add_claim_by = HUN
+		add_claim_by = X98
+	}
+
+	provinces={
+		574 3403 3755 6451 6478 9573 11546 11561 11683 11715 
+	}
+	manpower=1275200
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=21
+	name="STATE_21"
+	resources={
+		chromium=2.000
+		steel=2.000
+	}
+
+	history={
+		owner = AFG
+		victory_points = {
+			12763 10 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 0
+			1179 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = V28
+		add_core_of = W26
+		add_claim_by = AFG
+		add_claim_by = X73
+	}
+
+	provinces={
+		1179 1978 4558 4990 4998 5043 5075 5105 7847 7917 7975 8013 8044 8066 8098 10813 12717 12761 12763 12774 
+	}
+	manpower=1969528
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

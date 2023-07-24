@@ -1,0 +1,88 @@
+﻿converted_war_strategies_CAT = {
+	enable = {
+		tag = CAT
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "SPC"
+		value = 2928
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 1502
+	}
+	ai_strategy = {
+		type = conquer
+		id = "FRA"
+		value = 890
+	}
+}
+
+converted_diplo_strategies_CAT = {
+	enable = {
+		tag = CAT
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SPC"
+		value = 225
+	}
+	ai_strategy = {
+		type = contain
+		id = "U06"
+		value = 125
+	}
+	ai_strategy = {
+		type = contain
+		id = "X94"
+		value = 25
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SPC"
+		value = 317
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 267
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 267
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ITA"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "FRA"
+		value = 173
+	}
+	ai_strategy = {
+		type = alliance
+		id = "BAY"
+		value = 170
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SCO"
+		value = 126
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U06"
+		value = 45
+	}
+}

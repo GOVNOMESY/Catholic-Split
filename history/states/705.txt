@@ -1,0 +1,33 @@
+
+state={
+	id=705
+	name="STATE_705"
+
+	history={
+		owner = SER
+		victory_points = {
+			11818 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			11818 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = GRE
+		add_claim_by = SER
+	}
+
+	provinces={
+		3526 10163 11818 
+	}
+	manpower=812588
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

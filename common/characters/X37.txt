@@ -1,0 +1,16 @@
+characters={
+	X37_segal_dubois={
+		name=X37_segal_dubois
+		portraits={
+			civilian={
+				large="GFX_Canada_King_Edward_VIII"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

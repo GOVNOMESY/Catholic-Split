@@ -1,0 +1,37 @@
+
+state={
+	id=119
+	name="STATE_119"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = BOL
+		victory_points = {
+			2225 6 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 2
+			dockyard = 2
+			2225 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = BOL
+		add_claim_by = X63
+	}
+
+	provinces={
+		2225 5166 8160 8191 10940 12953 
+	}
+	manpower=4065908
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

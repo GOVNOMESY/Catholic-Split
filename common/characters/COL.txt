@@ -1,0 +1,36 @@
+characters={
+	COL_cirilo_santos={
+		name=COL_cirilo_santos
+		portraits={
+			army={
+				large="GFX_Paraguay_Rafael_Franco_KR"
+			}
+			army={
+				small="GFX_Paraguay_Rafael_Franco_KR"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	COL_cirilo_oei0an={
+		name=COL_cirilo_oei0an
+		portraits={
+			civilian={
+				large="gfx/leaders/COL/portrait_col_alfonso_lopez_pumarejo.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

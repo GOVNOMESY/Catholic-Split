@@ -1,0 +1,16 @@
+characters={
+	W01_aai_d'oultremont={
+		name=W01_aai_d'oultremont
+		portraits={
+			civilian={
+				large="GFX_Canada_King_George"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

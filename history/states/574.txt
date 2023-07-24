@@ -1,0 +1,37 @@
+
+state={
+	id=574
+	name="STATE_574"
+
+	history={
+		owner = W99
+		victory_points = {
+			9935 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			9935 = {
+				naval_base = 8
+			}
+			air_base = 2
+
+		}
+		add_core_of = BAN
+		add_core_of = V28
+		add_core_of = W99
+		add_core_of = X73
+		add_claim_by = X11
+	}
+
+	provinces={
+		2843 4162 7078 7124 9935 9991 10035 11911 11968 12010 
+	}
+	manpower=7406128
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=202
+	name="STATE_202"
+
+	history={
+		owner = CSA
+		victory_points = {
+			11621 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = V00
+		add_claim_by = CSA
+		add_claim_by = USA
+	}
+
+	provinces={
+		1881 4527 11621 11635 
+	}
+	manpower=375160
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

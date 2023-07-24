@@ -1,0 +1,33 @@
+
+state={
+	id=791
+	name="STATE_791"
+
+	history={
+		owner = U20
+		victory_points = {
+			12872 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			7936 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = U20
+		add_claim_by = W59
+	}
+
+	provinces={
+		7936 7991 10846 12872 
+	}
+	manpower=351036
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

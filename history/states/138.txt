@@ -1,0 +1,35 @@
+
+state={
+	id=138
+	name="STATE_138"
+	resources={
+		rubber=3.000
+	}
+
+	history={
+		owner = BRA
+		victory_points = {
+			5151 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			5220 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = BRA
+	}
+
+	provinces={
+		2168 5151 5220 12913 12933 12947 
+	}
+	manpower=1015644
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

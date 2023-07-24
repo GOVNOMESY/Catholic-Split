@@ -1,0 +1,34 @@
+
+state={
+	id=524
+	name="STATE_524"
+
+	history={
+		owner = W73
+		victory_points = {
+			7186 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			7186 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = V60
+		add_core_of = W73
+	}
+
+	provinces={
+		1091 1175 4096 7186 7214 9955 11914 11959 12027 12068 
+	}
+	manpower=5089504
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

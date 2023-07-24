@@ -1,0 +1,141 @@
+﻿capital = 288
+set_research_slots = 3
+
+oob = "X37_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_france
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1816.1.18"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 73
+	democratic = 25
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = ADU modifier = negative_10 }
+add_opinion_modifier = { target = ARG modifier = negative_20 }
+add_opinion_modifier = { target = AST modifier = negative_10 }
+add_opinion_modifier = { target = BOS modifier = negative_10 }
+add_opinion_modifier = { target = BRA modifier = negative_20 }
+add_opinion_modifier = { target = BUL modifier = negative_10 }
+add_opinion_modifier = { target = CAT modifier = negative_10 }
+add_opinion_modifier = { target = DEN modifier = negative_10 }
+add_opinion_modifier = { target = EGY modifier = negative_10 }
+add_opinion_modifier = { target = HOL modifier = negative_30 }
+add_opinion_modifier = { target = ITA modifier = negative_10 }
+add_opinion_modifier = { target = JAP modifier = negative_10 }
+add_opinion_modifier = { target = PHI modifier = negative_10 }
+add_opinion_modifier = { target = SCA modifier = negative_10 }
+add_opinion_modifier = { target = SER modifier = negative_30 }
+add_opinion_modifier = { target = SIL modifier = negative_10 }
+add_opinion_modifier = { target = SLO modifier = negative_10 }
+add_opinion_modifier = { target = SOV modifier = negative_10 }
+add_opinion_modifier = { target = SRL modifier = negative_10 }
+add_opinion_modifier = { target = SUD modifier = negative_10 }
+add_opinion_modifier = { target = U03 modifier = negative_10 }
+add_opinion_modifier = { target = U04 modifier = negative_10 }
+add_opinion_modifier = { target = U06 modifier = negative_10 }
+add_opinion_modifier = { target = U14 modifier = negative_10 }
+add_opinion_modifier = { target = U16 modifier = negative_10 }
+add_opinion_modifier = { target = U18 modifier = negative_10 }
+add_opinion_modifier = { target = V56 modifier = negative_10 }
+add_opinion_modifier = { target = V95 modifier = negative_10 }
+add_opinion_modifier = { target = W29 modifier = negative_10 }
+add_opinion_modifier = { target = W30 modifier = negative_10 }
+add_opinion_modifier = { target = W68 modifier = negative_10 }
+add_opinion_modifier = { target = W69 modifier = negative_10 }
+add_opinion_modifier = { target = W70 modifier = negative_10 }
+add_opinion_modifier = { target = W99 modifier = negative_10 }
+add_opinion_modifier = { target = X15 modifier = negative_10 }
+add_opinion_modifier = { target = X53 modifier = negative_10 }
+add_opinion_modifier = { target = X62 modifier = negative_10 }
+
+
+add_ideas = {
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_breton
+}
+
+recruit_character = X37_segal_dubois
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Anne le Bihan"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X37 }
+	}
+
+	create_operative_leader = {
+		name = "Marie Salaun"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X37 }
+	}
+
+	create_operative_leader = {
+		name = "Marie Comtois"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X37 }
+	}
+
+	create_operative_leader = {
+		name = "Henri Riou"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X37 }
+	}
+
+	create_operative_leader = {
+		name = "Segal Fabron"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X37 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

@@ -1,0 +1,76 @@
+characters={
+	X73_vijay_singh={
+		name=X73_vijay_singh
+		portraits={
+			army={
+				large="GFX_India_Generic_land_new_5"
+			}
+			army={
+				small="GFX_India_Generic_land_new_5"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X73_narayan_singh={
+		name=X73_narayan_singh
+		portraits={
+			army={
+				large="GFX_DEH_Maharaja_Rajendrasinhji_Jadeja"
+			}
+			army={
+				small="GFX_DEH_Maharaja_Rajendrasinhji_Jadeja"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X73_pheran_singh={
+		name=X73_pheran_singh
+		portraits={
+			army={
+				large="GFX_Portrait_The_Raj_Army_Generic"
+			}
+			army={
+				small="GFX_Portrait_The_Raj_Army_Generic"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X73_lokendra_neiao={
+		name=X73_lokendra_neiao
+		portraits={
+			civilian={
+				large="GFX_MYS_Kaka_Kalekar"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

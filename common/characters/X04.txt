@@ -1,0 +1,16 @@
+characters={
+	X04_naeiae_harukor={
+		name=X04_naeiae_harukor
+		portraits={
+			civilian={
+				large="GFX_Ainu_Generic_Absolutist_2"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=710
+	name="STATE_710"
+	resources={
+		aluminium=1.000
+		chromium=1.000
+	}
+
+	history={
+		owner = SER
+		victory_points = {
+			914 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			13255 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = GRE
+		add_claim_by = SER
+	}
+
+	provinces={
+		914 3448 3884 3896 6900 9780 9875 9914 11762 11767 13234 13235 13255 
+	}
+	manpower=2813664
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

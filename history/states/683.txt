@@ -1,0 +1,39 @@
+
+state={
+	id=683
+	name="STATE_683"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = U46
+		victory_points = {
+			5158 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			5158 = {
+				naval_base = 1
+			}
+			air_base = 6
+
+		}
+		add_core_of = U46
+		add_core_of = W43
+		add_core_of = W56
+		add_core_of = W84
+		add_claim_by = W40
+	}
+
+	provinces={
+		5158 7548 8054 12981 
+	}
+	manpower=516320
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

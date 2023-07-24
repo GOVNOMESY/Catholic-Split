@@ -1,0 +1,38 @@
+
+state={
+	id=204
+	name="STATE_204"
+
+	history={
+		owner = CSA
+		victory_points = {
+			7388 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			dockyard = 1
+			10407 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = SCA
+		add_core_of = USA
+		add_claim_by = CSA
+		add_claim_by = CUB
+		add_claim_by = X05
+		add_claim_by = X46
+	}
+
+	provinces={
+		866 1556 1572 1584 1843 1913 7388 9834 10352 10380 10407 10489 12353 12381 12439 12752 
+	}
+	manpower=1290744
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

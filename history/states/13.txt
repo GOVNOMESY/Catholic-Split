@@ -1,0 +1,42 @@
+
+state={
+	id=13
+	name="STATE_13"
+	resources={
+		oil=20.000
+		steel=4.000
+	}
+
+	history={
+		owner = AFG
+		victory_points = {
+			12832 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 1
+			dockyard = 1
+			5005 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = AFG
+		add_core_of = PER
+		add_core_of = V95
+		add_claim_by = IRQ
+		add_claim_by = V26
+		add_claim_by = V54
+	}
+
+	provinces={
+		1922 5005 5089 7953 10797 12832 
+	}
+	manpower=1349580
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

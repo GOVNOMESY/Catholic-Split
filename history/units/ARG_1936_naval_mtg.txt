@@ -1,0 +1,42 @@
+units = {
+	fleet = {
+		name = "3. ýñêàäðà"
+		naval_base = 5171
+		task_force = {
+			name = "3. ýñêàäðà"
+			location = 5171
+			ship = { name = "Âàëüäèâèÿ" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Êîïüÿïî" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ìåëî" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Îñîðíî" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Êîïüÿïî 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ïàðàíà" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Âàëüäèâèÿ 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Êîïüÿïî 3" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Âàëüäèâèÿ 3" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Îñîðíî 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ìåëî 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Êîïüÿïî 4" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Goodheavens" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ïàðàíà 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Àëüìèðàíòå Áðàóí" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Àëüâàðåñ Õîíòå" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Áåëüãðàíî" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Áóýíîñ-Àéðåñ" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Light Cruiser" } } }
+			ship = { name = "Êàñòåëüè" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = ARG version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "ARG"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=614
+	name="STATE_614"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = SOV
+		victory_points = {
+			3194 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 0
+			9340 = {
+				naval_base = 10
+			}
+			air_base = 10
+
+		}
+		add_core_of = EST
+		add_core_of = LAT
+		add_core_of = V76
+		add_core_of = V96
+		add_claim_by = SOV
+	}
+
+	provinces={
+		222 233 265 310 319 341 3194 3255 3296 3298 3319 3388 3525 6222 6322 6342 6459 7482 9240 9262 9275 9317 9340 9501 10323 10493 11222 11246 11302 11358 
+	}
+	manpower=1268628
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

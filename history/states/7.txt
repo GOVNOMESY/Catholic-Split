@@ -1,0 +1,34 @@
+
+state={
+	id=7
+	name="STATE_7"
+
+	history={
+		owner = ADU
+		victory_points = {
+			2211 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			12632 = {
+				naval_base = 4
+			}
+			air_base = 5
+
+		}
+		add_core_of = ADU
+		add_core_of = V50
+		add_core_of = X09
+	}
+
+	provinces={
+		2211 4819 8232 8241 10650 12632 12980 12988 
+	}
+	manpower=9396
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

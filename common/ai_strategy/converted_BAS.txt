@@ -1,0 +1,113 @@
+﻿converted_war_strategies_BAS = {
+	enable = {
+		tag = BAS
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "SCA"
+		value = 2938
+	}
+	ai_strategy = {
+		type = conquer
+		id = "DEN"
+		value = 876
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 365
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CSA"
+		value = 78
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SCO"
+		value = 73
+	}
+}
+
+converted_diplo_strategies_BAS = {
+	enable = {
+		tag = BAS
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "U20"
+		value = 125
+	}
+	ai_strategy = {
+		type = contain
+		id = "SCA"
+		value = 95
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "DEN"
+		value = 267
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SCA"
+		value = 267
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 122
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 26
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SCO"
+		value = 24
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SCA"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ECU"
+		value = 128
+	}
+	ai_strategy = {
+		type = alliance
+		id = "BOL"
+		value = 103
+	}
+	ai_strategy = {
+		type = alliance
+		id = "U21"
+		value = 82
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X62"
+		value = 56
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "WLL"
+		value = 31
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U21"
+		value = 31
+	}
+}

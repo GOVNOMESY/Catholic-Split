@@ -1,0 +1,37 @@
+
+state={
+	id=732
+	name="STATE_732"
+
+	history={
+		owner = V56
+		victory_points = {
+			4608 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 0
+			dockyard = 1
+			7381 = {
+				naval_base = 6
+			}
+			air_base = 10
+
+		}
+		add_core_of = INS
+		add_core_of = PHI
+		add_core_of = V56
+		add_core_of = W66
+		add_claim_by = V62
+	}
+
+	provinces={
+		1386 1398 1413 1425 4306 4390 4406 4434 4608 4621 7223 7381 7421 7642 10135 10279 10307 10491 12249 12277 12293 
+	}
+	manpower=5245164
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

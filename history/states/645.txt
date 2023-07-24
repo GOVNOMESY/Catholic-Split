@@ -1,0 +1,41 @@
+
+state={
+	id=645
+	name="STATE_645"
+	resources={
+		steel=11.000
+	}
+
+	history={
+		owner = SCO
+		victory_points = {
+			3369 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			540 = {
+				naval_base = 1
+			}
+			air_base = 2
+
+		}
+		add_core_of = SCO
+		add_core_of = X75
+		add_claim_by = ENG
+		add_claim_by = FRA
+		add_claim_by = WLS
+		add_claim_by = X03
+	}
+
+	provinces={
+		540 3369 3422 3463 6351 6378 6526 9484 9562 11406 
+	}
+	manpower=3042100
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

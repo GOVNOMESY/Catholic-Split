@@ -1,0 +1,16 @@
+characters={
+	V81_prospero_govone={
+		name=V81_prospero_govone
+		portraits={
+			civilian={
+				large="gfx/leaders/ITA/Portrait_Italy_Vittorio_Emanuele_III.dds"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

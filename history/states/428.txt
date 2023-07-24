@@ -1,0 +1,33 @@
+
+state={
+	id=428
+	name="STATE_428"
+
+	history={
+		owner = ITA
+		victory_points = {
+			12473 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			12029 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = EGY
+		add_core_of = SYR
+	}
+
+	provinces={
+		1056 1072 3942 7140 7671 12029 12473 
+	}
+	manpower=1300840
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

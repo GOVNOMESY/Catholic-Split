@@ -1,0 +1,31 @@
+
+state={
+	id=785
+	name="STATE_785"
+
+	history={
+		owner = U15
+		victory_points = {
+			8099 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = U15
+		add_core_of = V65
+		add_claim_by = U00
+	}
+
+	provinces={
+		4599 7491 8099 12333 12491 
+	}
+	manpower=289372
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

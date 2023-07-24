@@ -1,0 +1,16 @@
+characters={
+	W31_king_ab0_sa'0d_ii={
+		name=W31_king_ab0_sa'0d_ii
+		portraits={
+			civilian={
+				large="GFX_Afgahnistan_Habibullah_Khan"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,76 @@
+characters={
+	SUD_mansur_zubayr={
+		name=SUD_mansur_zubayr
+		portraits={
+			army={
+				large="GFX_SOM_Barre"
+			}
+			army={
+				small="GFX_SOM_Barre"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SUD_hassan_ali={
+		name=SUD_hassan_ali
+		portraits={
+			army={
+				large="GFX_Portrait_Africa_Generic_land_4"
+			}
+			army={
+				small="GFX_Portrait_Africa_Generic_land_4"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SUD_hassan_ali_1={
+		name=SUD_hassan_ali_1
+		portraits={
+			army={
+				large="GFX_SUD_Ferik_Abboud"
+			}
+			army={
+				small="GFX_SUD_Ferik_Abboud"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	SUD_malusi_ioaaoie={
+		name=SUD_malusi_ioaaoie
+		portraits={
+			civilian={
+				large="GFX_Africa_Generic_new_1"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

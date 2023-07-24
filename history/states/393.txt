@@ -1,0 +1,35 @@
+
+state={
+	id=393
+	name="STATE_393"
+
+	history={
+		owner = X98
+		victory_points = {
+			3943 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			3924 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = GRE
+		add_core_of = ITA
+		add_core_of = X74
+		add_claim_by = X98
+	}
+
+	provinces={
+		984 3924 3943 3974 11816 
+	}
+	manpower=730216
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,18 @@
+﻿converted_war_strategies_SWE = {
+	enable = {
+		tag = SWE
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_SWE = {
+	enable = {
+		tag = SWE
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

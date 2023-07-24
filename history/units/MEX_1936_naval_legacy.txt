@@ -1,0 +1,47 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 12715
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 12715
+			ship = { name = "Óñóìàñèíòà" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Êîððàëåðî" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Ïàñòîðèÿ" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Áåëèç 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Ñàí-Ñàëüâàäîð 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Áåëèç 6" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Áåëèç 7" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Ñàí-Ñàëüâàäîð 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Òèëüòåïåê" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Àþòëà" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Òåóàíòåïåê" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Îëüìåê" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Òåîòèóàêàí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Àñêàïîöàëüêî" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Ðèî-Ãðàíäå" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+			ship = { name = "Íàóà" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = MEX } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "MEX"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "MEX"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

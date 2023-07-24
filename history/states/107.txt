@@ -1,0 +1,37 @@
+
+state={
+	id=107
+	name="STATE_107"
+	resources={
+		aluminium=5.000
+		steel=22.000
+	}
+
+	history={
+		owner = BAY
+		victory_points = {
+			11531 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = BAY
+		add_core_of = GER
+		add_core_of = V31
+		add_core_of = W05
+		add_claim_by = V27
+	}
+
+	provinces={
+		9575 11531 
+	}
+	manpower=999716
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=476
+	name="STATE_476"
+
+	history={
+		owner = W58
+		victory_points = {
+			5096 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = V28
+		add_core_of = W58
+		add_core_of = X39
+		add_claim_by = SRL
+		add_claim_by = X73
+		X73 = {
+			set_province_controller = 10807
+		}
+	}
+
+	provinces={
+		1949 2036 2105 4106 4950 4953 5040 5096 7080 8076 10801 10807 10816 10872 11995 12080 12743 12799 12854 
+	}
+	manpower=8174248
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

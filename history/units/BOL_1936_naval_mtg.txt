@@ -1,0 +1,57 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 12996
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 12996
+			ship = { name = "Ìàìîðå" definition = light_cruiser start_experience_factor = 0.23084 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Íåâàäî Ñàõàäà" definition = light_cruiser start_experience_factor = 0.23084 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Êîáèõà" definition = light_cruiser start_experience_factor = 0.1912 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Light Cruiser" } } }
+		}
+	}
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 5131
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 5131
+			ship = { name = "Ïüþðà" definition = heavy_cruiser start_experience_factor = 0.18666 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Áåëåí" definition = heavy_cruiser start_experience_factor = 0.19183 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Èêà 2" definition = heavy_cruiser start_experience_factor = 0.22086 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Óàðàñ" definition = heavy_cruiser start_experience_factor = 0.2026 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ïüþðà 2" definition = heavy_cruiser start_experience_factor = 0.16902 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Èêà 3" definition = heavy_cruiser start_experience_factor = 0.20001 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ïüþðà 3" definition = heavy_cruiser start_experience_factor = 0.22677 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Èêà 4" definition = heavy_cruiser start_experience_factor = 0.24366 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Äåñàãâàäåðî" definition = light_cruiser start_experience_factor = 0.18905 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Èëüèìàíè" definition = light_cruiser start_experience_factor = 0.19578 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ïîîïî" definition = light_cruiser start_experience_factor = 0.22084 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ìàäåðà" definition = light_cruiser start_experience_factor = 0.2272 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Light Cruiser" } } }
+			ship = { name = "Èëüàìïó" definition = light_cruiser start_experience_factor = 0.21826 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BOL version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "BOL"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "BOL"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

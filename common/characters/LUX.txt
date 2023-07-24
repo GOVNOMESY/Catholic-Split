@@ -1,0 +1,16 @@
+characters={
+	LUX_leonhard_a0iiie={
+		name=LUX_leonhard_a0iiie
+		portraits={
+			civilian={
+				large="GFX_Germany_Wilhelm_III"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

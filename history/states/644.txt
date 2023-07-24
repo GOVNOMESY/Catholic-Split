@@ -1,0 +1,38 @@
+
+state={
+	id=644
+	name="STATE_644"
+	resources={
+		steel=5.000
+	}
+
+	history={
+		owner = SCO
+		victory_points = {
+			6103 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			3501 = {
+				naval_base = 1
+			}
+			air_base = 9
+
+		}
+		add_core_of = SCO
+		add_core_of = X03
+		add_core_of = X75
+	}
+
+	provinces={
+		507 3501 6103 6221 6489 9239 9458 11333 11446 11471 13070 
+	}
+	manpower=6744376
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=586
+	name="STATE_586"
+
+	history={
+		owner = PHI
+		victory_points = {
+			1351 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			1351 = {
+				naval_base = 1
+			}
+			air_base = 0
+
+		}
+		add_core_of = PHI
+		add_core_of = W62
+	}
+
+	provinces={
+		1351 
+	}
+	manpower=17737
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

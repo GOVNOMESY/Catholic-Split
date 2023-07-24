@@ -1,0 +1,76 @@
+characters={
+	U14_aytal_shtyrov={
+		name=U14_aytal_shtyrov
+		portraits={
+			army={
+				large="GFX_Portrait_Arabia_Generic_land_3"
+			}
+			army={
+				small="GFX_Portrait_Arabia_Generic_land_3"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U14_elley_shishigin={
+		name=U14_elley_shishigin
+		portraits={
+			army={
+				large="GFX_Arabia_Generic_new_1"
+			}
+			army={
+				small="GFX_Arabia_Generic_new_1"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U14_aytal_shishigin={
+		name=U14_aytal_shishigin
+		portraits={
+			army={
+				large="GFX_OTT_Omer_Fahrettin"
+			}
+			army={
+				small="GFX_OTT_Omer_Fahrettin"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	U14_manchaary_sivtsev={
+		name=U14_manchaary_sivtsev
+		portraits={
+			civilian={
+				large="gfx/leaders/ALB/Portrait_Albania_King_Zog.dds"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,16 @@
+characters={
+	V34_y0eo_oii_iaeeaiao0a_oaa0ei={
+		name=V34_y0eo_oii_iaeeaiao0a_oaa0ei
+		portraits={
+			civilian={
+				large="gfx/leaders/GER/Portrait_Germany_Generic_3.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

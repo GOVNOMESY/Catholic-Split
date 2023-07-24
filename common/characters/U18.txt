@@ -1,0 +1,76 @@
+characters={
+	U18_spyridion_othonaios={
+		name=U18_spyridion_othonaios
+		portraits={
+			army={
+				large="GFX_GRE_Napoleon_Zervas"
+			}
+			army={
+				small="GFX_GRE_Napoleon_Zervas"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U18_makarios_soutsos={
+		name=U18_makarios_soutsos
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U18_adamantios_palaskas={
+		name=U18_adamantios_palaskas
+		portraits={
+			navy={
+				large="GFX_Portrait_Europe_Generic_navy_1"
+			}
+			navy={
+				small="GFX_Portrait_Europe_Generic_navy_1"
+			}
+		}
+		navy_leader={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			maneuvering_skill=3
+			coordination_skill=1
+			legacy_id=0
+		}
+	}
+
+	U18_ee0eaeoeen_charalampis={
+		name=U18_ee0eaeoeen_charalampis
+		portraits={
+			civilian={
+				large="GFX_Papal_State_Angelo_Cerica"
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

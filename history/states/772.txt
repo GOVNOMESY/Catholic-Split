@@ -1,0 +1,29 @@
+
+state={
+	id=772
+	name="STATE_772"
+
+	history={
+		owner = U09
+		victory_points = {
+			4893 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = V65
+	}
+
+	provinces={
+		4893 7448 7584 7984 8053 10476 10852 12248 12871 12877 
+	}
+	manpower=746508
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

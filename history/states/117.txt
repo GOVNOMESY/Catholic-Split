@@ -1,0 +1,37 @@
+
+state={
+	id=117
+	name="STATE_117"
+	resources={
+		oil=5.000
+	}
+
+	history={
+		owner = BOL
+		victory_points = {
+			8199 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 6
+			arms_factory = 2
+			dockyard = 2
+			2156 = {
+				naval_base = 10
+			}
+			air_base = 8
+
+		}
+		add_core_of = BOL
+		add_core_of = X51
+	}
+
+	provinces={
+		2156 5162 8199 12969 
+	}
+	manpower=4250456
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

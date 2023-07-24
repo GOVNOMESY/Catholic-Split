@@ -1,0 +1,16 @@
+characters={
+	W26_eaio0_kunwar={
+		name=W26_eaio0_kunwar
+		portraits={
+			civilian={
+				large="GFX_PRF_Taley_Muhammed_Khan_of_Palanpur"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,16 @@
+characters={
+	X99_m._von_s.={
+		name=X99_m._von_s.
+		portraits={
+			civilian={
+				large="GFX_Germany_Wilhelm_V"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

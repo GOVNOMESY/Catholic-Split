@@ -1,0 +1,31 @@
+
+state={
+	id=544
+	name="STATE_544"
+
+	history={
+		owner = W73
+		victory_points = {
+			4709 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U29
+		add_core_of = W73
+		add_claim_by = CHI
+	}
+
+	provinces={
+		1778 1838 4704 4709 4770 4788 4843 4947 5736 7702 7732 7792 7971 10545 10614 10674 10691 10839 12524 12598 12656 12671 12820 
+	}
+	manpower=1042024
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

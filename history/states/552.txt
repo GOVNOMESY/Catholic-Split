@@ -1,0 +1,32 @@
+
+state={
+	id=552
+	name="STATE_552"
+
+	history={
+		owner = W73
+		victory_points = {
+			12683 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			12551 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = W73
+	}
+
+	provinces={
+		1865 11607 12551 12683 
+	}
+	manpower=815192
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

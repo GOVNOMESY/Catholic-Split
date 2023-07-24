@@ -1,0 +1,26 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 12472
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 12472
+			ship = { name = "Ïðîáîëèíãî 6" definition = destroyer start_experience_factor = 0.25 equipment = { ship_hull_light_1 = { amount = 1 owner = X34 version_name = "Early Destroyer" } } }
+			ship = { name = "Ïðîáîëèíãî 7" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = X34 version_name = "Early Destroyer" } } }
+			ship = { name = "Ïðîáîëèíãî 8" definition = destroyer start_experience_factor = 0.3 equipment = { ship_hull_light_1 = { amount = 1 owner = X34 version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "X34"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

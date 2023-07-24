@@ -1,0 +1,36 @@
+characters={
+	U22_sa'd_al_din_ibn_abu_bakr={
+		name=U22_sa'd_al_din_ibn_abu_bakr
+		portraits={
+			army={
+				large="GFX_Arabia_Generic_land_new_2"
+			}
+			army={
+				small="GFX_Arabia_Generic_land_new_2"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	U22_khalid_ibn_yusuf={
+		name=U22_khalid_ibn_yusuf
+		portraits={
+			civilian={
+				large="GFX_KUR_Kamuran"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

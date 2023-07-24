@@ -1,0 +1,34 @@
+
+state={
+	id=370
+	name="STATE_370"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = GER
+		victory_points = {
+			493 4 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 1
+			air_base = 2
+
+		}
+		add_core_of = GER
+		add_core_of = POL
+		add_core_of = V88
+	}
+
+	provinces={
+		493 548 562 584 3458 3482 3497 3586 6401 6416 9439 9508 9546 11428 11430 11515 11532 
+	}
+	manpower=3682196
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

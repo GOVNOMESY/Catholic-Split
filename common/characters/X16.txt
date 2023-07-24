@@ -1,0 +1,16 @@
+characters={
+	X16_umbarra_noongar={
+		name=X16_umbarra_noongar
+		portraits={
+			civilian={
+				large="GFX_SOM_Aden_Daar"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

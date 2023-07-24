@@ -1,0 +1,48 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 1349
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 1349
+			ship = { name = "Brahmani" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Gopalpur" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Balugaon" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Durga" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Nalabana" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Paradeep" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Jagannath" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Balasore" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Chandipur" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Bhubeneswar" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Kalijai" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Juggernaut" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Baitarani" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Lakshmi" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Konark" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Mahanadi" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+			ship = { name = "Behrampur" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = SRL } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "SRL"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "SRL"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

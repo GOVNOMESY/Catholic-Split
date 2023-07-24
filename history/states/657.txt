@@ -1,0 +1,22 @@
+
+state={
+	id=657
+	name="STATE_657"
+	impassable = yes
+
+	history={
+		owner = U46
+		add_core_of = U46
+		add_core_of = W02
+		add_claim_by = W27
+	}
+
+	provinces={
+		8028 10758 10780 10805 
+	}
+	manpower=388536
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=85
+	name="STATE_85"
+
+	history={
+		owner = X25
+		victory_points = {
+			7034 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = BRM
+		add_core_of = W14
+		add_core_of = X25
+	}
+
+	provinces={
+		1170 1333 1492 1566 1650 2061 4019 4059 4202 4210 4585 4626 7034 7400 7469 7562 10283 10344 10386 12284 12363 12404 12449 12492 
+	}
+	manpower=2029772
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

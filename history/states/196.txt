@@ -1,0 +1,35 @@
+
+state={
+	id=196
+	name="STATE_196"
+
+	history={
+		owner = CSA
+		victory_points = {
+			9864 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			11900 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = USA
+		add_claim_by = CSA
+		add_claim_by = W48
+		add_claim_by = X98
+	}
+
+	provinces={
+		3693 3863 6882 9801 9864 11740 11782 11900 
+	}
+	manpower=1246420
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

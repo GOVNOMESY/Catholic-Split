@@ -1,0 +1,31 @@
+
+state={
+	id=395
+	name="STATE_395"
+
+	history={
+		owner = X98
+		victory_points = {
+			11586 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = V13
+		add_core_of = YUG
+		add_claim_by = X98
+	}
+
+	provinces={
+		630 797 3609 3984 6634 6998 9599 9602 9756 11583 11586 
+	}
+	manpower=1678840
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

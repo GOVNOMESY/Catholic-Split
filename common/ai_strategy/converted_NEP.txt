@@ -1,0 +1,18 @@
+﻿converted_war_strategies_NEP = {
+	enable = {
+		tag = NEP
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_NEP = {
+	enable = {
+		tag = NEP
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=157
+	name="STATE_157"
+
+	history={
+		owner = CAN
+		victory_points = {
+			1690 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			7315 = {
+				naval_base = 8
+			}
+			air_base = 10
+
+		}
+		add_core_of = CAN
+		add_core_of = V40
+		add_core_of = X13
+		add_claim_by = USA
+		add_claim_by = W54
+	}
+
+	provinces={
+		1320 1690 4296 4398 4747 7255 7315 7386 7414 7442 10155 10157 10198 10242 10271 10327 10687 10690 10693 12155 12214 12673 
+	}
+	manpower=1012488
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

@@ -1,0 +1,41 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 1185
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 1185
+			ship = { name = "Òðàí Êàí" definition = destroyer start_experience_factor = 0.09871 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Òðàí Õîàíã" definition = destroyer start_experience_factor = 0.09861 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Òðàí Ìàí" definition = destroyer start_experience_factor = 0.0996 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Ïðà÷èíáóðè" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Ìåðãóè" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Õàéôîí" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Ïðà÷èíáóðè 2" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Òðàí Õüåí" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Àí Òîíã" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Ìèí Òîíã" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Õàéôîí 2" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Ìåðãóè 2" definition = destroyer start_experience_factor = 0.1 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Ïðà÷èíáóðè 3" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Õàéôîí 3" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Ìåðãóè 3" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Õàéôîí 4" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Ìåðãóè 4" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+			ship = { name = "Õàéôîí 5" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = VIN version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "VIN"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

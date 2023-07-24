@@ -1,0 +1,63 @@
+units = {
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 2228
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 2228
+			ship = { name = "Ñàí-Ïàóëó" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ìèíàñ-Æåéðàñ" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ìàðøàë Ôëîðèàíî" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ìàðøàë Äåîäîðî" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ðèî-äå-Æàíåéðî" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Êîíñòèòóéñàî" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ñàíòà-Êàòåðèíà" definition = battleship equipment = { battleship_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Êóðèòèáà" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ñàí-Ëóèñ" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ïîðòó-Àëåãðè" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Òåðåçèíà" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ïàðíàèáà" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ñàí-Ëóèñ 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Òåðåçèíà 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ñàëüâàäîð-äå-Áàèÿ" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ñàí-Ëóèñ 3" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Òèðàäåíòåø" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "January City" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ñàëüâàäîð-äå-Áàèÿ 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ñàí-Ëóèñ 4" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Òåðåçèíà 3" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "January City 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ñàí-Ëóèñ 5" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Òåðåçèíà 4" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ðåïóáëèêà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Àëüìèðàíòå Òàìàíäàðå" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Áåíæàìèí-Êîíñòàíò" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Àëüìèðàíòå Áàððîçî" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ðèàøóýëî" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Òîíåëåðîø" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Ôîðòàëåçà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+			ship = { name = "Àêèäàáàí" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BRA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "BRA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "BRA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

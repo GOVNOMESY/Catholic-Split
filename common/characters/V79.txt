@@ -1,0 +1,96 @@
+characters={
+	V79_victoriano_mejia={
+		name=V79_victoriano_mejia
+		portraits={
+			army={
+				large="GFX_Portrait_South_America_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_South_America_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	V79_victoriano_obregon={
+		name=V79_victoriano_obregon
+		portraits={
+			army={
+				large="GFX_CHL_Bennett"
+			}
+			army={
+				small="GFX_CHL_Bennett"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=4
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	V79_jose_gonzalez={
+		name=V79_jose_gonzalez
+		portraits={
+			army={
+				large="GFX_MEX_Pablo_Macias_Valenzuela"
+			}
+			army={
+				small="GFX_MEX_Pablo_Macias_Valenzuela"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=6
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	V79_emiliano_flores={
+		name=V79_emiliano_flores
+		portraits={
+			army={
+				large="GFX_ELS_Maximiliano_Martinez"
+			}
+			army={
+				small="GFX_ELS_Maximiliano_Martinez"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	V79_gregorio_huerta={
+		name=V79_gregorio_huerta
+		portraits={
+			civilian={
+				large="gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+			}
+		}
+		country_leader={
+			ideology=minarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

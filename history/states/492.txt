@@ -1,0 +1,39 @@
+
+state={
+	id=492
+	name="STATE_492"
+
+	history={
+		owner = MEX
+		victory_points = {
+			12755 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 0
+			5066 = {
+				naval_base = 6
+			}
+			air_base = 10
+
+		}
+		add_core_of = MEX
+		add_core_of = U36
+		add_core_of = V66
+		add_core_of = V73
+		add_core_of = W65
+		add_core_of = W80
+		add_claim_by = X27
+		add_claim_by = X58
+	}
+
+	provinces={
+		4887 5066 8032 8236 10730 10832 12712 12755 
+	}
+	manpower=1635804
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

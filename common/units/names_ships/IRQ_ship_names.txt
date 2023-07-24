@@ -1,0 +1,176 @@
+﻿IRQ_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+
+IRQ_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { IRQ }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Áàãäàä" "Àëü-Ìàâñèëü" "Ñàëàääèí" "Õóò" "Ñàäà" "Ìàðèá" "Ñàëàëà" "Ðàéñóò" "Ìèðáà" "Ñàâêèðà" "Êåðáåëà" "Áàêóáà" "Àëü-Àìàðà" "Àëü-Êóò" "Ñóëàéìàíüÿ" "Àëü-Íàäæàô" "Àëü-Áàñðà" 
+	}
+}
+

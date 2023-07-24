@@ -1,0 +1,35 @@
+
+state={
+	id=519
+	name="STATE_519"
+	resources={
+		chromium=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = W73
+		victory_points = {
+			1224 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			1224 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+	}
+
+	provinces={
+		1224 1311 1340 4269 4373 7307 
+	}
+	manpower=635516
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

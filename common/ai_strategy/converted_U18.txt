@@ -1,0 +1,68 @@
+﻿converted_war_strategies_U18 = {
+	enable = {
+		tag = U18
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 23
+	}
+}
+
+converted_diplo_strategies_U18 = {
+	enable = {
+		tag = U18
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "V26"
+		value = 66
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAN"
+		value = 35
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 29
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HOL"
+		value = 24
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SCA"
+		value = 24
+	}
+	ai_strategy = {
+		type = alliance
+		id = "EGY"
+		value = 132
+	}
+	ai_strategy = {
+		type = alliance
+		id = "U09"
+		value = 71
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W30"
+		value = 107
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "LAO"
+		value = 43
+	}
+}

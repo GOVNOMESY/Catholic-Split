@@ -1,0 +1,176 @@
+﻿JAP_BB_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BB
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+
+	prefix = ""
+	fallback_name = "Battleship BB-%d"
+
+	unique = {
+		"Ñàöóìà" "Êàâàòè" "Ôóñî" "ßìàñèðî" "Èñý" "Õþþãà" "Íàãàòî" "Ìóöó" "Òîñà" "Ìóñàñè" "Ñèíàíî" "Òîãî" "Ýíîìîòî" "Ñàéãî" "Èäçóèí" "Êàãà" "Êèðè" "Îâàðè" "Ñàãàìè" "Íîòî" "ßìàòî" 
+	}
+}
+
+JAP_BC_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_BC
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+
+	prefix = ""
+	fallback_name = "Battlecruiser BC-%d"
+
+	unique = {
+		"Êîòýöó" "Òèýäàãàòà" "Ðþäçî Ìàðó" "Ôóñî" "Ñèíñîêó" "Òýéáî" "Õîäçó" "Àäçóìà" "Êàáàÿìà" "Òýý" "Êîñýé" "Êîñèí" "Òèíúýí" "Àíýãàâà" "Öóñèìà" "Ôóäçè" "Õýéýí" "Ìèêàñà" "Îêè" 
+	}
+}
+
+JAP_CA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CA
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+
+	prefix = ""
+	fallback_name = "Heavy Cruiser CA-%d"
+
+	unique = {
+		"Ñîõýé Ìàðó" "Êàéý Ìàðó" "Óíúý" "Õîî Ìàðó" "Àñàõè Ìàðó" "Áàíðþ" "Ôóäçèñàí" "ßðè" "Èáàðàêè" "Ìèý" "Ýõèìý" "Âàêàÿìà" "Ãèôó" "Àâà" "Òàìáà" 
+	}
+}
+
+JAP_CLAA_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CLAA
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CLAA-%d"
+
+	unique = {
+		"Âîêî" "Õèýöó" "Äçåãàäçè" "Îéòà" "Ñàãà" "Ñèìîíîñåêè" "Òîòòîðè" "Ôóêóè" "Õèäà" "Êèñî" "Àêàèñè" "Ñàðîìà" "Òàäçàâà" "Èêýäà" "Èäçó-õàíòî" 
+	}
+}
+
+JAP_CL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CL
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+
+	prefix = ""
+	fallback_name = "Light Cruiser CL-%d"
+
+	unique = {
+		"Âîêî" "Õèýöó" "Äçåãàäçè" "Îéòà" "Ñàãà" "Ñèìîíîñåêè" "Òîòòîðè" "Ôóêóè" "Õèäà" "Êèñî" "Àêàèñè" "Ñàðîìà" "Òàäçàâà" "Èêýäà" "Èäçó-õàíòî" 
+	}
+}
+
+JAP_CVL_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CVL
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CVL-%d"
+
+	unique = {
+		"Êàíêî Ìàðó" "Êàéòýí" "Êàñóãà" "Õèðþ" "Êàòàäà" "Ñóìèäà" "Öóêóñè" "Ìîñóí" "Èäçó Îñèìà" "Îêèíîòîðèñèìà" "Âàêêàíàé" "Áèâà" "Õàìàíà" 
+	}
+}
+
+JAP_CV_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_CARRIERS
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+
+	prefix = ""
+	fallback_name = "Carrier CV-%d"
+
+	unique = {
+		"Êàíêî Ìàðó" "Êàéòýí" "Êàñóãà" "Õèðþ" "Êàòàäà" "Ñóìèäà" "Öóêóñè" "Ìîñóí" "Èäçó Îñèìà" "Îêèíîòîðèñèìà" "Âàêêàíàé" "Áèâà" "Õàìàíà" 
+	}
+}
+
+JAP_DD_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DESTROYERS
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer DD-%d"
+
+	unique = {
+		"Íàíèâà" "Òàêàòèõî" "Ìàöóñèìà" "Èöóêóñèìà" "Õàñèäàòå" "Òèýäà" "ßýÿìà" "¨ñèíî" "Õèýé" "Õàðóíà" "Êèðèñèìà" "Òèòîñý" "Êàñàãè" "Íèèòàêà" "Þðà" "Êèíó" "¨ñèíî" 
+	}
+}
+
+JAP_DE_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_DE
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Destroyer Escort DE-%d"
+
+	unique = {
+		"Íàíèâà" "Òàêàòèõî" "Ìàöóñèìà" "Èöóêóñèìà" "Õàñèäàòå" "Òèýäà" "ßýÿìà" "¨ñèíî" "Õèýé" "Õàðóíà" "Êèðèñèìà" "Òèòîñý" "Êàñàãè" "Íèèòàêà" "Þðà" "Êèíó" "¨ñèíî" 
+	}
+}
+
+JAP_MINELAYERS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_MINELAYERS
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser ship_hull_light destroyer }
+
+	prefix = ""
+	fallback_name = "Minelayer CM-%d"
+
+	unique = {
+		"Âîêî" "Õèýöó" "Äçåãàäçè" "Îéòà" "Ñàãà" "Ñèìîíîñåêè" "Òîòòîðè" "Ôóêóè" "Õèäà" "Êèñî" "Àêàèñè" "Ñàðîìà" "Òàäçàâà" "Èêýäà" "Èäçó-õàíòî" 
+	}
+}
+
+JAP_SS_HISTORICAL = {
+	name = NAME_THEME_HISTORICAL_SUBMARINES
+
+	for_countries = { JAP }
+
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+
+	prefix = ""
+	fallback_name = "Submarine SS-%d"
+
+	unique = {
+		"Òàêàî" "Àâèñî" "Ôóäçèñàí" "Ìîìî" "Êèðè" "Ñàêóðà" "Êýÿêè" "Íèññèí" "Èáóêè" "Êóðàìà" "Êàýäý" "Òîíý" "Òèêóìà" "Ñóäçóÿ" "Þêèêàäçý" "È¸" "Áóíãî" 
+	}
+}
+

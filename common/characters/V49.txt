@@ -1,0 +1,16 @@
+characters={
+	V49_eneei_iaaaa={
+		name=V49_eneei_iaaaa
+		portraits={
+			civilian={
+				large="GFX_Estonia_Jaan_Tonisson"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

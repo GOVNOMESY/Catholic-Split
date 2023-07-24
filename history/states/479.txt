@@ -1,0 +1,30 @@
+
+state={
+	id=479
+	name="STATE_479"
+
+	history={
+		owner = W58
+		victory_points = {
+			4072 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = V28
+		add_core_of = W58
+	}
+
+	provinces={
+		4072 7177 7205 10019 11993 
+	}
+	manpower=1122164
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

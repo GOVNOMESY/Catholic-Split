@@ -1,0 +1,35 @@
+
+state={
+	id=525
+	name="STATE_525"
+	resources={
+		steel=1.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = W73
+		victory_points = {
+			12732 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = W73
+		add_core_of = X66
+		add_claim_by = CHI
+	}
+
+	provinces={
+		517 531 556 1630 1647 1933 1985 2022 2028 3742 3745 4313 4888 4939 5025 5057 5100 6638 7270 7397 7911 8081 11448 12327 12732 12797 12882 
+	}
+	manpower=16561072
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

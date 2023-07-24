@@ -1,0 +1,33 @@
+
+state={
+	id=236
+	name="STATE_236"
+
+	history={
+		owner = EGY
+		victory_points = {
+			2013 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			1088 = {
+				naval_base = 4
+			}
+			air_base = 1
+
+		}
+		add_core_of = EGY
+		add_core_of = SYR
+	}
+
+	provinces={
+		901 1088 1549 1578 1606 1634 2013 6883 10087 10882 
+	}
+	manpower=652692
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,51 @@
+
+state={
+	id=483
+	name="STATE_483"
+	resources={
+		aluminium=23.000
+		oil=8.000
+	}
+
+	history={
+		owner = MEX
+		victory_points = {
+			4975 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = MEX
+		add_core_of = V21
+		add_claim_by = USA
+		add_claim_by = W77
+		add_claim_by = W82
+		add_claim_by = X10
+		CSA = {
+			set_province_controller = 2102
+			set_province_controller = 3867
+			set_province_controller = 3883
+			set_province_controller = 4975
+			set_province_controller = 8070
+			set_province_controller = 10642
+			set_province_controller = 10867
+			set_province_controller = 12552
+			set_province_controller = 12684
+			set_province_controller = 12720
+			set_province_controller = 12791
+		}
+	}
+
+	provinces={
+		1972 2102 3867 3883 4975 5044 8070 10642 10645 10867 10914 12552 12684 12720 12791 
+	}
+	manpower=140464
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

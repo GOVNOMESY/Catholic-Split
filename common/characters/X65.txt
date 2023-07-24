@@ -1,0 +1,16 @@
+characters={
+	X65_j._zu_v.={
+		name=X65_j._zu_v.
+		portraits={
+			civilian={
+				large="GFX_Germany_August_Mackensen_kr"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=295
+	name="STATE_295"
+	impassable = yes
+
+	history={
+		owner = FRA
+		add_core_of = ALG
+		add_claim_by = EGY
+		add_claim_by = V67
+	}
+
+	provinces={
+		5035 8077 
+	}
+	manpower=53268
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

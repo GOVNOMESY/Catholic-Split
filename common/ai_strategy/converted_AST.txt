@@ -1,0 +1,83 @@
+﻿converted_war_strategies_AST = {
+	enable = {
+		tag = AST
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "SRL"
+		value = 365
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W99"
+		value = 292
+	}
+	ai_strategy = {
+		type = conquer
+		id = "AFG"
+		value = 73
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X73"
+		value = 73
+	}
+}
+
+converted_diplo_strategies_AST = {
+	enable = {
+		tag = AST
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = antagonize
+		id = "SRL"
+		value = 128
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W99"
+		value = 121
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X73"
+		value = 64
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "AFG"
+		value = 24
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAN"
+		value = 18
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BOL"
+		value = 11
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SCA"
+		value = 6
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ARG"
+		value = 3
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "PHI"
+		value = 37
+	}
+}

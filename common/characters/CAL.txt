@@ -1,0 +1,76 @@
+characters={
+	CAL_ignacio_escobedo={
+		name=CAL_ignacio_escobedo
+		portraits={
+			army={
+				large="GFX_Bolivia_Bernardino_Rioja"
+			}
+			army={
+				small="GFX_Bolivia_Bernardino_Rioja"
+			}
+		}
+		corps_commander={
+			skill=4
+			attack_skill=6
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=4
+			legacy_id=0
+		}
+	}
+
+	CAL_miguel_canalizo={
+		name=CAL_miguel_canalizo
+		portraits={
+			army={
+				large="GFX_South_America_Generic_land_new_1"
+			}
+			army={
+				small="GFX_South_America_Generic_land_new_1"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAL_tomas_almonte={
+		name=CAL_tomas_almonte
+		portraits={
+			army={
+				large="GFX_POR_Castro_Bilstein_Menezes"
+			}
+			army={
+				small="GFX_POR_Castro_Bilstein_Menezes"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=3
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	CAL_francisco_huerta={
+		name=CAL_francisco_huerta
+		portraits={
+			civilian={
+				large="gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+			}
+		}
+		country_leader={
+			ideology=leninism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

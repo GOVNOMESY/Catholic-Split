@@ -1,0 +1,35 @@
+
+state={
+	id=47
+	name="STATE_47"
+	resources={
+		aluminium=1.000
+		steel=1.000
+		tungsten=5.000
+	}
+
+	history={
+		owner = ARG
+		victory_points = {
+			2224 40 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 6
+			arms_factory = 1
+			air_base = 10
+
+		}
+		add_core_of = ARG
+		add_core_of = X45
+	}
+
+	provinces={
+		2224 10944 10965 11001 
+	}
+	manpower=2700872
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

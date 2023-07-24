@@ -1,0 +1,16 @@
+characters={
+	W05_o0eo_von_blumenthal={
+		name=W05_o0eo_von_blumenthal
+		portraits={
+			civilian={
+				large="GFX_Germany_Wilhelm_V"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

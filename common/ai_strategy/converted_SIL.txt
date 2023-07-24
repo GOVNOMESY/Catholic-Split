@@ -1,0 +1,158 @@
+﻿converted_war_strategies_SIL = {
+	enable = {
+		tag = SIL
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "GER"
+		value = 2704
+	}
+	ai_strategy = {
+		type = conquer
+		id = "BAY"
+		value = 761
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SLO"
+		value = 234
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X62"
+		value = 211
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SAX"
+		value = 125
+	}
+	ai_strategy = {
+		type = conquer
+		id = "SOV"
+		value = 78
+	}
+}
+
+converted_diplo_strategies_SIL = {
+	enable = {
+		tag = SIL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "BAY"
+		value = 266
+	}
+	ai_strategy = {
+		type = contain
+		id = "GER"
+		value = 252
+	}
+	ai_strategy = {
+		type = contain
+		id = "SAX"
+		value = 252
+	}
+	ai_strategy = {
+		type = contain
+		id = "X62"
+		value = 187
+	}
+	ai_strategy = {
+		type = contain
+		id = "SLO"
+		value = 125
+	}
+	ai_strategy = {
+		type = contain
+		id = "BOS"
+		value = 100
+	}
+	ai_strategy = {
+		type = contain
+		id = "V20"
+		value = 100
+	}
+	ai_strategy = {
+		type = contain
+		id = "EST"
+		value = 36
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SAX"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "GER"
+		value = 382
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BAY"
+		value = 316
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SLO"
+		value = 208
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X62"
+		value = 116
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SOV"
+		value = 23
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SER"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "ITA"
+		value = 162
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 147
+	}
+	ai_strategy = {
+		type = alliance
+		id = "DEN"
+		value = 126
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SAX"
+		value = 75
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U06"
+		value = 47
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "SLO"
+		value = 32
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V78"
+		value = 30
+	}
+}

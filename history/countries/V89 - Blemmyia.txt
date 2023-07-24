@@ -1,0 +1,149 @@
+﻿capital = 264
+set_research_slots = 2
+
+oob = "V89_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_egypt
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1816.1.18"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 90
+	democratic = 7
+	neutrality = 3
+}
+
+add_opinion_modifier = { target = ADU modifier = negative_5 }
+add_opinion_modifier = { target = ARG modifier = positive_5 }
+add_opinion_modifier = { target = AST modifier = negative_30 }
+add_opinion_modifier = { target = BOL modifier = positive_5 }
+add_opinion_modifier = { target = BOS modifier = positive_15 }
+add_opinion_modifier = { target = BRA modifier = positive_5 }
+add_opinion_modifier = { target = BUL modifier = positive_15 }
+add_opinion_modifier = { target = CAT modifier = positive_15 }
+add_opinion_modifier = { target = COL modifier = negative_15 }
+add_opinion_modifier = { target = DEN modifier = positive_15 }
+add_opinion_modifier = { target = ECU modifier = positive_5 }
+add_opinion_modifier = { target = EGY modifier = negative_20 }
+add_opinion_modifier = { target = HOL modifier = positive_5 }
+add_opinion_modifier = { target = ITA modifier = positive_5 }
+add_opinion_modifier = { target = JAP modifier = negative_20 }
+add_opinion_modifier = { target = PHI modifier = negative_20 }
+add_opinion_modifier = { target = SCA modifier = positive_5 }
+add_opinion_modifier = { target = SER modifier = positive_15 }
+add_opinion_modifier = { target = SIL modifier = positive_15 }
+add_opinion_modifier = { target = SLO modifier = positive_15 }
+add_opinion_modifier = { target = SOV modifier = positive_15 }
+add_opinion_modifier = { target = SRL modifier = negative_20 }
+add_opinion_modifier = { target = U03 modifier = negative_5 }
+add_opinion_modifier = { target = U04 modifier = negative_5 }
+add_opinion_modifier = { target = U06 modifier = negative_5 }
+add_opinion_modifier = { target = U14 modifier = negative_20 }
+add_opinion_modifier = { target = U16 modifier = negative_20 }
+add_opinion_modifier = { target = U18 modifier = positive_15 }
+add_opinion_modifier = { target = U20 modifier = negative_15 }
+add_opinion_modifier = { target = U21 modifier = positive_5 }
+add_opinion_modifier = { target = U22 modifier = negative_30 }
+add_opinion_modifier = { target = V56 modifier = negative_20 }
+add_opinion_modifier = { target = V78 modifier = positive_5 }
+add_opinion_modifier = { target = V95 modifier = negative_20 }
+add_opinion_modifier = { target = W29 modifier = negative_20 }
+add_opinion_modifier = { target = W30 modifier = negative_20 }
+add_opinion_modifier = { target = W54 modifier = negative_15 }
+add_opinion_modifier = { target = W68 modifier = negative_20 }
+add_opinion_modifier = { target = W69 modifier = negative_20 }
+add_opinion_modifier = { target = W70 modifier = negative_20 }
+add_opinion_modifier = { target = W99 modifier = negative_20 }
+add_opinion_modifier = { target = X15 modifier = negative_20 }
+add_opinion_modifier = { target = X53 modifier = negative_20 }
+add_opinion_modifier = { target = X62 modifier = positive_15 }
+
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	civilian_economy
+	export_focus
+	culture_beja
+}
+
+recruit_character = V89_king_sina'eif_vii
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Eudosia bint Badi"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { V89 }
+	}
+
+	create_operative_leader = {
+		name = "Eusebia wad Rajab"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { V89 }
+	}
+
+	create_operative_leader = {
+		name = "Theophilia bint Nul"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { V89 }
+	}
+
+	create_operative_leader = {
+		name = "Badi Muhammad"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { V89 }
+	}
+
+	create_operative_leader = {
+		name = "Àâêàë wad Rajab"
+		GFX = "gfx/leaders/Africa/portrait_africa_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { V89 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

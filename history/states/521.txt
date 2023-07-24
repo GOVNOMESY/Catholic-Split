@@ -1,0 +1,32 @@
+
+state={
+	id=521
+	name="STATE_521"
+
+	history={
+		owner = W73
+		victory_points = {
+			11916 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 1
+
+		}
+		add_core_of = W51
+		add_core_of = W73
+		add_claim_by = CHI
+		add_claim_by = W12
+	}
+
+	provinces={
+		4066 4079 7085 7094 7126 9995 10040 10079 10098 11916 11973 12036 
+	}
+	manpower=18372728
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

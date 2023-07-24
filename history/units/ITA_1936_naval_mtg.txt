@@ -1,0 +1,162 @@
+units = {
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 9904
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 9904
+			ship = { name = "Äàíòå Àëèãüåðè" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Êîíòè äè Êàâóð" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Äæóëèî ×åçàðå" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ëåîíàðäî äà Âèí÷å" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Àíäðåà Äîðèÿ" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Äóèëèî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ôðàí÷åñêî Êàðà÷÷èîëî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ëèòòîðèî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ðîìà" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Òåððèáèëå" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ôîðìèäàáèëå" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ïðèí÷èïå äè Êàðèíüÿíî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ìåññèíà" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Êîíòå Âåðäå" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ðå ä'Èòàëèà" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ðå äè Ïîðòîãàëëî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ðåäæèíà Ìàðèà Ïèà" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ñàí-Ìàðòèíî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Êàñòåëüôèäæàðî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Àíêîíà" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Àôôîíäàòîðå" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ïðèí÷èïå Àìåäåî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Èòàëèÿ" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ëåïàíòî" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ðóäæåðî äè Ëàóðèà" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ôðàí÷åñêî Ìîðîçèíè" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ýììàíóèë Ôèëèáåðò" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ôåððàðà" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Íåàïîëü" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ôîäæà" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_2 = { amount = 1 owner = ITA version_name = "1936 Battleship" } } }
+			ship = { name = "Ïàëåðìî" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 2" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ðèì" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Livorno" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ñåíüÿ" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ïóëà" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ñåíüÿ 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ôåððàðà 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ñåíüÿ 3" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 3" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ìàññà" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ôåððàðà 3" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 4" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 3" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ïóëà 2" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ôåððàðà 4" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 4" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 5" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ôåððàðà 5" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 5" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 6" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 7" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ìàññà 2" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ïóëà 3" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 6" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 8" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ïóëà 4" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ìàññà 3" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 7" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 9" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ìàññà 4" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 8" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 10" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ìàññà 5" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ìàññà 6" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ðèì 2" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Íåàïîëü 2" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 9" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 11" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 10" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 11" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 12" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ãåíóÿ 13" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ðèì 3" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ïàëåðìî 2" definition = heavy_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Heavy Cruiser" } } }
+			ship = { name = "Ïóëà 5" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàðêî Ïîëî" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Êàðëî Àëüáåðòî" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Âåòòîð Ïèçàíè" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Äæåíåðàëü Ãàðèáàëüäè" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Äæåíåðàëü Ñàí-Ìàðòèí" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Õåíåðàëü Áåëüãðàíî" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Äæåíåðàëü Ïóýéððåäîí" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Àìàëüôè" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïèçà" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ñàí-Äæîðäæî" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ñàí-Ìàðêî" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Íèíî Áèêñèî" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàðñàëà" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Òàðàíòî" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Áðèíäèçè" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Áàðè" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Òðèåñòå" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ôèóìå" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ãîðèöèÿ" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïîëà" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Çàðà" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Áîëüöàíî" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïóëà 6" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïóëà 7" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïóëà 8" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïóëà 9" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïóëà 10" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ïóëà 11" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ãåíóÿ 14" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàññà 7" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 12" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ãåíóÿ 15" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàññà 8" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ãåíóÿ 16" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ôåððàðà 6" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàññà 9" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 13" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàññà 10" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 14" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàññà 11" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ãåíóÿ 17" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ãåíóÿ 18" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 15" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ôåððàðà 7" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàññà 12" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàññà 13" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ôåððàðà 8" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Âåíåöèÿ 16" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Ìàññà 14" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+			ship = { name = "Livorno 2" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_2 = { amount = 1 owner = ITA version_name = "1936 Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_2
+			creator = "ITA"
+			version_name = "1936 Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_2
+			creator = "ITA"
+			version_name = "1936 Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

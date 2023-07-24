@@ -1,0 +1,36 @@
+
+state={
+	id=611
+	name="STATE_611"
+
+	history={
+		owner = SOV
+		victory_points = {
+			11370 7 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 9
+			arms_factory = 3
+			air_base = 4
+
+		}
+		add_core_of = BLR
+		add_core_of = EST
+		add_core_of = SOV
+		add_claim_by = GER
+		add_claim_by = POL
+		add_claim_by = UKR
+		add_claim_by = V82
+		add_claim_by = V88
+	}
+
+	provinces={
+		215 216 294 304 331 360 386 3203 3267 3293 3350 3507 3759 6232 6319 6373 6556 9249 11216 11313 11370 11453 
+	}
+	manpower=1836672
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

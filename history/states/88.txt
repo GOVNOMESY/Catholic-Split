@@ -1,0 +1,38 @@
+
+state={
+	id=88
+	name="STATE_88"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = X28
+		victory_points = {
+			4273 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			4273 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = INS
+		add_core_of = W66
+		add_core_of = X28
+	}
+
+	provinces={
+		1298 4273 4301 7293 7321 10175 10191 10219 12151 12162 12219 12234 
+	}
+	manpower=1026164
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

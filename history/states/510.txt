@@ -1,0 +1,29 @@
+
+state={
+	id=510
+	name="STATE_510"
+
+	history={
+		owner = W73
+		victory_points = {
+			4785 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = W73
+	}
+
+	provinces={
+		4687 4785 4831 7707 10544 10635 12555 12615 12643 12655 
+	}
+	manpower=597620
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

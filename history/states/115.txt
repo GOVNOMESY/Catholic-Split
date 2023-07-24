@@ -1,0 +1,30 @@
+
+state={
+	id=115
+	name="STATE_115"
+
+	history={
+		owner = BOL
+		victory_points = {
+			12825 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = BOL
+		add_core_of = X41
+	}
+
+	provinces={
+		12825 
+	}
+	manpower=1156848
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

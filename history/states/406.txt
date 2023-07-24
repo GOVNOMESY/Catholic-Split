@@ -1,0 +1,45 @@
+
+state={
+	id=406
+	name="STATE_406"
+	resources={
+		aluminium=7.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			3976 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 9
+			arms_factory = 3
+			dockyard = 2
+			6973 = {
+				naval_base = 10
+			}
+			air_base = 10
+
+		}
+		add_core_of = ITA
+		add_core_of = LBV
+		add_core_of = PAP
+		add_core_of = SPM
+		add_core_of = TOS
+		add_core_of = TTS
+		add_core_of = V05
+		add_core_of = V81
+		add_core_of = W55
+		add_core_of = W74
+	}
+
+	provinces={
+		3773 3976 6790 6946 6973 9752 
+	}
+	manpower=4915076
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

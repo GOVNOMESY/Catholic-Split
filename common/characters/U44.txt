@@ -1,0 +1,16 @@
+characters={
+	U44_ahmad_aeu_aaccaae={
+		name=U44_ahmad_aeu_aaccaae
+		portraits={
+			civilian={
+				large="GFX_EGY_Ahmed_Aziz"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

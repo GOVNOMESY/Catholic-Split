@@ -1,0 +1,18 @@
+﻿converted_war_strategies_CHU = {
+	enable = {
+		tag = CHU
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_CHU = {
+	enable = {
+		tag = CHU
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}

@@ -1,0 +1,76 @@
+characters={
+	X15_ahmad_djalaluddin={
+		name=X15_ahmad_djalaluddin
+		portraits={
+			army={
+				large="GFX_Portrait_Asia_Generic_land_5"
+			}
+			army={
+				small="GFX_Portrait_Asia_Generic_land_5"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_muhieddin_muttakin={
+		name=X15_muhieddin_muttakin
+		portraits={
+			army={
+				large="GFX_Indonesia_Suhadi"
+			}
+			army={
+				small="GFX_Indonesia_Suhadi"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_panembahan_natadiningrat={
+		name=X15_panembahan_natadiningrat
+		portraits={
+			army={
+				large="GFX_Indonesia_Suharto"
+			}
+			army={
+				small="GFX_Indonesia_Suharto"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=1
+			defense_skill=3
+			planning_skill=5
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X15_panembahan_aeaaaaei={
+		name=X15_panembahan_aeaaaaei
+		portraits={
+			civilian={
+				large="GFX_Malaya_Hisamuddin_of_Selangor"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

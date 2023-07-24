@@ -1,0 +1,3 @@
+﻿l_japanese:
+ FRA_Naval_treaty_nation:0 "@FRA [FRA.GetName]"
+ ITA_Naval_treaty_nation:0 "@ITA [ITA.GetName]"

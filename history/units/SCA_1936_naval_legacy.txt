@@ -1,0 +1,94 @@
+units = {
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 7451
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 7451
+			ship = { name = "Õàãóà" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Ãåòå Ëåéîí" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Ïñèëàíäåð" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Óëüð" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Êëàýñ Óããëà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Ôîðñåòè" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+		}
+	}
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 7451
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 7451
+			ship = { name = "Õàãóà 8" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 9" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 10" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 11" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 12" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 13" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 14" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 15" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 16" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 17" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 18" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 19" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 20" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 21" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õåéìäàëü" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õåêëà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+		}
+	}
+	fleet = {
+		name = "3. ýñêàäðà"
+		naval_base = 4647
+		task_force = {
+			name = "3. ýñêàäðà"
+			location = 4647
+			ship = { name = "Õàãóà 22" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 23" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 24" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 25" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 26" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õàãóà 27" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "ßêîá Áàêêå" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Îäèí" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Êëàýñ Ãîðí" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Íüîðä" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Îäèí 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Íüîðä 2" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Òðå Êðîíîð" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Ôðåéð" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Ôþåí" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Îðíåí" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õîäåð" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Âèäàð" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Ýñòåðñóíä" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Òþð" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Áðàãëü" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Õåéìäàëëü" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Ôþëüãÿ" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+			ship = { name = "Ãåéçåð" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = SCA } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "SCA"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "SCA"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

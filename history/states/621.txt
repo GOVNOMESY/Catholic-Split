@@ -1,0 +1,42 @@
+
+state={
+	id=621
+	name="STATE_621"
+	resources={
+		aluminium=10.000
+		oil=54.000
+		steel=12.000
+	}
+
+	history={
+		owner = SCA
+		victory_points = {
+			153 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			1944 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = BAS
+		add_core_of = SCA
+		add_claim_by = CUB
+		add_claim_by = U20
+		add_claim_by = U24
+	}
+
+	provinces={
+		153 1944 10855 12772 
+	}
+	manpower=2157340
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

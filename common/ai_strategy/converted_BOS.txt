@@ -1,0 +1,133 @@
+﻿converted_war_strategies_BOS = {
+	enable = {
+		tag = BOS
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "SER"
+		value = 1218
+	}
+	ai_strategy = {
+		type = conquer
+		id = "ITA"
+		value = 723
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X98"
+		value = 404
+	}
+	ai_strategy = {
+		type = conquer
+		id = "BUL"
+		value = 292
+	}
+	ai_strategy = {
+		type = conquer
+		id = "BAY"
+		value = 30
+	}
+}
+
+converted_diplo_strategies_BOS = {
+	enable = {
+		tag = BOS
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "SER"
+		value = 282
+	}
+	ai_strategy = {
+		type = contain
+		id = "BAY"
+		value = 254
+	}
+	ai_strategy = {
+		type = contain
+		id = "X98"
+		value = 233
+	}
+	ai_strategy = {
+		type = contain
+		id = "ITA"
+		value = 233
+	}
+	ai_strategy = {
+		type = contain
+		id = "SIL"
+		value = 100
+	}
+	ai_strategy = {
+		type = contain
+		id = "SLO"
+		value = 100
+	}
+	ai_strategy = {
+		type = contain
+		id = "SAX"
+		value = 98
+	}
+	ai_strategy = {
+		type = contain
+		id = "V20"
+		value = 80
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "SER"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ITA"
+		value = 123
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BAY"
+		value = 27
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 13
+	}
+	ai_strategy = {
+		type = alliance
+		id = "GER"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "SOV"
+		value = 148
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X62"
+		value = 68
+	}
+	ai_strategy = {
+		type = alliance
+		id = "FRA"
+		value = 52
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V20"
+		value = 94
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U15"
+		value = 52
+	}
+}

@@ -1,0 +1,16 @@
+characters={
+	U50_daianiaia0i_ramanantsoa={
+		name=U50_daianiaia0i_ramanantsoa
+		portraits={
+			civilian={
+				large="GFX_CAF_Tubal_Uriah_Butler"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=556
+	name="STATE_556"
+
+	history={
+		owner = W73
+		victory_points = {
+			7837 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			4669 = {
+				naval_base = 4
+			}
+			air_base = 0
+
+		}
+		add_core_of = W73
+		add_claim_by = TRA
+	}
+
+	provinces={
+		96 1757 1784 3415 4669 4761 7689 7738 7837 8461 10536 10564 12517 12545 
+	}
+	manpower=475948
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=54
+	name="STATE_54"
+	resources={
+		steel=5.000
+	}
+
+	history={
+		owner = SPC
+		victory_points = {
+			9642 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = SPC
+	}
+
+	provinces={
+		698 3666 6698 9642 
+	}
+	manpower=639344
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

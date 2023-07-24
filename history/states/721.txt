@@ -1,0 +1,32 @@
+
+state={
+	id=721
+	name="STATE_721"
+
+	history={
+		owner = SRL
+		victory_points = {
+			4410 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = V28
+		add_core_of = X39
+		add_core_of = X73
+		add_claim_by = SRL
+	}
+
+	provinces={
+		4410 7938 10332 
+	}
+	manpower=1364456
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

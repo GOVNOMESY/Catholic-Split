@@ -1,0 +1,37 @@
+
+state={
+	id=212
+	name="STATE_212"
+
+	history={
+		owner = VIN
+		victory_points = {
+			7408 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			12131 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = SIA
+		add_core_of = VIN
+		add_core_of = W14
+		add_claim_by = MAL
+		add_claim_by = W29
+		add_claim_by = W70
+	}
+
+	provinces={
+		1279 1281 1308 1337 1366 1394 1427 4297 4312 4319 4348 4371 4388 4392 7236 7367 7408 7587 10156 10158 10193 10221 10250 12122 12131 12201 12220 12230 12286 
+	}
+	manpower=2008336
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

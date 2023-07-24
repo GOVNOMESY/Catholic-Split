@@ -1,0 +1,40 @@
+
+state={
+	id=628
+	name="STATE_628"
+	resources={
+		oil=22.000
+	}
+
+	history={
+		owner = SCA
+		victory_points = {
+			8024 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			7968 = {
+				naval_base = 10
+			}
+			air_base = 6
+
+		}
+		add_core_of = U24
+		add_core_of = VEN
+		BOL = {
+			set_province_controller = 8024
+			set_province_controller = 8080
+		}
+	}
+
+	provinces={
+		7968 8024 8080 8113 
+	}
+	manpower=1058952
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

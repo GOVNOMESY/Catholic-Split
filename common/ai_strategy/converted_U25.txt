@@ -1,0 +1,103 @@
+﻿converted_war_strategies_U25 = {
+	enable = {
+		tag = U25
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "HOL"
+		value = 474
+	}
+	ai_strategy = {
+		type = conquer
+		id = "CAN"
+		value = 315
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W54"
+		value = 30
+	}
+}
+
+converted_diplo_strategies_U25 = {
+	enable = {
+		tag = U25
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "HOL"
+		value = 345
+	}
+	ai_strategy = {
+		type = contain
+		id = "W54"
+		value = 341
+	}
+	ai_strategy = {
+		type = contain
+		id = "CAN"
+		value = 240
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "HOL"
+		value = 381
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAN"
+		value = 223
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 6
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "WLL"
+		value = 6
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BOL"
+		value = 5
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "BRA"
+		value = 5
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "GER"
+		value = 3
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "DEN"
+		value = 2
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 1
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X53"
+		value = 65
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "URG"
+		value = 50
+	}
+}

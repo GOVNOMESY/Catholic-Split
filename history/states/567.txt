@@ -1,0 +1,32 @@
+
+state={
+	id=567
+	name="STATE_567"
+
+	history={
+		owner = HOL
+		victory_points = {
+			11562 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 7
+
+		}
+		add_core_of = HOL
+		add_core_of = W47
+		add_claim_by = BEL
+		add_claim_by = FLA
+	}
+
+	provinces={
+		3262 6496 6500 11562 
+	}
+	manpower=3701048
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

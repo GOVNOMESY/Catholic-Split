@@ -1,0 +1,44 @@
+
+state={
+	id=626
+	name="STATE_626"
+	resources={
+		aluminium=1.000
+		steel=12.000
+	}
+
+	history={
+		owner = SCA
+		victory_points = {
+			733 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			3732 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = USA
+		add_claim_by = CAN
+		CSA = {
+			set_province_controller = 733
+			set_province_controller = 3712
+			set_province_controller = 3715
+			set_province_controller = 10481
+		}
+	}
+
+	provinces={
+		733 1282 1338 1619 3712 3715 3732 4287 4445 6719 7462 7629 9675 10247 10318 10481 12202 12221 12459 
+	}
+	manpower=3528424
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

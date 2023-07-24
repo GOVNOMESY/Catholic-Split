@@ -1,0 +1,40 @@
+
+state={
+	id=190
+	name="STATE_190"
+
+	history={
+		owner = CSA
+		victory_points = {
+			10410 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+			4464 = {
+				naval_base = 10
+			}
+			air_base = 10
+
+		}
+		add_core_of = W90
+		add_core_of = X46
+		add_core_of = X52
+		add_claim_by = CSA
+		add_claim_by = USA
+		add_claim_by = X98
+		SCA = {
+			set_province_controller = 4464
+		}
+	}
+
+	provinces={
+		1615 4464 4510 4565 4650 7464 7668 8110 10410 10449 10753 11717 12328 12429 
+	}
+	manpower=1324420
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

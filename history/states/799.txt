@@ -1,0 +1,32 @@
+
+state={
+	id=799
+	name="STATE_799"
+
+	history={
+		owner = U21
+		victory_points = {
+			13092 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			13092 = {
+				naval_base = 2
+			}
+			air_base = 1
+
+		}
+		add_core_of = U21
+	}
+
+	provinces={
+		12878 13092 
+	}
+	manpower=165728
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

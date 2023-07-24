@@ -1,0 +1,37 @@
+
+state={
+	id=57
+	name="STATE_57"
+	resources={
+		tungsten=3.000
+	}
+
+	history={
+		owner = SPC
+		victory_points = {
+			885 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = SPC
+		add_core_of = SPR
+		add_core_of = X94
+		add_claim_by = EUS
+		add_claim_by = NAV
+		add_claim_by = X67
+	}
+
+	provinces={
+		738 794 857 874 884 885 903 3845 3859 3874 3887 4024 6867 6936 9700 9770 9870 9872 11684 11756 11766 11806 11809 11825 11852 11854 13220 13221 13226 
+	}
+	manpower=1687640
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

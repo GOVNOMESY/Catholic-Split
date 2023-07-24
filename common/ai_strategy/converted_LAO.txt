@@ -1,0 +1,98 @@
+﻿converted_war_strategies_LAO = {
+	enable = {
+		tag = LAO
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "VIN"
+		value = 758
+	}
+	ai_strategy = {
+		type = conquer
+		id = "W73"
+		value = 254
+	}
+}
+
+converted_diplo_strategies_LAO = {
+	enable = {
+		tag = LAO
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "VIN"
+		value = 378
+	}
+	ai_strategy = {
+		type = contain
+		id = "W73"
+		value = 253
+	}
+	ai_strategy = {
+		type = contain
+		id = "X25"
+		value = 125
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "VIN"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W73"
+		value = 240
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 71
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V78"
+		value = 30
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W99"
+		value = 200
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W70"
+		value = 71
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X25"
+		value = 59
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X47"
+		value = 50
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W29"
+		value = 50
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W30"
+		value = 43
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U18"
+		value = 33
+	}
+}

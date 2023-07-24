@@ -1,0 +1,30 @@
+
+state={
+	id=779
+	name="STATE_779"
+
+	history={
+		owner = U11
+		victory_points = {
+			12430 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U11
+		add_core_of = V65
+	}
+
+	provinces={
+		1216 1919 10187 12430 
+	}
+	manpower=225216
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

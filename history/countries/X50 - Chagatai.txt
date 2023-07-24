@@ -1,0 +1,147 @@
+﻿capital = 180
+set_research_slots = 2
+
+oob = "X50_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_china
+set_convoys = 0
+
+set_politics = {
+    ruling_party = absolutist
+    last_election = "1935.5.6"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+set_popularities = {
+	absolutist = 100
+}
+
+add_opinion_modifier = { target = ADU modifier = negative_20 }
+add_opinion_modifier = { target = AFG modifier = negative_50 }
+add_opinion_modifier = { target = ARG modifier = negative_10 }
+add_opinion_modifier = { target = AST modifier = negative_30 }
+add_opinion_modifier = { target = BOL modifier = negative_10 }
+add_opinion_modifier = { target = BRA modifier = negative_10 }
+add_opinion_modifier = { target = CAL modifier = negative_30 }
+add_opinion_modifier = { target = COL modifier = negative_30 }
+add_opinion_modifier = { target = ECU modifier = negative_10 }
+add_opinion_modifier = { target = EGY modifier = positive_10 }
+add_opinion_modifier = { target = HOL modifier = negative_10 }
+add_opinion_modifier = { target = ITA modifier = negative_10 }
+add_opinion_modifier = { target = JAP modifier = negative_20 }
+add_opinion_modifier = { target = PHI modifier = negative_20 }
+add_opinion_modifier = { target = SCA modifier = negative_10 }
+add_opinion_modifier = { target = SRL modifier = negative_20 }
+add_opinion_modifier = { target = SUD modifier = positive_10 }
+add_opinion_modifier = { target = U03 modifier = negative_20 }
+add_opinion_modifier = { target = U04 modifier = negative_20 }
+add_opinion_modifier = { target = U06 modifier = negative_20 }
+add_opinion_modifier = { target = U09 modifier = negative_5 }
+add_opinion_modifier = { target = U11 modifier = negative_150 }
+add_opinion_modifier = { target = U16 modifier = negative_141 }
+add_opinion_modifier = { target = U20 modifier = negative_30 }
+add_opinion_modifier = { target = U21 modifier = negative_10 }
+add_opinion_modifier = { target = V56 modifier = positive_10 }
+add_opinion_modifier = { target = V65 modifier = negative_41 }
+add_opinion_modifier = { target = V78 modifier = negative_10 }
+add_opinion_modifier = { target = V95 modifier = positive_35 }
+add_opinion_modifier = { target = W29 modifier = positive_10 }
+add_opinion_modifier = { target = W30 modifier = negative_20 }
+add_opinion_modifier = { target = W54 modifier = negative_30 }
+add_opinion_modifier = { target = W68 modifier = positive_10 }
+add_opinion_modifier = { target = W69 modifier = positive_10 }
+add_opinion_modifier = { target = W70 modifier = positive_10 }
+add_opinion_modifier = { target = W73 modifier = negative_42 }
+add_opinion_modifier = { target = W99 modifier = negative_20 }
+add_opinion_modifier = { target = X15 modifier = positive_10 }
+add_opinion_modifier = { target = X53 modifier = negative_20 }
+add_opinion_modifier = { target = X73 modifier = negative_35 }
+
+
+add_ideas = {
+	uncivilized
+	limited_conscription
+	low_economic_mobilisation
+	export_focus
+	culture_kirgiz
+}
+set_stability = 0.60
+set_war_support = 0.72
+
+recruit_character = X50_vali_bayzanov
+recruit_character = X50_kurman_abdulayev
+recruit_character = X50_kurman_abdulov
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Damira Bayžanova"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X50 }
+	}
+
+	create_operative_leader = {
+		name = "Zamira Abdulayeva"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X50 }
+	}
+
+	create_operative_leader = {
+		name = "Bakyt Bayžanova"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { X50 }
+	}
+
+	create_operative_leader = {
+		name = "Ìóðàò Abdulov"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X50 }
+	}
+
+	create_operative_leader = {
+		name = "Âàëè Bayžanov"
+		GFX = "gfx/leaders/Arabia/portrait_arabia_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { X50 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

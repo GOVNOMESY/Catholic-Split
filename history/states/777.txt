@@ -1,0 +1,36 @@
+
+state={
+	id=777
+	name="STATE_777"
+	resources={
+		aluminium=1.000
+		chromium=2.000
+		steel=1.000
+	}
+
+	history={
+		owner = U11
+		victory_points = {
+			5062 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U11
+		add_core_of = V65
+		add_claim_by = V43
+	}
+
+	provinces={
+		1483 1675 1825 2058 4224 4316 4391 4768 4923 5062 10408 10488 10530 10660 12370 12511 12581 
+	}
+	manpower=880764
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

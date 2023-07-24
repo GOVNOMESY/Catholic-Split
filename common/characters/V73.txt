@@ -1,0 +1,16 @@
+characters={
+	V73_king_tangaxoan_iii={
+		name=V73_king_tangaxoan_iii
+		portraits={
+			civilian={
+				large="GFX_nat_carib_absolutist"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

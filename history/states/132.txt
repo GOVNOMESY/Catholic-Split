@@ -1,0 +1,33 @@
+
+state={
+	id=132
+	name="STATE_132"
+	resources={
+		tungsten=1.000
+	}
+
+	history={
+		owner = BOL
+		victory_points = {
+			5200 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = BOL
+		add_core_of = BRA
+	}
+
+	provinces={
+		2111 2142 2147 2181 2204 5115 5148 5200 5208 8140 8175 8189 8224 10959 11010 12939 12951 12959 12987 
+	}
+	manpower=2963620
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

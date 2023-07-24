@@ -1,0 +1,34 @@
+
+state={
+	id=473
+	name="STATE_473"
+	resources={
+		aluminium=1.000
+	}
+
+	history={
+		owner = W53
+		victory_points = {
+			10717 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 5
+
+		}
+		add_core_of = V78
+		add_core_of = V79
+		add_core_of = W53
+	}
+
+	provinces={
+		10333 10391 10516 10717 
+	}
+	manpower=76676
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

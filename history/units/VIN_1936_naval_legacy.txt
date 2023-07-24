@@ -1,0 +1,49 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 1185
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 1185
+			ship = { name = "Òðàí Êàí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Òðàí Õîàíã" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Òðàí Ìàí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Ïðà÷èíáóðè" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Ìåðãóè" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Õàéôîí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Ïðà÷èíáóðè 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Òðàí Õüåí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Àí Òîíã" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Ìèí Òîíã" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Õàéôîí 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Ìåðãóè 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Ïðà÷èíáóðè 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Õàéôîí 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Ìåðãóè 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Õàéôîí 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Ìåðãóè 4" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+			ship = { name = "Õàéôîí 5" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = VIN } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "VIN"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "VIN"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

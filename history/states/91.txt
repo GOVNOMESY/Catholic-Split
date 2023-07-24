@@ -1,0 +1,31 @@
+
+state={
+	id=91
+	name="STATE_91"
+
+	history={
+		owner = BAY
+		victory_points = {
+			6377 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = BAY
+		add_core_of = GER
+		add_core_of = HAN
+	}
+
+	provinces={
+		3395 6377 
+	}
+	manpower=1066712
+	buildings_max_level_factor=1.000
+	state_category=large_town
+
+	local_supplies=10.0
+}

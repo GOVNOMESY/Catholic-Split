@@ -1,0 +1,143 @@
+﻿converted_war_strategies_PHI = {
+	enable = {
+		tag = PHI
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "W73"
+		value = 116
+	}
+	ai_strategy = {
+		type = conquer
+		id = "X47"
+		value = 108
+	}
+	ai_strategy = {
+		type = conquer
+		id = "EGY"
+		value = 108
+	}
+	ai_strategy = {
+		type = conquer
+		id = "V56"
+		value = 103
+	}
+}
+
+converted_diplo_strategies_PHI = {
+	enable = {
+		tag = PHI
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "W73"
+		value = 281
+	}
+	ai_strategy = {
+		type = contain
+		id = "VIN"
+		value = 125
+	}
+	ai_strategy = {
+		type = contain
+		id = "X47"
+		value = 75
+	}
+	ai_strategy = {
+		type = contain
+		id = "W70"
+		value = 69
+	}
+	ai_strategy = {
+		type = contain
+		id = "X25"
+		value = 35
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "X47"
+		value = 400
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W73"
+		value = 124
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "V56"
+		value = 54
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CSA"
+		value = 34
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "EGY"
+		value = 30
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAN"
+		value = 3
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W70"
+		value = 19
+	}
+	ai_strategy = {
+		type = alliance
+		id = "VIN"
+		value = 14
+	}
+	ai_strategy = {
+		type = alliance
+		id = "X84"
+		value = 11
+	}
+	ai_strategy = {
+		type = alliance
+		id = "W99"
+		value = 5
+	}
+	ai_strategy = {
+		type = protect
+		id = "X47"
+		value = 220
+	}
+	ai_strategy = {
+		type = protect
+		id = "BRU"
+		value = 73
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V56"
+		value = 71
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V26"
+		value = 43
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X28"
+		value = 40
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X25"
+		value = 30
+	}
+}

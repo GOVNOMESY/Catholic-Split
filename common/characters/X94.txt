@@ -1,0 +1,96 @@
+characters={
+	X94_benito_hidalgo_de_cisneros={
+		name=X94_benito_hidalgo_de_cisneros
+		portraits={
+			army={
+				large="GFX_Portugal_Antonio_Carmona"
+			}
+			army={
+				small="GFX_Portugal_Antonio_Carmona"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=2
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X94_ignacio_garcia={
+		name=X94_ignacio_garcia
+		portraits={
+			army={
+				large="GFX_Portrait_South_America_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_South_America_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=4
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X94_luis_hevia={
+		name=X94_luis_hevia
+		portraits={
+			army={
+				large="GFX_Portrait_South_America_Generic_land_5"
+			}
+			army={
+				small="GFX_Portrait_South_America_Generic_land_5"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X94_alberto_cabrera={
+		name=X94_alberto_cabrera
+		portraits={
+			army={
+				large="GFX_HON_Augustine_Warner_Robbins"
+			}
+			army={
+				small="GFX_HON_Augustine_Warner_Robbins"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	X94_melchor_aa_ai0aei={
+		name=X94_melchor_aa_ai0aei
+		portraits={
+			civilian={
+				large="gfx/leaders/South America/portrait_south_america_generic_7.dds"
+			}
+		}
+		country_leader={
+			ideology=minarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

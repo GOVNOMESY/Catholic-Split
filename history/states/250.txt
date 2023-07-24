@@ -1,0 +1,35 @@
+
+state={
+	id=250
+	name="STATE_250"
+
+	history={
+		owner = EGY
+		victory_points = {
+			10840 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			13079 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = AFA
+		add_core_of = SAU
+		add_core_of = W63
+		add_core_of = YEM
+	}
+
+	provinces={
+		1920 1973 2029 4924 4976 5074 10752 10840 12821 12894 13079 
+	}
+	manpower=1093324
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

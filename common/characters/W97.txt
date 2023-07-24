@@ -1,0 +1,16 @@
+characters={
+	W97_te_ata_i_eaiaia={
+		name=W97_te_ata_i_eaiaia
+		portraits={
+			civilian={
+				large="GFX_Philippines_Manuel_Roxas"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=415
+	name="STATE_415"
+	resources={
+		aluminium=5.000
+		steel=5.000
+	}
+
+	history={
+		owner = ITA
+		victory_points = {
+			949 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ITA
+		add_claim_by = BUL
+		add_claim_by = TTS
+	}
+
+	provinces={
+		935 949 965 3908 3971 
+	}
+	manpower=844208
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

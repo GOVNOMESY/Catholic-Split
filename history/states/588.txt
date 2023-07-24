@@ -1,0 +1,30 @@
+
+state={
+	id=588
+	name="STATE_588"
+
+	history={
+		owner = V26
+		victory_points = {
+			3916 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = V26
+		add_core_of = V54
+	}
+
+	provinces={
+		3916 5014 10793 10811 
+	}
+	manpower=302304
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

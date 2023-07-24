@@ -1,0 +1,76 @@
+characters={
+	U03_halil_ibn_abd_allah={
+		name=U03_halil_ibn_abd_allah
+		portraits={
+			army={
+				large="GFX_Arabia_Generic_new_1"
+			}
+			army={
+				small="GFX_Arabia_Generic_new_1"
+			}
+		}
+		corps_commander={
+			skill=4
+			attack_skill=4
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=5
+			legacy_id=0
+		}
+	}
+
+	U03_mustafa_ibn_abu_bakr={
+		name=U03_mustafa_ibn_abu_bakr
+		portraits={
+			army={
+				large="GFX_Arabia_Generic_land_new_2"
+			}
+			army={
+				small="GFX_Arabia_Generic_land_new_2"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	U03_yusuf_ibn_hisham={
+		name=U03_yusuf_ibn_hisham
+		portraits={
+			army={
+				large="GFX_Arabia_Generic_new_1"
+			}
+			army={
+				small="GFX_Arabia_Generic_new_1"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=2
+			legacy_id=0
+		}
+	}
+
+	U03_halil_ibn_fuad={
+		name=U03_halil_ibn_fuad
+		portraits={
+			civilian={
+				large="GFX_Afgahnistan_Habibullah_Khan"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

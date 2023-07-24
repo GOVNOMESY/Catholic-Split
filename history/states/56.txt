@@ -1,0 +1,38 @@
+
+state={
+	id=56
+	name="STATE_56"
+	resources={
+		aluminium=18.000
+	}
+
+	history={
+		owner = SPC
+		victory_points = {
+			11707 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			11707 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = SPC
+		add_core_of = SPR
+		add_core_of = X90
+		add_claim_by = X67
+	}
+
+	provinces={
+		729 758 3729 3744 3761 6734 6749 6764 6955 9686 9689 9699 9703 9719 11675 11677 11688 11692 11707 11710 11840 13218 
+	}
+	manpower=1275028
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

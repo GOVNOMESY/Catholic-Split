@@ -1,0 +1,30 @@
+
+state={
+	id=789
+	name="STATE_789"
+
+	history={
+		owner = U20
+		victory_points = {
+			10747 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = U20
+		add_core_of = W59
+	}
+
+	provinces={
+		2079 7993 10747 10790 
+	}
+	manpower=631736
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

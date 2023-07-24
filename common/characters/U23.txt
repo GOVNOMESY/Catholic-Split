@@ -1,0 +1,16 @@
+characters={
+	U23_jamal_ibn_yusuf={
+		name=U23_jamal_ibn_yusuf
+		portraits={
+			civilian={
+				large="GFX_Persia_Ahmad_Shah_Qajar"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

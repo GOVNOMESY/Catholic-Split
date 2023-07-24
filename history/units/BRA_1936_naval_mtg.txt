@@ -1,0 +1,65 @@
+units = {
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 2228
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 2228
+			ship = { name = "Ñàí-Ïàóëó" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "Ìèíàñ-Æåéðàñ" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "Ìàðøàë Ôëîðèàíî" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "Ìàðøàë Äåîäîðî" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "Ðèî-äå-Æàíåéðî" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "Êîíñòèòóéñàî" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "Ñàíòà-Êàòåðèíà" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BRA version_name = "Early Battleship" } } }
+			ship = { name = "Êóðèòèáà" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ñàí-Ëóèñ" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ïîðòó-Àëåãðè" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Òåðåçèíà" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ïàðíàèáà" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ñàí-Ëóèñ 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Òåðåçèíà 2" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ñàëüâàäîð-äå-Áàèÿ" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Ñàí-Ëóèñ 3" definition = heavy_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Heavy Cruiser" } } }
+			ship = { name = "Òèðàäåíòåø" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "January City" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ñàëüâàäîð-äå-Áàèÿ 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ñàí-Ëóèñ 4" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Òåðåçèíà 3" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "January City 2" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ñàí-Ëóèñ 5" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Òåðåçèíà 4" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ðåïóáëèêà" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Àëüìèðàíòå Òàìàíäàðå" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Áåíæàìèí-Êîíñòàíò" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Àëüìèðàíòå Áàððîçî" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ðèàøóýëî" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Òîíåëåðîø" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ôîðòàëåçà" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+			ship = { name = "Àêèäàáàí" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BRA version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "BRA"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "BRA"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=148
+	name="STATE_148"
+	resources={
+		aluminium=48.000
+		chromium=102.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			3882 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 7
+
+		}
+		add_core_of = BUL
+		add_core_of = MAC
+		add_claim_by = YUG
+	}
+
+	provinces={
+		833 867 907 974 3833 3865 3882 6886 11832 11856 
+	}
+	manpower=1283824
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

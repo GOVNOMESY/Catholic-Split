@@ -1,0 +1,40 @@
+
+state={
+	id=509
+	name="STATE_509"
+
+	history={
+		owner = W70
+		victory_points = {
+			10222 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 0
+			4564 = {
+				naval_base = 2
+			}
+			12330 = {
+				naval_base = 4
+			}
+			air_base = 10
+
+		}
+		add_core_of = V47
+		add_core_of = V74
+		add_core_of = W57
+		add_core_of = W68
+		add_core_of = X38
+		add_claim_by = W70
+	}
+
+	provinces={
+		1098 1419 1484 1505 1518 1561 1589 4262 4307 4308 4493 4537 4564 7336 7413 7598 10141 10222 10450 10464 12330 12358 12444 
+	}
+	manpower=698216
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

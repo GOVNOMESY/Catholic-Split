@@ -1,0 +1,35 @@
+
+state={
+	id=205
+	name="STATE_205"
+
+	history={
+		owner = VIN
+		victory_points = {
+			12292 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			12292 = {
+				naval_base = 2
+			}
+			air_base = 0
+
+		}
+		add_core_of = BRM
+		add_core_of = W14
+		add_claim_by = V28
+		add_claim_by = VIN
+	}
+
+	provinces={
+		1296 4275 10217 12292 
+	}
+	manpower=152968
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

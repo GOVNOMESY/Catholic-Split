@@ -1,0 +1,47 @@
+units = {
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 3326
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 3326
+			ship = { name = "Âèòòåëüñáàõ" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BAY version_name = "Early Battleship" } } }
+			ship = { name = "Ïðèíöðåãåíò Ëóèòïîëüä" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BAY version_name = "Early Battleship" } } }
+			ship = { name = "Âåëüô" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BAY version_name = "Early Battleship" } } }
+			ship = { name = "Áàéåðí" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BAY version_name = "Early Battleship" } } }
+			ship = { name = "Ôîí äåð Òàíí" definition = battleship start_experience_factor = 0.25 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BAY version_name = "Early Battleship" } } }
+			ship = { name = "Íèáåëóíãåí" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BAY version_name = "Early Battleship" } } }
+			ship = { name = "Âàëüêþðå" definition = battleship start_experience_factor = 0.3 equipment = { ship_hull_heavy_1 = { amount = 1 owner = BAY version_name = "Early Battleship" } } }
+			ship = { name = "Ôþðò" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BAY version_name = "Early Light Cruiser" } } }
+			ship = { name = "Èíãîëüøòàäò" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BAY version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ìþíõåí" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BAY version_name = "Early Light Cruiser" } } }
+			ship = { name = "Áàìáåðã" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BAY version_name = "Early Light Cruiser" } } }
+			ship = { name = "Áàéðîéò" definition = light_cruiser start_experience_factor = 0.25 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BAY version_name = "Early Light Cruiser" } } }
+			ship = { name = "Íþðíáåðã" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BAY version_name = "Early Light Cruiser" } } }
+			ship = { name = "Ïàññàó" definition = light_cruiser start_experience_factor = 0.3 equipment = { ship_hull_cruiser_1 = { amount = 1 owner = BAY version_name = "Early Light Cruiser" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "BAY"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_heavy_1
+			creator = "BAY"
+			version_name = "Early Battleship"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

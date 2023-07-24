@@ -1,0 +1,38 @@
+
+state={
+	id=578
+	name="STATE_578"
+	resources={
+		oil=2.000
+		tungsten=4.000
+	}
+
+	history={
+		owner = W99
+		victory_points = {
+			12366 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+			air_base = 0
+
+		}
+		add_core_of = V28
+		add_core_of = W99
+		add_core_of = X73
+		add_claim_by = BRM
+		add_claim_by = W14
+		add_claim_by = X25
+	}
+
+	provinces={
+		997 1075 1497 1525 1553 1581 7179 7455 7634 10090 10349 10514 12322 12366 12395 
+	}
+	manpower=4509964
+	buildings_max_level_factor=1.000
+	state_category=large_city
+
+	local_supplies=10.0
+}

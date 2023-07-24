@@ -1,0 +1,32 @@
+
+state={
+	id=318
+	name="STATE_318"
+
+	history={
+		owner = FRA
+		victory_points = {
+			9536 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+			arms_factory = 0
+			air_base = 10
+
+		}
+		add_core_of = BEL
+		add_core_of = W01
+		add_core_of = WLL
+		add_claim_by = FRA
+	}
+
+	provinces={
+		9536 
+	}
+	manpower=1859732
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

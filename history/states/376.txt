@@ -1,0 +1,36 @@
+
+state={
+	id=376
+	name="STATE_376"
+
+	history={
+		owner = GER
+		victory_points = {
+			11360 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 0
+			241 = {
+				naval_base = 8
+			}
+			air_base = 6
+
+		}
+		add_core_of = GER
+		add_core_of = HOL
+		add_core_of = V86
+		add_core_of = X77
+		add_claim_by = DEN
+	}
+
+	provinces={
+		241 247 309 336 3234 9281 11233 11264 11360 11388 
+	}
+	manpower=2213776
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

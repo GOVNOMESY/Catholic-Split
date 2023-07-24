@@ -1,0 +1,30 @@
+
+state={
+	id=711
+	name="STATE_711"
+
+	history={
+		owner = SER
+		victory_points = {
+			441 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = UKR
+		add_core_of = V82
+	}
+
+	provinces={
+		409 434 441 458 488 3452 3468 3470 3570 6593 9466 9493 9568 11438 11454 11477 
+	}
+	manpower=1299668
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

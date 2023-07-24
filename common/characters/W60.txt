@@ -1,0 +1,16 @@
+characters={
+	W60_andres_decae={
+		name=W60_andres_decae
+		portraits={
+			civilian={
+				large="GFX_DEI_Palar"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

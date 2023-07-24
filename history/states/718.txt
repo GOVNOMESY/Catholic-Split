@@ -1,0 +1,32 @@
+
+state={
+	id=718
+	name="STATE_718"
+
+	history={
+		owner = SRL
+		victory_points = {
+			12786 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = V28
+		add_core_of = X73
+		add_claim_by = SRL
+		add_claim_by = X26
+	}
+
+	provinces={
+		2005 10751 12786 
+	}
+	manpower=2224760
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

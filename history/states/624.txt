@@ -1,0 +1,38 @@
+
+state={
+	id=624
+	name="STATE_624"
+	resources={
+		oil=10.000
+	}
+
+	history={
+		owner = SCA
+		victory_points = {
+			1453 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			7524 = {
+				naval_base = 10
+			}
+			air_base = 1
+
+		}
+		add_core_of = USA
+		CSA = {
+			set_province_controller = 1453
+		}
+	}
+
+	provinces={
+		1453 7524 
+	}
+	manpower=533264
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

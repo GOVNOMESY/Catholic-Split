@@ -1,0 +1,35 @@
+
+state={
+	id=390
+	name="STATE_390"
+
+	history={
+		owner = X98
+		victory_points = {
+			6600 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			3701 = {
+				naval_base = 10
+			}
+			air_base = 0
+
+		}
+		add_core_of = ROM
+		add_claim_by = UKR
+		add_claim_by = V88
+		add_claim_by = X98
+	}
+
+	provinces={
+		414 577 3407 3577 3701 3704 6600 6727 6743 9683 11705 
+	}
+	manpower=1072652
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

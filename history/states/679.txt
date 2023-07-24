@@ -1,0 +1,37 @@
+
+state={
+	id=679
+	name="STATE_679"
+	resources={
+		rubber=5.000
+		tungsten=5.000
+	}
+
+	history={
+		owner = U46
+		victory_points = {
+			7716 0 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U31
+		add_core_of = U46
+		add_core_of = W56
+		add_claim_by = W40
+		add_claim_by = W44
+	}
+
+	provinces={
+		1731 2024 4128 7716 8016 9986 12775 
+	}
+	manpower=574744
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

@@ -1,0 +1,20 @@
+
+state={
+	id=652
+	name="STATE_652"
+	impassable = yes
+
+	history={
+		owner = U46
+		add_core_of = U46
+	}
+
+	provinces={
+		12022 
+	}
+	manpower=94340
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

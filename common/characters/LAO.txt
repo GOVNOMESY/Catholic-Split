@@ -1,0 +1,76 @@
+characters={
+	LAO_setthathirath_vong={
+		name=LAO_setthathirath_vong
+		portraits={
+			army={
+				large="GFX_Portrait_Asia_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Asia_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=1
+			planning_skill=2
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	LAO_sakkarin_vong={
+		name=LAO_sakkarin_vong
+		portraits={
+			army={
+				large="GFX_Portrait_Asia_Generic_land_5"
+			}
+			army={
+				small="GFX_Portrait_Asia_Generic_land_5"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=2
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	LAO_phraya_kuman={
+		name=LAO_phraya_kuman
+		portraits={
+			army={
+				large="GFX_Asia_Generic_land_new_1"
+			}
+			army={
+				small="GFX_Asia_Generic_land_new_1"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=2
+			defense_skill=2
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	LAO_ong_bun={
+		name=LAO_ong_bun
+		portraits={
+			civilian={
+				large="gfx/leaders/Asia/portrait_asia_generic_4.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

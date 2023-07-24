@@ -1,0 +1,42 @@
+
+state={
+	id=491
+	name="STATE_491"
+
+	history={
+		owner = MEX
+		victory_points = {
+			1900 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			arms_factory = 0
+			12715 = {
+				naval_base = 6
+			}
+			air_base = 10
+
+		}
+		add_core_of = MEX
+		add_core_of = U27
+		add_core_of = U33
+		add_core_of = W18
+		add_core_of = W45
+		add_claim_by = U36
+		BOL = {
+			set_province_controller = 1900
+			set_province_controller = 4904
+			set_province_controller = 4965
+		}
+	}
+
+	provinces={
+		1900 2021 4904 4965 12715 12753 12867 
+	}
+	manpower=778328
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

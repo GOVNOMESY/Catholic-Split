@@ -1,0 +1,16 @@
+characters={
+	W95_te_ata_i_eaiaia={
+		name=W95_te_ata_i_eaiaia
+		portraits={
+			civilian={
+				large="GFX_Philippines_Elpidio_Quirino"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

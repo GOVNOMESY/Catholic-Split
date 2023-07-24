@@ -1,0 +1,37 @@
+
+state={
+	id=663
+	name="STATE_663"
+	resources={
+		aluminium=4.000
+		rubber=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = U46
+		victory_points = {
+			8071 0 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = NGA
+		add_core_of = U46
+		add_core_of = V36
+		add_core_of = W38
+	}
+
+	provinces={
+		2001 7983 8071 10836 
+	}
+	manpower=1160384
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

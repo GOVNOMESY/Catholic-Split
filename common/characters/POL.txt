@@ -1,0 +1,36 @@
+characters={
+	POL_karol_traugutt={
+		name=POL_karol_traugutt
+		portraits={
+			army={
+				large="GFX_POL_wincenty_kowalski"
+			}
+			army={
+				small="GFX_POL_wincenty_kowalski"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=2
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	POL_0eia_klicki={
+		name=POL_0eia_klicki
+		portraits={
+			civilian={
+				large="GFX_Lithuania_Mindaugas_III"
+			}
+		}
+		country_leader={
+			ideology=prussian_const
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

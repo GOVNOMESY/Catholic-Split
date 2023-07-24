@@ -1,0 +1,35 @@
+
+state={
+	id=303
+	name="STATE_303"
+	resources={
+		aluminium=2.000
+		chromium=65.000
+		steel=13.000
+	}
+
+	history={
+		owner = U41
+		victory_points = {
+			5106 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = KEN
+		add_core_of = U41
+	}
+
+	provinces={
+		1688 2171 2213 5106 5217 7900 10400 10566 
+	}
+	manpower=969260
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=725
+	name="STATE_725"
+	resources={
+		aluminium=1.000
+		rubber=4.000
+	}
+
+	history={
+		owner = SRL
+		victory_points = {
+			12247 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			10278 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = U28
+		add_core_of = V28
+		add_claim_by = SRL
+		add_claim_by = W81
+		add_claim_by = X93
+	}
+
+	provinces={
+		1268 1344 1381 1409 4327 4416 4420 7265 7363 7436 8067 10149 10246 10278 10808 12164 12247 
+	}
+	manpower=12147988
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

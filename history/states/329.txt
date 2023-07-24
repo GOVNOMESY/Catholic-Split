@@ -1,0 +1,29 @@
+
+state={
+	id=329
+	name="STATE_329"
+
+	history={
+		owner = U41
+		victory_points = {
+			2220 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U41
+	}
+
+	provinces={
+		2176 2206 2220 4171 5180 5224 8144 10932 10988 11017 
+	}
+	manpower=1518896
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

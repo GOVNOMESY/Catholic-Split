@@ -1,0 +1,34 @@
+
+state={
+	id=61
+	name="STATE_61"
+
+	history={
+		owner = SPC
+		victory_points = {
+			9764 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 0
+			9764 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = CAT
+		add_core_of = SPC
+		add_claim_by = SPR
+	}
+
+	provinces={
+		854 872 897 3898 3899 6812 6836 6865 6927 6966 9764 9797 9824 11779 
+	}
+	manpower=1229932
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

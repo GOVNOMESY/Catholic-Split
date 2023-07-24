@@ -1,0 +1,16 @@
+characters={
+	PNG_j._von_s.={
+		name=PNG_j._von_s.
+		portraits={
+			civilian={
+				large="gfx/leaders/LUX/portrait_lux_joseph_bech.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship_neutral
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

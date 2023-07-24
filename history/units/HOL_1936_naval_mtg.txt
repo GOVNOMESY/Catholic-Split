@@ -1,0 +1,36 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 1830
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 1830
+			ship = { name = "Áåòåëü 2" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Çåëàíäèÿ" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Ñóðèíàì" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Êþðàñàî" definition = destroyer start_experience_factor = 0.15 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Áðàáàíò" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Ëèìáóðã" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Õîëëàíä" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "À÷åõ" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Óòðåõò" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Ôðèñëàíä" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Ãåëüäåðëàíä" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Ãðîíèíãåí" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+			ship = { name = "Îâåðèéññåëü" definition = destroyer start_experience_factor = 0.2 equipment = { ship_hull_light_1 = { amount = 1 owner = HOL version_name = "Early Destroyer" } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = ship_hull_light_1
+			creator = "HOL"
+			version_name = "Early Destroyer"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+}

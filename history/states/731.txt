@@ -1,0 +1,38 @@
+
+state={
+	id=731
+	name="STATE_731"
+	resources={
+		steel=1.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = SRL
+		victory_points = {
+			4245 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			4245 = {
+				naval_base = 2
+			}
+			air_base = 6
+
+		}
+		add_core_of = BAN
+		add_core_of = V28
+		add_core_of = X73
+	}
+
+	provinces={
+		1159 4062 4245 7220 12050 
+	}
+	manpower=5439440
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+
+	local_supplies=10.0
+}

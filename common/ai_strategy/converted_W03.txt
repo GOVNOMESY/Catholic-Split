@@ -1,0 +1,53 @@
+﻿converted_war_strategies_W03 = {
+	enable = {
+		tag = W03
+		always = no
+	}
+	
+	ai_strategy = {
+		type = conquer
+		id = "CAN"
+		value = 51
+	}
+}
+
+converted_diplo_strategies_W03 = {
+	enable = {
+		tag = W03
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = contain
+		id = "CAN"
+		value = 281
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "CAN"
+		value = 231
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "MEX"
+		value = 56
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "USA"
+		value = 3
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "U05"
+		value = 65
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "X53"
+		value = 33
+	}
+}

@@ -1,0 +1,63 @@
+﻿converted_war_strategies_V83 = {
+	enable = {
+		tag = V83
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_V83 = {
+	enable = {
+		tag = V83
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+	ai_strategy = {
+		type = antagonize
+		id = "V99"
+		value = 48
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "ADU"
+		value = 19
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "W73"
+		value = 19
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "FRA"
+		value = 14
+	}
+	ai_strategy = {
+		type = antagonize
+		id = "EGY"
+		value = 11
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W69"
+		value = 125
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "W29"
+		value = 65
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "BRU"
+		value = 33
+	}
+	ai_strategy = {
+		type = declare_war
+		id = "V99"
+		value = 25
+	}
+}

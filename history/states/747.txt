@@ -1,0 +1,36 @@
+
+state={
+	id=747
+	name="STATE_747"
+	resources={
+		aluminium=18.000
+		tungsten=9.000
+	}
+
+	history={
+		owner = U06
+		victory_points = {
+			3918 15 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 0
+			air_base = 6
+
+		}
+		add_core_of = SPC
+		add_core_of = SPR
+		add_core_of = U06
+		add_core_of = V94
+	}
+
+	provinces={
+		726 918 920 3725 3727 3918 3920 6746 6907 11843 13219 13232 
+	}
+	manpower=456584
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

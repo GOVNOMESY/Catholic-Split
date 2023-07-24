@@ -1,0 +1,22 @@
+
+state={
+	id=75
+	name="STATE_75"
+	impassable = yes
+
+	history={
+		owner = AST
+		add_core_of = AST
+		add_claim_by = X16
+		add_claim_by = X24
+	}
+
+	provinces={
+		5206 10336 10936 10955 
+	}
+	manpower=22079
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

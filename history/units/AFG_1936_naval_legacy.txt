@@ -1,0 +1,45 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 1179
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 1179
+			ship = { name = "Áåíäåð-Àááàñ" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Àôãàíèñòàí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Áåíäåð-Àááàñ 2" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Áåíäåð-Àááàñ 3" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Êàáóë" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Ìàçàð-è-Øàðèô" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Ñóõàð" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Øåð Àëè Õàí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "ßêóá Õàí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Àáäóðàõìàí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Ôàéçàáàä" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Ãåðàò" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Ïàøòóí" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+			ship = { name = "Ãàçíè" definition = destroyer equipment = { destroyer_1 = { amount = 1 owner = AFG } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "AFG"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "AFG"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

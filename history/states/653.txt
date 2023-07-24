@@ -1,0 +1,37 @@
+
+state={
+	id=653
+	name="STATE_653"
+	resources={
+		aluminium=3.000
+		rubber=1.000
+		steel=1.000
+	}
+
+	history={
+		owner = U46
+		victory_points = {
+			2044 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = U46
+		add_core_of = V67
+		add_claim_by = NGA
+		add_claim_by = W23
+	}
+
+	provinces={
+		2044 5101 10788 
+	}
+	manpower=308072
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

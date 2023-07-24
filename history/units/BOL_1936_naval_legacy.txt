@@ -1,0 +1,55 @@
+units = {
+	fleet = {
+		name = "1. ýñêàäðà"
+		naval_base = 12996
+		task_force = {
+			name = "1. ýñêàäðà"
+			location = 12996
+			ship = { name = "Ìàìîðå" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Íåâàäî Ñàõàäà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Êîáèõà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOL } } }
+		}
+	}
+	fleet = {
+		name = "2. ýñêàäðà"
+		naval_base = 5131
+		task_force = {
+			name = "2. ýñêàäðà"
+			location = 5131
+			ship = { name = "Ïüþðà" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Áåëåí" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Èêà 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Óàðàñ" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Ïüþðà 2" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Èêà 3" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Ïüþðà 3" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Èêà 4" definition = heavy_cruiser equipment = { heavy_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Äåñàãâàäåðî" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Èëüèìàíè" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Ïîîïî" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Ìàäåðà" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOL } } }
+			ship = { name = "Èëüàìïó" definition = light_cruiser equipment = { light_cruiser_1 = { amount = 1 owner = BOL } } }
+		}
+	}
+}
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = destroyer_1
+			creator = "BOL"
+		}
+		requested_factories = 3
+		progress = 0.25
+		amount = 10
+	}
+	add_equipment_production = {
+		equipment = {
+			type = battleship_1
+			creator = "BOL"
+		}
+		requested_factories = 8
+		progress = 0.25
+		amount = 3
+	}
+}

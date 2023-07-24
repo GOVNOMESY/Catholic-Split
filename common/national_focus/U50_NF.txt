@@ -1,0 +1,15 @@
+focus_tree = {
+	id = U50_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = U50
+		}
+	}
+	
+	default = no
+	
+}

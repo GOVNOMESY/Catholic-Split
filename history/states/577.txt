@@ -1,0 +1,40 @@
+
+state={
+	id=577
+	name="STATE_577"
+	resources={
+		tungsten=1.000
+	}
+
+	history={
+		owner = W99
+		victory_points = {
+			12090 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			dockyard = 1
+			12090 = {
+				naval_base = 8
+			}
+			air_base = 5
+
+		}
+		add_core_of = BRM
+		add_core_of = W14
+		add_core_of = W99
+		add_core_of = X11
+		add_core_of = X25
+	}
+
+	provinces={
+		1014 1142 3651 4147 7122 10182 12090 
+	}
+	manpower=561788
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=10.0
+}

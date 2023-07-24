@@ -1,0 +1,56 @@
+characters={
+	W48_tisquantum_sauquonckackock={
+		name=W48_tisquantum_sauquonckackock
+		portraits={
+			army={
+				large="GFX_nat_north_radical"
+			}
+			army={
+				small="GFX_nat_north_radical"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W48_nemattanew_tabusintack={
+		name=W48_nemattanew_tabusintack
+		portraits={
+			army={
+				large="GFX_native_north_american_general"
+			}
+			army={
+				small="GFX_native_north_american_general"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=3
+			defense_skill=2
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	W48_nanotetauxien_manalapan={
+		name=W48_nanotetauxien_manalapan
+		portraits={
+			civilian={
+				large="GFX_Native_American"
+			}
+		}
+		country_leader={
+			ideology=absolute_monarchy
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=43
+	name="STATE_43"
+	resources={
+		aluminium=26.000
+	}
+
+	history={
+		owner = ARG
+		victory_points = {
+			12364 7 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 6
+			arms_factory = 3
+			dockyard = 3
+			12364 = {
+				naval_base = 10
+			}
+			air_base = 3
+
+		}
+		add_core_of = ARG
+	}
+
+	provinces={
+		1555 1568 1596 1624 1639 4573 4602 4643 7621 10375 10390 10402 10418 12321 12351 12364 12379 12394 12409 12494 
+	}
+	manpower=5149092
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+
+	local_supplies=10.0
+}

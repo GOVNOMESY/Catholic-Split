@@ -1,0 +1,37 @@
+
+state={
+	id=382
+	name="STATE_382"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = X94
+		victory_points = {
+			12087 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 0
+			12087 = {
+				naval_base = 4
+			}
+			air_base = 6
+
+		}
+		add_core_of = SPC
+		add_core_of = SPR
+		add_core_of = X94
+	}
+
+	provinces={
+		4199 7215 12087 12100 
+	}
+	manpower=553408
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

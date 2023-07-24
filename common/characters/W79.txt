@@ -1,0 +1,16 @@
+characters={
+	W79_anquimarca_pusca={
+		name=W79_anquimarca_pusca
+		portraits={
+			civilian={
+				large="gfx/leaders/central_american_native/portrait_nat_carib_absolutist.dds"
+			}
+		}
+		country_leader={
+			ideology=dictatorship
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

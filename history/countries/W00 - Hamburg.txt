@@ -1,0 +1,147 @@
+﻿capital = 112
+set_research_slots = 3
+
+oob = "W00_OOB"
+
+# Starting tech
+# Research Bonuses
+
+set_country_flag = conv_germany
+set_convoys = 0
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1816.1.18"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+	absolutist = 9
+	democratic = 89
+	neutrality = 2
+}
+
+add_opinion_modifier = { target = ADU modifier = positive_5 }
+add_opinion_modifier = { target = ARG modifier = negative_15 }
+add_opinion_modifier = { target = BOL modifier = positive_5 }
+add_opinion_modifier = { target = BOS modifier = positive_5 }
+add_opinion_modifier = { target = BRA modifier = negative_15 }
+add_opinion_modifier = { target = BUL modifier = positive_5 }
+add_opinion_modifier = { target = CAT modifier = positive_5 }
+add_opinion_modifier = { target = COL modifier = positive_5 }
+add_opinion_modifier = { target = ECU modifier = positive_5 }
+add_opinion_modifier = { target = EGY modifier = negative_10 }
+add_opinion_modifier = { target = HOL modifier = negative_5 }
+add_opinion_modifier = { target = ITA modifier = positive_15 }
+add_opinion_modifier = { target = JAP modifier = negative_10 }
+add_opinion_modifier = { target = PHI modifier = negative_10 }
+add_opinion_modifier = { target = SCA modifier = positive_15 }
+add_opinion_modifier = { target = SER modifier = negative_15 }
+add_opinion_modifier = { target = SIL modifier = positive_5 }
+add_opinion_modifier = { target = SLO modifier = positive_5 }
+add_opinion_modifier = { target = SOV modifier = positive_30 }
+add_opinion_modifier = { target = SRL modifier = negative_10 }
+add_opinion_modifier = { target = SUD modifier = negative_10 }
+add_opinion_modifier = { target = U03 modifier = positive_5 }
+add_opinion_modifier = { target = U04 modifier = positive_5 }
+add_opinion_modifier = { target = U06 modifier = positive_5 }
+add_opinion_modifier = { target = U14 modifier = negative_10 }
+add_opinion_modifier = { target = U16 modifier = negative_10 }
+add_opinion_modifier = { target = U18 modifier = positive_20 }
+add_opinion_modifier = { target = U20 modifier = positive_5 }
+add_opinion_modifier = { target = U21 modifier = positive_5 }
+add_opinion_modifier = { target = U22 modifier = negative_10 }
+add_opinion_modifier = { target = V56 modifier = negative_10 }
+add_opinion_modifier = { target = V78 modifier = positive_30 }
+add_opinion_modifier = { target = V95 modifier = negative_10 }
+add_opinion_modifier = { target = W29 modifier = negative_10 }
+add_opinion_modifier = { target = W30 modifier = negative_10 }
+add_opinion_modifier = { target = W54 modifier = positive_5 }
+add_opinion_modifier = { target = W68 modifier = negative_10 }
+add_opinion_modifier = { target = W69 modifier = positive_15 }
+add_opinion_modifier = { target = W70 modifier = negative_10 }
+add_opinion_modifier = { target = W99 modifier = negative_10 }
+add_opinion_modifier = { target = X15 modifier = negative_10 }
+add_opinion_modifier = { target = X53 modifier = negative_10 }
+add_opinion_modifier = { target = X62 modifier = positive_5 }
+
+
+add_ideas = {
+	volunteer_only
+	civilian_economy
+	export_focus
+	culture_north_german
+}
+
+recruit_character = W00_oei0eai_a0aea0
+
+if = {
+	limit = {
+		has_dlc = "La Resistance"
+	}
+	create_operative_leader = {
+		name = "Jessica Ãðåíåð"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W00 }
+	}
+
+	create_operative_leader = {
+		name = "Marie Groener"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W00 }
+	}
+
+	create_operative_leader = {
+		name = "Hanna ôîí Àðåíòøèëüäò"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_female_3.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		female = yes
+		nationalities = { W00 }
+	}
+
+	create_operative_leader = {
+		name = "Ãåîðã von Bülow"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_1.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W00 }
+	}
+
+	create_operative_leader = {
+		name = "Ëåîïîëüä von Sachsen-Meiningen"
+		GFX = "gfx/leaders/Europe/portrait_europe_generic_operative_male_2.dds"
+		traits = {}
+		bypass_recruitment = no
+		available_to_spy_master = yes
+		nationalities = { W00 }
+	}
+
+}
+### VARIANTS ###
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+}
+### PLANE DESIGNS ###
+if = {
+	limit = { has_dlc = "By Blood Alone" }
+}
+### TANK DESIGNS ###
+if = {
+	limit = { has_dlc = "No Step Back" }
+}
+

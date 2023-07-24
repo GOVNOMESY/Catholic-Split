@@ -1,0 +1,35 @@
+
+state={
+	id=386
+	name="STATE_386"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = X98
+		victory_points = {
+			6679 15 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
+
+		}
+		add_core_of = V44
+		add_claim_by = HUN
+		add_claim_by = ROM
+		add_claim_by = X98
+	}
+
+	provinces={
+		690 711 3676 3689 6679 6709 9668 9670 9685 11639 
+	}
+	manpower=2316404
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

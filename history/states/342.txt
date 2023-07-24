@@ -1,0 +1,29 @@
+
+state={
+	id=342
+	name="STATE_342"
+
+	history={
+		owner = U41
+		victory_points = {
+			9137 0 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 1
+
+		}
+		add_core_of = U41
+	}
+
+	provinces={
+		9137 11194 
+	}
+	manpower=700784
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

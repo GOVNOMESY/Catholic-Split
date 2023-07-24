@@ -1,0 +1,34 @@
+
+state={
+	id=634
+	name="STATE_634"
+
+	history={
+		owner = SCO
+		victory_points = {
+			3379 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			276 = {
+				naval_base = 1
+			}
+			air_base = 2
+
+		}
+		add_core_of = SCO
+		add_core_of = X75
+	}
+
+	provinces={
+		276 337 385 3242 3329 3379 11257 
+	}
+	manpower=1966798
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=10.0
+}

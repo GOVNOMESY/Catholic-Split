@@ -1,0 +1,32 @@
+
+state={
+	id=696
+	name="STATE_696"
+
+	history={
+		owner = SER
+		victory_points = {
+			9619 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+
+		}
+		add_core_of = SER
+		add_claim_by = HUN
+		add_claim_by = ROM
+		add_claim_by = V44
+	}
+
+	provinces={
+		727 3665 6731 9619 9704 11622 11676 
+	}
+	manpower=1488656
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

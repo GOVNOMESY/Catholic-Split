@@ -1,0 +1,27 @@
+ITA_OPERATIVE_CODENAME_HISTORICAL = {
+	name = ITA_OPERATIVE_CODENAME_HISTORICAL
+
+	for_countries = { ITA LBV PAP SPM TOS TTS U43 V05 V53 V72 V80 V81 W55 W74 }
+
+	type = codename
+
+	fallback_name = "Agent %d"
+	unique = {
+		"Lupo"
+		"Passero"
+		"Falco"
+		"Aquila"
+		"Serpente"
+		"Orso"
+		"Tigre"
+		"Condor"
+		"Gazza"
+		"Tartaruga"
+		"Squalo"
+		"Topo"
+		"Calabrone"
+		"Drago"
+		"Farfalla"
+		"Stallone"
+	}
+}

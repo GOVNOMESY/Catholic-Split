@@ -1,0 +1,36 @@
+characters={
+	V10_whonumbamet_weyanoak={
+		name=V10_whonumbamet_weyanoak
+		portraits={
+			army={
+				large="GFX_native_north_american_general"
+			}
+			army={
+				small="GFX_native_north_american_general"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=4
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	V10_kkoquethagechton_quinebaug={
+		name=V10_kkoquethagechton_quinebaug
+		portraits={
+			civilian={
+				large="GFX_nat_north_democratic"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

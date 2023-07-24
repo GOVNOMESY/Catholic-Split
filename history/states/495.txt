@@ -1,0 +1,37 @@
+
+state={
+	id=495
+	name="STATE_495"
+
+	history={
+		owner = MEX
+		victory_points = {
+			2075 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 0
+			2075 = {
+				naval_base = 6
+			}
+			air_base = 5
+
+		}
+		add_core_of = MEX
+		add_core_of = W79
+		BOL = {
+			set_province_controller = 2075
+			set_province_controller = 10728
+		}
+	}
+
+	provinces={
+		2075 10728 
+	}
+	manpower=61044
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=10.0
+}

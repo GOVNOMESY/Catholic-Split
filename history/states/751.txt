@@ -1,0 +1,30 @@
+
+state={
+	id=751
+	name="STATE_751"
+
+	history={
+		owner = U09
+		victory_points = {
+			6935 0 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 0
+			air_base = 0
+
+		}
+		add_core_of = ARM
+		add_claim_by = V54
+	}
+
+	provinces={
+		864 1463 4583 6935 7470 7530 9858 10399 11880 12318 12376 12476 
+	}
+	manpower=783436
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=10.0
+}

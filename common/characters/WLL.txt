@@ -1,0 +1,76 @@
+characters={
+	WLL_gilles_de_merode={
+		name=WLL_gilles_de_merode
+		portraits={
+			army={
+				large="GFX_Portrait_Europe_Generic_land_1"
+			}
+			army={
+				small="GFX_Portrait_Europe_Generic_land_1"
+			}
+		}
+		corps_commander={
+			skill=1
+			attack_skill=1
+			defense_skill=1
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	WLL_werner_de_trazegnies={
+		name=WLL_werner_de_trazegnies
+		portraits={
+			army={
+				large="GFX_Portrait_France_Generic_land_2"
+			}
+			army={
+				small="GFX_Portrait_France_Generic_land_2"
+			}
+		}
+		corps_commander={
+			skill=3
+			attack_skill=5
+			defense_skill=3
+			planning_skill=1
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	WLL_pierre_guillaume_de_lannoy={
+		name=WLL_pierre_guillaume_de_lannoy
+		portraits={
+			army={
+				large="GFX_portrait_FRA_maurice_gamelin"
+			}
+			army={
+				small="GFX_portrait_FRA_maurice_gamelin"
+			}
+		}
+		corps_commander={
+			skill=2
+			attack_skill=1
+			defense_skill=1
+			planning_skill=3
+			logistics_skill=1
+			legacy_id=0
+		}
+	}
+
+	WLL_eaiia0_david={
+		name=WLL_eaiia0_david
+		portraits={
+			civilian={
+				large="GFX_Belgium_LEON_DEGRELLE"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

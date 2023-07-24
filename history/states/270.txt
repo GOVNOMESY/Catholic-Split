@@ -1,0 +1,21 @@
+
+state={
+	id=270
+	name="STATE_270"
+	impassable = yes
+
+	history={
+		owner = U39
+		add_core_of = U39
+		add_claim_by = EGY
+	}
+
+	provinces={
+		8103 
+	}
+	manpower=117792
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=10.0
+}

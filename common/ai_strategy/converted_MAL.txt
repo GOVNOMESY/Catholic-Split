@@ -1,0 +1,18 @@
+﻿converted_war_strategies_MAL = {
+	enable = {
+		tag = MAL
+		always = no
+	}
+	
+}
+
+converted_diplo_strategies_MAL = {
+	enable = {
+		tag = MAL
+		always = no
+	}
+	abort = {
+		always = no
+	}
+	
+}
