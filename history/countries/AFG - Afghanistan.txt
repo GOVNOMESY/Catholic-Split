@@ -169,7 +169,7 @@ recruit_character = AFG_suleyman_zahid
 recruit_character = AFG_inayat_allah_sidiqi
 recruit_character = AFG_mahsud_yousafzai
 recruit_character = AFG_abd_al_rahman_ullah
-recruit_character = AFG_king_oa0_aee
+recruit_character = AFG_king_sher_ali
 
 if = {
 	limit = {

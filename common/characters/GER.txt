@@ -99,8 +99,8 @@ characters={
 		}
 	}
 
-	GER_eiaoei_heppendorf={
-		name=GER_eiaoei_heppendorf
+	GER_joachim_heppendorf={
+		name=GER_joachim_heppendorf
 		portraits={
 			civilian={
 				large="gfx/leaders/GER/Portrait_Germany_Heinrich_Himmler.dds"

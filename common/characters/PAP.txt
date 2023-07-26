@@ -1,6 +1,6 @@
 characters={
-	PAP_gaetano_naeaooa={
-		name=PAP_gaetano_naeaooa
+	PAP_gaetano_salette={
+		name=PAP_gaetano_salette
 		portraits={
 			civilian={
 				large="gfx/leaders/Europe/Portrait_europe_generic_7.dds"

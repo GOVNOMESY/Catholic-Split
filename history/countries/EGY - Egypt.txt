@@ -244,7 +244,7 @@ recruit_character = EGY_khalid_ibn_hisham
 recruit_character = EGY_fuad_ibn_ishaq
 recruit_character = EGY_fawzi_ibn_fuad
 recruit_character = EGY_abd_al_rahman_al_shami
-recruit_character = EGY_ea0aaei_eai_oaeeeu
+recruit_character = EGY_ibrahim_ibn_khalil
 
 if = {
 	limit = {

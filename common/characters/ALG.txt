@@ -99,8 +99,8 @@ characters={
 		}
 	}
 
-	ALG_oaeea_aeu_oeeooe={
-		name=ALG_oaeea_aeu_oeeooe
+	ALG_alid_al_yiluhi={
+		name=ALG_alid_al_yiluhi
 		portraits={
 			civilian={
 				large="gfx/leaders/JOR/Portrait_Arabia_Generic_3.dds"

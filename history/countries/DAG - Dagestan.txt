@@ -48,7 +48,7 @@ add_ideas = {
 	culture_dummy
 }
 
-recruit_character = DAG_i._g.
+recruit_character = DAG_i_g
 
 if = {
 	limit = {

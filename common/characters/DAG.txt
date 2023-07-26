@@ -1,6 +1,6 @@
 characters={
-	DAG_i._g.={
-		name=DAG_i._g.
+	DAG_i_g={
+		name=DAG_i_g
 		portraits={
 			civilian={
 				large="GFX_Germany_Wilhelm_II"

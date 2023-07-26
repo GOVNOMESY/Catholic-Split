@@ -1,6 +1,6 @@
 characters={
-	INS_a0eoei_oaaaoe={
-		name=INS_a0eoei_oaaaoe
+	INS_arifin_tajul={
+		name=INS_arifin_tajul
 		portraits={
 			civilian={
 				large="GFX_Malaya_Iskander_I_Perak"

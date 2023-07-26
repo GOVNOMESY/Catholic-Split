@@ -228,7 +228,7 @@ recruit_character = BAY_gerhard_mergenthaler
 recruit_character = BAY_gebhard_von_hohenhausen
 recruit_character = BAY_ludwig_hummel
 recruit_character = BAY_maximilian_von_der_tann
-recruit_character = BAY_edmund_oii_a0oaa0iaii
+recruit_character = BAY_edmund_von_brudermann
 
 if = {
 	limit = {

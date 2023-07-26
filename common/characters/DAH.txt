@@ -1,6 +1,6 @@
 characters={
-	DAH_king_aaiiaei={
-		name=DAH_king_aaiiaei
+	DAH_king_agonglo={
+		name=DAH_king_agonglo
 		portraits={
 			civilian={
 				large="GFX_Burundi_Mwambutsa_Fourth"

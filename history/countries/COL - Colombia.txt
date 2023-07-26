@@ -171,7 +171,7 @@ add_ideas = {
 }
 
 recruit_character = COL_cirilo_santos
-recruit_character = COL_cirilo_oei0an
+recruit_character = COL_cirilo_flores
 
 if = {
 	limit = {

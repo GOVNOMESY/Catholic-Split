@@ -56,6 +56,7 @@ if = {
 
 set_country_flag = conv_italy
 set_convoys = 0
+create_faction = 6_CRUSADE_FACTION
 
 set_politics = {
     ruling_party = absolutist
@@ -118,7 +119,7 @@ add_ideas = {
 	culture_maltese
 }
 
-recruit_character = W39_aaeaio_mifsud
+recruit_character = W39_valent_mifsud
 
 if = {
 	limit = {

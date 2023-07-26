@@ -1,6 +1,6 @@
 characters={
-	GEO_aeae_aa0aeaaca={
-		name=GEO_aeae_aa0aeaaca
+	GEO_givi_barakadze={
+		name=GEO_givi_barakadze
 		portraits={
 			civilian={
 				large="gfx/leaders/Europe/Portrait_europe_generic_7.dds"

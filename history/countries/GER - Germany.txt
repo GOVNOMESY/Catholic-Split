@@ -169,7 +169,7 @@ recruit_character = GER_eduard_von_mecklenburg_strelitz
 recruit_character = GER_adolf_von_hindenburg
 recruit_character = GER_erich_von_sachsen_coburg_gotha
 recruit_character = GER_karl_von_fritsch
-recruit_character = GER_eiaoei_heppendorf
+recruit_character = GER_joachim_heppendorf
 
 if = {
 	limit = {

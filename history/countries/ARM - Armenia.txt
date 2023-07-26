@@ -55,7 +55,7 @@ add_ideas = {
 	culture_armenian
 }
 
-recruit_character = ARM_enaae_aeaeiyi
+recruit_character = ARM_isaac_aydinian
 
 if = {
 	limit = {

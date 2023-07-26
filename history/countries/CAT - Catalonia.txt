@@ -170,7 +170,7 @@ recruit_character = CAT_cassia_almirall
 recruit_character = CAT_carles_mompou
 recruit_character = CAT_xavier_despujol
 recruit_character = CAT_manel_verdaguer
-recruit_character = CAT_naeuaaai0_iaoea
+recruit_character = CAT_salvador_macia
 
 if = {
 	limit = {

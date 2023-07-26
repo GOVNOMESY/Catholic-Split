@@ -62,7 +62,7 @@ add_ideas = {
 	culture_javan
 }
 
-recruit_character = INS_a0eoei_oaaaoe
+recruit_character = INS_arifin_tajul
 
 if = {
 	limit = {

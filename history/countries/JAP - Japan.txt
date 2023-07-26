@@ -208,7 +208,7 @@ recruit_character = JAP_fukushima_iwao
 recruit_character = JAP_oimikado_masujiro
 recruit_character = JAP_kujo_taro
 recruit_character = JAP_makino_nariaki
-recruit_character = JAP_nioieeoe_soroku
+recruit_character = JAP_sotokichi_soroku
 
 if = {
 	limit = {

@@ -119,8 +119,8 @@ characters={
 		}
 	}
 
-	BAY_edmund_oii_a0oaa0iaii={
-		name=BAY_edmund_oii_a0oaa0iaii
+	BAY_edmund_von_brudermann={
+		name=BAY_edmund_von_brudermann
 		portraits={
 			civilian={
 				large="gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.dds"

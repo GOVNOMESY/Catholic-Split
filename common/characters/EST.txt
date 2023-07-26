@@ -99,8 +99,8 @@ characters={
 		}
 	}
 
-	EST_oaeii_eoia0e={
-		name=EST_oaeii_eoia0e
+	EST_heino_kumari={
+		name=EST_heino_kumari
 		portraits={
 			civilian={
 				large="gfx/leaders/FIN/Portrait_Finland_Kyosti_Kallio.dds"

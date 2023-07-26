@@ -198,7 +198,7 @@ recruit_character = BOS_sefer_belkic
 recruit_character = BOS_gazi_basgic
 recruit_character = BOS_mirsad_dizdar
 recruit_character = BOS_refik_tukcan
-recruit_character = BOS_yeuae0_e0ae0e0
+recruit_character = BOS_elvir_ljubicic
 
 if = {
 	limit = {

@@ -79,8 +79,8 @@ characters={
 		}
 	}
 
-	EGY_ea0aaei_eai_oaeeeu={
-		name=EGY_ea0aaei_eai_oaeeeu
+	EGY_ibrahim_ibn_khalil={
+		name=EGY_ibrahim_ibn_khalil
 		portraits={
 			civilian={
 				large="GFX_IRQ_maktoum"

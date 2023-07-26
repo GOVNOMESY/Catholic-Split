@@ -99,8 +99,8 @@ characters={
 		}
 	}
 
-	ADU_aania0_uriburu={
-		name=ADU_aania0_uriburu
+	ADU_gaspar_uriburu={
+		name=ADU_gaspar_uriburu
 		portraits={
 			civilian={
 				large="gfx/leaders/South America/Portrait_South_America_Generic_5.dds"

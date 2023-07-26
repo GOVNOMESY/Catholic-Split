@@ -188,7 +188,7 @@ recruit_character = DEN_jacob_leuenbach
 recruit_character = DEN_herman_bonde
 recruit_character = DEN_otto_obelitz
 recruit_character = DEN_thorvald_oxholm
-recruit_character = DEN_oe0ee_oii_aieuooaei
+recruit_character = DEN_ucrick_von_holstein
 
 if = {
 	limit = {

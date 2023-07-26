@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = SCA
+		owner = CAN
 		victory_points = {
 			7348 10 
 		}

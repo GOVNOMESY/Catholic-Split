@@ -99,8 +99,8 @@ characters={
 		}
 	}
 
-	AFG_king_oa0_aee={
-		name=AFG_king_oa0_aee
+	AFG_king_sher_ali={
+		name=AFG_king_sher_ali
 		portraits={
 			civilian={
 				large="gfx/leaders/AFG/Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"

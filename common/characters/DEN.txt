@@ -99,8 +99,8 @@ characters={
 		}
 	}
 
-	DEN_oe0ee_oii_aieuooaei={
-		name=DEN_oe0ee_oii_aieuooaei
+	DEN_ucrick_von_holstein={
+		name=DEN_ucrick_von_holstein
 		portraits={
 			civilian={
 				large="gfx/leaders/NOR/Portrait_Norway_Johan_Nygaardsvold.dds"

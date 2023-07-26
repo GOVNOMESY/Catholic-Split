@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = MEX
+		owner = CAN
 		victory_points = {
 			1799 10 
 		}
@@ -23,6 +23,7 @@ state={
 
 		}
 		add_core_of = W03
+		add_core_of = CAN
 	}
 
 	provinces={

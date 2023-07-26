@@ -160,7 +160,7 @@ recruit_character = EST_lennart_hint
 recruit_character = EST_pent_reinman
 recruit_character = EST_aleksander_nurmekund
 recruit_character = EST_haman_klaasen
-recruit_character = EST_oaeii_eoia0e
+recruit_character = EST_heino_kumari
 
 if = {
 	limit = {

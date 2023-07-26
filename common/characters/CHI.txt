@@ -1,6 +1,6 @@
 characters={
-	CHI_iei0ao_linge={
-		name=CHI_iei0ao_linge
+	CHI_minzhu_linge={
+		name=CHI_minzhu_linge
 		portraits={
 			civilian={
 				large="gfx/leaders/MAN/Portrait_Manchuria_Henry_Pu_Yi.dds"

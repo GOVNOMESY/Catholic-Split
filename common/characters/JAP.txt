@@ -99,8 +99,8 @@ characters={
 		}
 	}
 
-	JAP_nioieeoe_soroku={
-		name=JAP_nioieeoe_soroku
+	JAP_sotokichi_soroku={
+		name=JAP_sotokichi_soroku
 		portraits={
 			civilian={
 				large="gfx/leaders/JAP/Portrait_Japan_Hirohito.dds"

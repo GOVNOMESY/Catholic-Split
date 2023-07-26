@@ -151,7 +151,7 @@ recruit_character = ALG_mustafa_belkadi
 recruit_character = ALG_khalid_al_jazuli
 recruit_character = ALG_muhammad_al_jazuli
 recruit_character = ALG_muhammad_al_zanatawi
-recruit_character = ALG_oaeea_aeu_oeeooe
+recruit_character = ALG_alid_al_yiluhi
 
 if = {
 	limit = {

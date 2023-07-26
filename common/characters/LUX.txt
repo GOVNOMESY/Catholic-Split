@@ -1,6 +1,6 @@
 characters={
-	LUX_leonhard_a0iiie={
-		name=LUX_leonhard_a0iiie
+	LUX_leonhard_brommie={
+		name=LUX_leonhard_brommie
 		portraits={
 			civilian={
 				large="GFX_Germany_Wilhelm_III"

@@ -1,6 +1,6 @@
 characters={
-	HAW_ooiio_iaaeaoa={
-		name=HAW_ooiio_iaaeaoa
+	HAW_tupou_maekafa={
+		name=HAW_tupou_maekafa
 		portraits={
 			civilian={
 				large="GFX_Indonesia_Hamengkubuwono_IX"

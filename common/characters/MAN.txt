@@ -79,8 +79,8 @@ characters={
 		}
 	}
 
-	MAN_0aieeiu_oaiye={
-		name=MAN_0aieeiu_oaiye
+	MAN_changlin_temei={
+		name=MAN_changlin_temei
 		portraits={
 			civilian={
 				large="gfx/leaders/MAN/portrait_man_aisin_gioro_xiqia.dds"

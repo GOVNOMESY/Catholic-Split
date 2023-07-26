@@ -99,8 +99,8 @@ characters={
 		}
 	}
 
-	CSA_iyeaei_bragg={
-		name=CSA_iyeaei_bragg
+	CSA_melvin_bragg={
+		name=CSA_melvin_bragg
 		portraits={
 			civilian={
 				large="gfx/leaders/DEN/Portrait_Denmark_Erik_Scavenius.dds"

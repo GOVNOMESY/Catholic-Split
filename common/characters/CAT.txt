@@ -99,8 +99,8 @@ characters={
 		}
 	}
 
-	CAT_naeuaaai0_iaoea={
-		name=CAT_naeuaaai0_iaoea
+	CAT_salvador_macia={
+		name=CAT_salvador_macia
 		portraits={
 			civilian={
 				large="gfx/leaders/BRA/Portrait_Brazil_Plinio_Salgado.dds"

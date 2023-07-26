@@ -19,8 +19,8 @@ characters={
 		}
 	}
 
-	COL_cirilo_oei0an={
-		name=COL_cirilo_oei0an
+	COL_cirilo_flores={
+		name=COL_cirilo_flores
 		portraits={
 			civilian={
 				large="gfx/leaders/COL/portrait_col_alfonso_lopez_pumarejo.dds"

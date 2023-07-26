@@ -66,7 +66,7 @@ add_ideas = {
 	culture_fon
 }
 
-recruit_character = DAH_king_aaiiaei
+recruit_character = DAH_king_agonglo
 
 if = {
 	limit = {

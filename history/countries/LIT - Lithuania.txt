@@ -58,7 +58,7 @@ add_ideas = {
 	culture_lithuanian
 }
 
-recruit_character = LIT_paulius_aaa0eiian
+recruit_character = LIT_paulius_dvarionas
 
 if = {
 	limit = {

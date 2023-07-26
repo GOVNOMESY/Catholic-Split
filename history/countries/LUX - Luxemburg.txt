@@ -60,7 +60,7 @@ add_ideas = {
 	culture_north_german
 }
 
-recruit_character = LUX_leonhard_a0iiie
+recruit_character = LUX_leonhard_brommie
 
 if = {
 	limit = {

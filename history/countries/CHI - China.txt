@@ -67,7 +67,7 @@ add_ideas = {
 	culture_manchu
 }
 
-recruit_character = CHI_iei0ao_linge
+recruit_character = CHI_minzhu_linge
 
 if = {
 	limit = {

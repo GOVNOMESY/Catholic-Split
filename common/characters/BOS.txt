@@ -79,8 +79,8 @@ characters={
 		}
 	}
 
-	BOS_yeuae0_e0ae0e0={
-		name=BOS_yeuae0_e0ae0e0
+	BOS_elvir_ljubicic={
+		name=BOS_elvir_ljubicic
 		portraits={
 			civilian={
 				large="gfx/leaders/BUL/Portrait_Bulgaria_Georgi_Dimitrov.dds"

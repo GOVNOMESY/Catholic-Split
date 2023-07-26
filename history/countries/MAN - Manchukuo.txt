@@ -135,7 +135,7 @@ recruit_character = MAN_sonin_linge
 recruit_character = MAN_suksaha_shangzhi
 recruit_character = MAN_sonin_tiemei
 recruit_character = MAN_sonin_xingde
-recruit_character = MAN_0aieeiu_oaiye
+recruit_character = MAN_changlin_temei
 
 if = {
 	limit = {

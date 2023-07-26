@@ -57,7 +57,7 @@ add_ideas = {
 	culture_greek
 }
 
-recruit_character = GRE_king_ceiiaein
+recruit_character = GRE_king_zinovios
 
 if = {
 	limit = {

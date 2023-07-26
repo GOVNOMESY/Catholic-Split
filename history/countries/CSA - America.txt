@@ -208,7 +208,7 @@ recruit_character = CSA_isaac_walker
 recruit_character = CSA_charles_loring
 recruit_character = CSA_leslie_lane
 recruit_character = CSA_alfred_kemper
-recruit_character = CSA_iyeaei_bragg
+recruit_character = CSA_melvin_bragg
 
 if = {
 	limit = {

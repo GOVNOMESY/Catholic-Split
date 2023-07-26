@@ -1,6 +1,6 @@
 characters={
-	FIJ_nyi0aeu_aaioaa={
-		name=FIJ_nyi0aeu_aaioaa
+	FIJ_samuel_banuwe={
+		name=FIJ_samuel_banuwe
 		portraits={
 			civilian={
 				large="GFX_SOM_Ali_Shire"

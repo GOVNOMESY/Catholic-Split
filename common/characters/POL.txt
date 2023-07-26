@@ -19,8 +19,8 @@ characters={
 		}
 	}
 
-	POL_0eia_klicki={
-		name=POL_0eia_klicki
+	POL_jacob_klicki={
+		name=POL_jacob_klicki
 		portraits={
 			civilian={
 				large="GFX_Lithuania_Mindaugas_III"

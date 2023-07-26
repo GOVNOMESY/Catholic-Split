@@ -215,7 +215,7 @@ recruit_character = ADU_juan_ramon_maza
 recruit_character = ADU_ramon_de_urquiza
 recruit_character = ADU_marcial_pedernera
 recruit_character = ADU_guillermo_escobar
-recruit_character = ADU_aania0_uriburu
+recruit_character = ADU_gaspar_uriburu
 
 if = {
 	limit = {

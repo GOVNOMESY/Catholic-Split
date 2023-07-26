@@ -67,7 +67,7 @@ add_ideas = {
 	culture_melanesian
 }
 
-recruit_character = FIJ_nyi0aeu_aaioaa
+recruit_character = FIJ_samuel_banuwe
 
 if = {
 	limit = {

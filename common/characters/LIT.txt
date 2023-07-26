@@ -1,6 +1,6 @@
 characters={
-	LIT_paulius_aaa0eiian={
-		name=LIT_paulius_aaa0eiian
+	LIT_paulius_dvarionas={
+		name=LIT_paulius_dvarionas
 		portraits={
 			civilian={
 				large="GFX_WHR_Sigismund_I"

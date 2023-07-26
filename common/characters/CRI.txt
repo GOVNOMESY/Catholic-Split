@@ -1,6 +1,6 @@
 characters={
-	CRI_anao_khusainov={
-		name=CRI_anao_khusainov
+	CRI_aza_khusainov={
+		name=CRI_aza_khusainov
 		portraits={
 			civilian={
 				large="GFX_Ottoman_Abdulmecid"

@@ -1,6 +1,6 @@
 characters={
-	ARM_enaae_aeaeiyi={
-		name=ARM_enaae_aeaeiyi
+	ARM_isaac_aydinian={
+		name=ARM_isaac_aydinian
 		portraits={
 			civilian={
 				large="gfx/leaders/ITA/Portrait_Italy_Vittorio_Emanuele_III.dds"

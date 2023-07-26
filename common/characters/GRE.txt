@@ -1,6 +1,6 @@
 characters={
-	GRE_king_ceiiaein={
-		name=GRE_king_ceiiaein
+	GRE_king_zinovios={
+		name=GRE_king_zinovios
 		portraits={
 			civilian={
 				large="gfx/leaders/ITA/Portrait_Italy_Vittorio_Emanuele_III.dds"
